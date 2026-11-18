@@ -18,12 +18,12 @@ Cada guía es un archivo `guias/<slug>.json`. La web (levantehub.es) los lee y l
     {"type":"list","items":["..."]},
     {"type":"checklist","items":["..."]},
     {"type":"tip","text":"..."},
-    {"type":"answer","text":"..."}
+    {"type":"answer","question":"...","text":"..."}
   ],
   "faq": [{"q":"...","a":"..."}]
 }
 ```
-(Ajustar a los tipos reales de `src/content/types.ts` si difieren.)
+Opcionales: `related` (slugs de otras guías), `updated`, `ads` (por defecto true). `list` admite `"ordered": true`; `checklist` y `tip` admiten `"title"`. El cargador exige: slug válido, title, description, intro, department, date y al menos 3 bloques válidos; si algo falla, la guía se ignora.
 
 ## Método de investigación diaria
 1. Buscar qué preguntan negocios locales de Valencia/España sobre ficha de Google, SEO local, web y medición.
