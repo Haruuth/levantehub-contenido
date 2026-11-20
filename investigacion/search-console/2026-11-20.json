@@ -1,0 +1,17 @@
+{
+  "fuente": "Search Console (levantehub.es) - captura del dueño, Rendimiento, últimas 24 horas (19/11 9:00 a 20/11 8:00), tipo Web",
+  "totales": {"clics": 0, "impresiones": 35, "ctr_pct": 0, "posicion_media": 58.6},
+  "nota": "Primeras impresiones del sitio. Solo se ven 10 de 18 consultas. 0 clics todavía (posición media baja, normal en sitio nuevo).",
+  "consultas": [
+    {"q": "alta en google maps valencia", "clics": 0, "impresiones": 4},
+    {"q": "alta en google my business valencia", "clics": 0, "impresiones": 3},
+    {"q": "perfil de empresa google asturias", "clics": 0, "impresiones": 2},
+    {"q": "verificar negocio google", "clics": 0, "impresiones": 2},
+    {"q": "google business profile empresas", "clics": 0, "impresiones": 1},
+    {"q": "servicio de google business profile", "clics": 0, "impresiones": 1},
+    {"q": "como verificar google my business", "clics": 0, "impresiones": 1},
+    {"q": "mi web no aparece en google", "clics": 0, "impresiones": 1},
+    {"q": "por qué tu web no aparece en google", "clics": 0, "impresiones": 1},
+    {"q": "seo local valencia", "clics": 0, "impresiones": 1}
+  ]
+}
