@@ -1,0 +1,24 @@
+{
+  "slug": "search-console-herramienta-gratuita-para-tu-web",
+  "tipo": "recomendacion",
+  "title": "Search Console: la herramienta gratuita de Google que todo negocio con web debería usar",
+  "description": "Qué es Search Console, qué te enseña y las tres cosas que puedes mirar en cinco minutos para saber cómo te encuentra Google.",
+  "date": "2026-11-21",
+  "answer": "Search Console es un servicio gratuito de Google que te dice si tu web se puede rastrear e indexar y con qué búsquedas aparece.",
+  "body": [
+    "Search Console es un servicio gratuito de Google que ayuda a supervisar y solucionar problemas de aparición de tu web en la Búsqueda de Google. No es obligatorio para salir en los resultados, pero sin ella trabajas a ciegas.",
+    "Con ella puedes comprobar que Google encuentra y rastrea tu web, solucionar problemas de indexación y pedir que se indexe contenido nuevo o actualizado, ver con qué frecuencia aparece tu sitio, con qué consultas y cuántas veces hacen clic, y recibir avisos de problemas técnicos o de seguridad.",
+    "Tres cosas que mirar en cinco minutos: primero, las consultas con las que ya apareces (a veces sorprenden: pueden ser distintas de las que imaginabas); segundo, las páginas que reciben impresiones pero casi ningún clic, porque ahí un título o una descripción mejor puede ayudar; y tercero, los avisos de indexación, por si alguna página importante no está entrando en Google.",
+    "Un negocio nuevo verá pocas cifras al principio: muchas impresiones con cero clics y posiciones bajas es lo normal las primeras semanas. Lo importante es la tendencia, no el número de un día.",
+    "Por qué la recomendamos: es de Google, gratuita y muestra datos reales de tu web, no estimaciones. En LevanteHUB la usamos cada semana para decidir qué contenido publicar."
+  ],
+  "source": {
+    "name": "Ayuda de Search Console (Google)",
+    "url": "https://support.google.com/webmasters/answer/9128668?hl=es"
+  },
+  "tags": [
+    "search console",
+    "medición",
+    "herramientas"
+  ]
+}

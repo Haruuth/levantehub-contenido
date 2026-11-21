@@ -1,0 +1,24 @@
+{
+  "slug": "pagespeed-insights-comprobar-velocidad-web",
+  "tipo": "recomendacion",
+  "title": "PageSpeed Insights: comprueba en un minuto si tu web va rápida en el móvil",
+  "description": "Qué mide PageSpeed Insights, qué significan LCP, INP y CLS y qué cifras marca Google como buenas.",
+  "date": "2026-11-21",
+  "answer": "PageSpeed Insights analiza una página en móvil y ordenador y te dice, con datos reales de usuarios y de laboratorio, qué mejorar.",
+  "body": [
+    "PageSpeed Insights es una herramienta de Google que informa de la experiencia de usuario de una página en móvil y en ordenador y sugiere cómo mejorarla. Solo tienes que pegar la dirección de tu web.",
+    "Combina dos tipos de datos. Los datos de campo vienen de usuarios reales de Chrome durante los últimos 28 días (si tu web tiene poco tráfico, puede que no haya suficientes y te muestre el conjunto del sitio). Los datos de laboratorio son una carga simulada de la página con Lighthouse, que puntúa rendimiento, accesibilidad, buenas prácticas y SEO: 90 o más es bueno, de 50 a 89 mejorable y menos de 50 malo.",
+    "Las tres métricas que Google llama Core Web Vitals son LCP (lo que tarda en aparecer el contenido principal), INP (lo que tarda la página en responder cuando tocas algo) y CLS (cuánto se mueve el contenido mientras carga). Se consideran buenas con LCP de 2,5 segundos o menos, INP de 200 milisegundos o menos y CLS de 0,1 o menos.",
+    "Cómo usarla: prueba tu portada y tu página de servicio principal, empieza por la pestaña de móvil (es donde más buscan los clientes locales) y arregla primero lo que más pesa, normalmente imágenes demasiado grandes.",
+    "Por qué la recomendamos: es de Google, rápida de usar y te da un punto de partida objetivo antes de gastar dinero en cambiar tu web."
+  ],
+  "source": {
+    "name": "Documentación de PageSpeed Insights (Google)",
+    "url": "https://developers.google.com/speed/docs/insights/v5/about"
+  },
+  "tags": [
+    "velocidad",
+    "core web vitals",
+    "herramientas"
+  ]
+}

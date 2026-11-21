@@ -1,0 +1,24 @@
+{
+  "slug": "actualizacion-principal-google-noviembre-2026",
+  "tipo": "novedad",
+  "title": "Google lanza su actualización principal de noviembre de 2026: qué debe hacer un negocio local",
+  "description": "Google empezó el 10 de noviembre un cambio general de su buscador que puede mover posiciones durante unas dos semanas. Qué es y qué conviene (y qué no) hacer.",
+  "date": "2026-11-21",
+  "answer": "Es un cambio general del buscador de Google, no un castigo a ninguna web: empezó el 10 de noviembre de 2026 y puede tardar hasta dos semanas en completarse.",
+  "body": [
+    "El 10 de noviembre de 2026 Google confirmó que empezaba una actualización principal de su buscador (en inglés, «core update»). Según el propio anuncio de Google, se aplica en todo el mundo y en todos los idiomas, y puede tardar hasta dos semanas en completarse.",
+    "Google la describe como una actualización regular pensada para mostrar mejor contenido relevante y útil para quien busca, de todo tipo de webs. No señala a una página ni a un negocio concreto: cambia cómo se valoran muchas páginas a la vez. Por eso, durante estos días es normal ver subidas y bajadas de posición sin que tú hayas hecho nada.",
+    "Qué te conviene hacer: no entrar en pánico y no rehacer tu web a toda prisa mientras dura el despliegue. Cuando termine, espera una semana y compara en Search Console las visitas y las consultas con la semana anterior al 10 de noviembre. Solo si ves una bajada grande y sostenida tiene sentido revisar qué páginas se han visto afectadas y mejorar su contenido.",
+    "Qué ayuda siempre, con o sin actualización: páginas que respondan de verdad a lo que pregunta tu cliente, información clara de tu negocio (dirección, horarios, servicios) y una ficha de Google Business Profile completa y al día. Este consejo práctico es nuestro, no una instrucción de Google.",
+    "Si quieres entender cómo medir estos cambios, tienes la guía para usar Search Console y Analytics en la Academia de LevanteHUB."
+  ],
+  "source": {
+    "name": "Search Engine Roundtable: Google November 2026 core update",
+    "url": "https://www.seroundtable.com/google-november-2026-core-update-42504.html"
+  },
+  "tags": [
+    "google",
+    "actualización",
+    "seo local"
+  ]
+}
