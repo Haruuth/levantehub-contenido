@@ -1,0 +1,16 @@
+{
+  "fuente": "Search Console (levantehub.es) - captura del dueño, Rendimiento, últimos 3 meses, tipo Web, actualizado hace 3,5 h (21/11 ~14:03)",
+  "totales": {"clics": 0, "impresiones": null, "ctr_pct": 0, "posicion_media": null},
+  "nota": "Captura parcial: solo se ven 10 consultas, sin totales ni posición. 0 clics en todas. Cifras muy pequeñas: sirven para ver qué temas asocia Google al sitio, no para medir resultados. La guía de publicaciones Black Friday (21/11) ya figuraba como indexada en Inspección de URLs sin solicitarlo.",
+  "consultas": [
+    {"q": "seo levante", "clics": 0, "impresiones": 5},
+    {"q": "alta en google maps valencia", "clics": 0, "impresiones": 4},
+    {"q": "perfil de empresa google asturias", "clics": 0, "impresiones": 3},
+    {"q": "como verificar mi negocio en google", "clics": 0, "impresiones": 3},
+    {"q": "alta en google my business valencia", "clics": 0, "impresiones": 3},
+    {"q": "como verificar google my business", "clics": 0, "impresiones": 2},
+    {"q": "verificar negocio google", "clics": 0, "impresiones": 2},
+    {"q": "google business profile empresas", "clics": 0, "impresiones": 1},
+    {"q": "servicio de google business profile", "clics": 0, "impresiones": 1}
+  ]
+}
