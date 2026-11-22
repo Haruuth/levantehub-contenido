@@ -1,12 +1,91 @@
 {
   "generado": "2026-11-22",
-  "metodo": "Google Trends (ES, 12 meses, interés relativo, vía Supermetrics) + análisis de SERP y competidores. Ver investigacion/keywords/2026-11-22.md. Las novedades/recomendaciones sin slug se investigan el día anterior.",
+  "semana": "2026-11-23 a 2026-11-29",
+  "personaje_semana": "Lumen (azul)",
+  "reparto": {"tutorial": 2, "guia": 2, "novedad": 1, "recomendacion": 1, "novedad_condicional": 1},
+  "reparto_motivo": "Reparto por defecto (2 tutoriales, 2 guías, 2 novedades, 1 recomendación). Aún no hay visitas ni leads que justifiquen subir tutoriales (la web tiene 4 visitas en total). Solo hay UNA novedad confirmada con fuente oficial; la segunda novedad (domingo 29) es condicional y, si no se confirma el sábado, se sustituye por la guía de reserva indicada.",
+  "metodo": "Search Console en vivo (Windsor.ai, hasta 20-nov) + investigacion/keywords/2026-11-22.md + búsqueda web de novedades. Los temas de reseñas tienen detrás unas 12 consultas reales con impresiones. Las rutas oficiales de ayuda de Google deben verificarse el día anterior a publicar.",
   "temas": [
-    {"fecha_objetivo": "2026-11-23", "tipo": "tutorial", "department": "google-business", "slug": "pedir-resenas-google-enlace-qr-oficial-sin-incentivos", "tema": "Cómo pedir reseñas en Google con el enlace y el QR oficial de tu ficha, sin incentivos prohibidos (paso a paso, móvil y ordenador, plantillas de mensaje, ejemplos de Valencia)", "por_que": "«reseñas google» es la consulta con más interés relativo del nicho (100 frente a 21-35 de «google my business» y 10-23 de «seo local»); «tarjeta nfc reseñas google» y «cómo poner reseñas en google» aparecen como relacionadas; los competidores no enlazan el QR oficial y alguno recomienda incentivos que Google prohíbe. Verificar en support.google.com/business/answer/16816815 y /3474122."},
-    {"fecha_objetivo": "2026-11-24", "tipo": "novedad", "tema": "Novedad reciente y confirmada por 2 fuentes (mejor oficial de Google) sobre Perfil de Empresa, reseñas o Search Console. Investigar el 23-nov."},
-    {"fecha_objetivo": "2026-11-25", "tipo": "tutorial", "department": "google-business", "slug": "ver-y-responder-resenas-google-movil-ordenador", "tema": "Cómo ver, responder y gestionar tus reseñas de Google desde móvil y ordenador, con reseñas que faltan o se retrasan, denuncia de falsas y plantillas de respuesta", "por_que": "«ver reseñas google» (15), «mis reseñas» (17) y «reseñas google maps» (31) son consultas relacionadas de «reseñas google»; Metricool (2021) y Arsys no dan rutas verificadas. Verificar en support.google.com/business/answer/3474050, /4596773, /10313341."},
-    {"fecha_objetivo": "2026-11-26", "tipo": "guia", "department": "google-business", "slug": "google-my-business-o-google-business-profile-que-es-y-como-entrar", "tema": "Qué es Google My Business hoy (Perfil de Empresa en Google/Google Business Profile), cómo entrar, la app y errores de acceso", "por_que": "«google my business» aún mueve interés (21-35) y sus relacionadas son «google business profile», «mi empresa», «app», «login» y «qué es google my business»."},
-    {"fecha_objetivo": "2026-11-27", "tipo": "recomendacion", "tema": "Herramienta o práctica real verificada en documentación oficial para pedir o gestionar reseñas o medir la ficha. Investigar el 26-nov."},
-    {"fecha_objetivo": "2026-11-28", "tipo": "guia", "department": "google-business", "slug": "comprar-resenas-google-riesgos-y-alternativas", "tema": "Por qué no comprar reseñas de Google: qué dice la política oficial, riesgos y alternativas legítimas para conseguir más", "por_que": "«comprar reseñas google» aparece como consulta relacionada (6) y Arsys lo trata sin citar fuente oficial."}
+    {
+      "fecha": "2026-11-23", "tipo": "tutorial", "departamento": "google-business", "personaje": "Lumen",
+      "slug_sugerido": "pedir-resenas-google-enlace-qr-oficial-sin-incentivos",
+      "tema": "Cómo pedir reseñas en Google con el enlace y el QR oficial de tu ficha, sin incentivos prohibidos (móvil y ordenador, plantillas de mensaje, ejemplos de Valencia)",
+      "por_que_ahora": "'reseñas google' es la consulta con más interés relativo del nicho (ver keywords/2026-11-22.md). Google tiene página de ayuda propia para pedir reseñas con enlace o QR y avisa de que los incentivos están prohibidos. Black Friday y Navidad son temporada de reseñas.",
+      "consulta_search_console": "Refuerza el grupo de reseñas (unas 12 consultas, ~15 impresiones) y lleva tráfico a /google-business (19 impresiones, 1 clic)",
+      "fuentes": ["https://support.google.com/business/answer/16816815", "https://www.seroundtable.com/google-help-page-request-reviews-40677.html"],
+      "gancho_reel": "¿Quieres más reseñas? Tu ficha tiene un enlace mágico y un QR: te lo enseño en 40 segundos.",
+      "formato_sugerido": "tutorial"
+    },
+    {
+      "fecha": "2026-11-24", "tipo": "novedad", "departamento": "radar", "personaje": "Lumen",
+      "slug_sugerido": "google-maps-boton-mensaje-junto-a-llamar",
+      "tema": "Google Maps muestra un botón 'Mensaje' junto a 'Llamar' en las fichas (lleva a WhatsApp o SMS) y otras mejoras del boletín de pequeños negocios de noviembre",
+      "por_que_ahora": "Boletín de Google para pequeños negocios del 5-nov-2026 (cubierto por prensa el 7-nov). IMPORTANTE: el boletín no indica en qué países está disponible; antes de publicar, comprobar si aplica a España y redactarlo con prudencia ('Google empieza a mostrar…').",
+      "consulta_search_console": "Sin consulta directa; encaja con 'google business profile empresas' y 'servicio de google business profile' (1 impresión cada una)",
+      "fuentes": ["https://support.google.com/business/thread/476642299?hl=en", "https://www.relevantaudience.com/seo/google-maps-message-button-business-profile-bulletin-november-2026/"],
+      "gancho_reel": "Google Maps estrena un botón para escribir al negocio en vez de llamar. ¿Tu ficha está preparada?",
+      "formato_sugerido": "explicacion"
+    },
+    {
+      "fecha": "2026-11-25", "tipo": "tutorial", "departamento": "google-business", "personaje": "Lumen",
+      "slug_sugerido": "ver-y-responder-resenas-google-movil-ordenador",
+      "tema": "Cómo ver, responder y gestionar tus reseñas de Google desde móvil y ordenador, con reseñas que tardan en salir, denuncia de falsas y plantillas de respuesta",
+      "por_que_ahora": "Es el grupo de consultas más variado en Search Console y la guía actual de reseñas negativas ya tiene 15 impresiones sin clics: un tutorial paso a paso con enlace interno la empuja.",
+      "consulta_search_console": "'como responder a las reseñas negativas de google', 'reseñas negativas en google my business', '¿cuál es la mejor forma de contestar reseñas negativas en google?' (pos 46), 'reseñas falsas google'",
+      "fuentes": ["https://support.google.com/business/answer/3474050", "https://support.google.com/business/answer/4596773", "https://support.google.com/business/answer/10313341"],
+      "gancho_reel": "Te han puesto una reseña mala. Respira: te cuento qué hacer en 3 pasos.",
+      "formato_sugerido": "tutorial",
+      "nota": "Rutas de ayuda tomadas de la investigación de keywords; verificar cada una antes de escribir."
+    },
+    {
+      "fecha": "2026-11-26", "tipo": "guia", "departamento": "google-business", "personaje": "Lumen",
+      "slug_sugerido": "google-my-business-o-google-business-profile-que-es-y-como-entrar",
+      "tema": "Qué es Google My Business hoy (Perfil de Empresa en Google / Google Business Profile), cómo entrar, la app y errores de acceso",
+      "por_que_ahora": "La gente sigue buscando con el nombre antiguo. En Search Console aparecen 'alta en google my business valencia' (7 impresiones), 'como verificar google my business' y 'google mi negocio verificar'.",
+      "consulta_search_console": "'alta en google my business valencia' (7 impr, pos 73), 'verificar google my business' (2), 'google business profile empresas' (1)",
+      "fuentes": ["https://support.google.com/business/answer/3039617"],
+      "gancho_reel": "¿Google My Business sigue existiendo? Te explico el cambio de nombre en 30 segundos.",
+      "formato_sugerido": "pregunta"
+    },
+    {
+      "fecha": "2026-11-27", "tipo": "recomendacion", "departamento": "radar", "personaje": "Lumen",
+      "slug_sugerido": "revisa-informacion-recopilada-ficha-google",
+      "tema": "Práctica recomendada: revisar en tu ficha la pestaña 'Información recopilada' (Collected info), con los datos que Google obtiene de llamadas automáticas al negocio, y corregir o borrar lo erróneo",
+      "por_que_ahora": "Función confirmada por @GoogleMyBiz el 14-sep-2026 según Search Engine Roundtable. Comprobar el nombre exacto en español y si ya se ve en España leyendo la ayuda oficial el 26-nov.",
+      "consulta_search_console": "Sin consulta directa; apoya 'ficha de google suspendida' y 'horario ficha google' (datos incorrectos en la ficha)",
+      "fuentes": ["https://support.google.com/business/answer/3039617?hl=en", "https://www.seroundtable.com/google-business-profiles-new-collected-info-41672.html"],
+      "gancho_reel": "Google llama a tu negocio sin que lo sepas y apunta datos. Mira si son correctos.",
+      "formato_sugerido": "explicacion"
+    },
+    {
+      "fecha": "2026-11-28", "tipo": "guia", "departamento": "google-business", "personaje": "Lumen",
+      "slug_sugerido": "comprar-resenas-google-riesgos-y-alternativas",
+      "tema": "Por qué no comprar reseñas de Google: qué dice la política oficial, riesgos y alternativas legítimas",
+      "por_que_ahora": "Cierra la semana de reseñas y enlaza con las otras tres piezas. 'comprar reseñas google' aparece entre las consultas relacionadas (keywords/2026-11-22.md) y hay consultas reales sobre 'reseñas falsas google'.",
+      "consulta_search_console": "'reseñas falsas google' (1 impr, pos 82) y el grupo de reseñas negativas",
+      "fuentes": ["https://support.google.com/business/answer/16816815"],
+      "gancho_reel": "Comprar reseñas parece un atajo, pero Google las borra. Te cuento qué hacer en su lugar.",
+      "formato_sugerido": "pregunta",
+      "nota": "Falta citar la política oficial de contenido de reseñas (localizar la URL exacta el 27-nov)."
+    },
+    {
+      "fecha": "2026-11-29", "tipo": "novedad", "departamento": "radar", "personaje": "Lumen",
+      "slug_sugerido": "novedad-pendiente-confirmar-29-nov",
+      "tema": "NOVEDAD CONDICIONAL: solo se publica si el sábado 28-nov hay una noticia real confirmada por 2 fuentes (mejor oficial de Google). A vigilar: cambios del paquete local en respuestas de IA de Google y enlaces de reserva automáticos en fichas (hoy solo en una fuente de segunda mano, NO confirmados)",
+      "por_que_ahora": "Aún no hay segunda novedad confirmada. Regla: sin noticia verificada se sustituye por la guía de reserva.",
+      "consulta_search_console": "Reserva: 'horario ficha google' (4 impr, pos 51)",
+      "fuentes": [],
+      "gancho_reel": "Pendiente de la noticia confirmada.",
+      "formato_sugerido": "explicacion",
+      "sustituto_si_no_hay_noticia": {
+        "tipo": "guia", "departamento": "google-business",
+        "slug_sugerido": "como-poner-y-cambiar-horario-ficha-google-negocio",
+        "tema": "Cómo poner y cambiar el horario normal de tu ficha de Google, con dos turnos y descanso, y cómo enlazarlo con los horarios especiales",
+        "consulta_search_console": "'horario ficha google' (4 impr, pos 51) y 'horario ficha de google' (1)",
+        "fuentes": ["https://support.google.com/business/answer/3039617"],
+        "gancho_reel": "Tu horario en Google está mal y pierdes clientes: así se arregla en 1 minuto.",
+        "formato_sugerido": "explicacion"
+      }
+    }
   ]
 }

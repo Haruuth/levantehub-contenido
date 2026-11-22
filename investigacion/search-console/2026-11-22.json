@@ -1,0 +1,58 @@
+{
+  "fuente": "Search Console (levantehub.es, sc-domain:levantehub.es) vía Windsor.ai (conector searchconsole). Datos consolidados hasta 20-nov-2026 (21 y 22-nov aún no disponibles)",
+  "generado": "2026-11-22",
+  "semana_anterior": "sin datos (la propiedad solo muestra datos desde el 17-nov)",
+  "totales_7d": {"clics": 1, "impresiones": 99, "ctr_pct": 1.0, "posicion_media_aprox": 56.3},
+  "diario": [
+    {"fecha": "2026-11-17", "clics": 0, "impresiones": 0},
+    {"fecha": "2026-11-18", "clics": 1, "impresiones": 12, "posicion": 39.7},
+    {"fecha": "2026-11-19", "clics": 0, "impresiones": 35, "posicion": 58.6},
+    {"fecha": "2026-11-20", "clics": 0, "impresiones": 52, "posicion": 58.5}
+  ],
+  "consultas": [
+    {"q": "alta en google my business valencia", "clics": 0, "impr": 7, "pos": 73.1},
+    {"q": "alta en google maps valencia", "clics": 0, "impr": 6, "pos": 77.7},
+    {"q": "seo levante", "clics": 0, "impr": 5, "pos": 59.2},
+    {"q": "horario ficha google", "clics": 0, "impr": 4, "pos": 51},
+    {"q": "mi web no aparece en google", "clics": 0, "impr": 4, "pos": 72.8},
+    {"q": "perfil de empresa google asturias", "clics": 0, "impr": 4, "pos": 66},
+    {"q": "como verificar mi negocio en google", "clics": 0, "impr": 3, "pos": 70.3},
+    {"q": "como verificar google my business", "clics": 0, "impr": 2, "pos": 53},
+    {"q": "verificar negocio google", "clics": 0, "impr": 2, "pos": 70},
+    {"q": "verificar google my business", "clics": 0, "impr": 2, "pos": 66},
+    {"q": "ficha de google suspendida", "clics": 0, "impr": 2, "pos": 72.5},
+    {"q": "como responder a las reseñas negativas de google", "clics": 0, "impr": 2, "pos": 78},
+    {"q": "reseñas negativas en google my business", "clics": 0, "impr": 2, "pos": 86},
+    {"q": "reseña negativa", "clics": 0, "impr": 2, "pos": 80},
+    {"q": "posicionamiento en google gratis", "clics": 0, "impr": 2, "pos": 81},
+    {"q": "seo local valencia", "clics": 0, "impr": 1, "pos": 60},
+    {"q": "¿cuál es la mejor forma de contestar reseñas negativas en google?", "clics": 0, "impr": 1, "pos": 46},
+    {"q": "google business profile empresas", "clics": 0, "impr": 1, "pos": 43},
+    {"q": "servicio de google business profile", "clics": 0, "impr": 1, "pos": 48},
+    {"q": "cómo controlar si apareces en chatgpt", "clics": 0, "impr": 1, "pos": 84},
+    {"q": "local guides google", "clics": 0, "impr": 1, "pos": 66},
+    {"q": "reseñas falsas google", "clics": 0, "impr": 1, "pos": 82}
+  ],
+  "consultas_nota": "43 consultas en total; arriba las 22 con más impresiones o más relevantes. Todas con 0 clics. Unas 12 consultas distintas sobre reseñas negativas suman unas 15 impresiones.",
+  "paginas": [
+    {"pagina": "/google-business", "clics": 1, "impr": 19, "pos": 52.5},
+    {"pagina": "/academia", "clics": 1, "impr": 8, "pos": 23},
+    {"pagina": "/guias", "clics": 0, "impr": 17, "pos": 63.2},
+    {"pagina": "/google-business/guias/responder-resenas-negativas-google-y-denunciar-falsas", "clics": 0, "impr": 15, "pos": 64.5},
+    {"pagina": "/google-business/guias/crear-y-verificar-ficha-google-business", "clics": 0, "impr": 12, "pos": 67.7},
+    {"pagina": "/servicios-web/que-debe-tener-la-web-de-un-negocio-local", "clics": 0, "impr": 8, "pos": 4.5},
+    {"pagina": "/servicios-web", "clics": 0, "impr": 7, "pos": 14.7},
+    {"pagina": "/google-business/guias/horarios-especiales-festivos-ficha-google-negocio", "clics": 0, "impr": 6, "pos": 44.3},
+    {"pagina": "/academia/guias/por-que-mi-web-no-aparece-en-google", "clics": 0, "impr": 5, "pos": 68.4},
+    {"pagina": "/academia/guias/seo-local-valencia-negocio-pequeno", "clics": 0, "impr": 4, "pos": 43.5},
+    {"pagina": "/google-business/guias/como-aparecer-en-google-maps-valencia", "clics": 0, "impr": 3, "pos": 72},
+    {"pagina": "/google-business/guias/ficha-google-suspendida-que-hacer", "clics": 0, "impr": 3, "pos": 70},
+    {"pagina": "/diagnostico/guias/como-saber-si-tu-negocio-aparece-en-google", "clics": 0, "impr": 1, "pos": 10},
+    {"pagina": "/academia/guias/aparecer-en-chatgpt-y-ias", "clics": 0, "impr": 1, "pos": 84}
+  ],
+  "oportunidades": {
+    "muchas_impresiones_0_clics": ["responder-resenas-negativas (15 impr, pos 64)", "crear-y-verificar-ficha (12 impr, pos 68)"],
+    "cerca_pos_10_20": ["/servicios-web (pos 14,7)", "/contacto (pos 13,6)", "/diagnostico/guias/como-saber-si-tu-negocio-aparece-en-google (pos 10)"],
+    "nota": "Ninguna consulta de guía está aún en posición 10-20; las más cercanas son 'horario ficha google' (51) y '¿cuál es la mejor forma de contestar reseñas negativas…?' (46)."
+  }
+}
