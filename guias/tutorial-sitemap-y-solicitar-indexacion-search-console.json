@@ -1,0 +1,296 @@
+{
+  "slug": "tutorial-sitemap-y-solicitar-indexacion-search-console",
+  "tipo": "tutorial",
+  "title": "Tutorial: enviar tu sitemap y pedir indexación en Search Console",
+  "description": "Aprende paso a paso a enviar tu sitemap y a pedir a Google que indexe una página nueva con Search Console: qué verás, errores típicos y checklist.",
+  "intro": "Has publicado una página nueva en tu web y quieres que Google la encuentre cuanto antes. Con Search Console puedes entregarle el mapa de tu web (el sitemap) y pedirle que revise una página concreta. Te lo explicamos paso a paso, con lo que verás en cada pantalla y lo que Google dice, y no dice, que garantiza.",
+  "department": "servicios-web",
+  "date": "2026-11-22",
+  "tags": [
+    "tutorial",
+    "search console",
+    "sitemap",
+    "indexación",
+    "solicitar indexación",
+    "inspección de URLs",
+    "seo local valencia",
+    "web negocio local"
+  ],
+  "body": [
+    {
+      "type": "answer",
+      "question": "Explicado a un niño de 5 años",
+      "text": "Imagina que tu web es una tienda nueva en un barrio enorme y Google es el cartero que reparte un mapa de tiendas. Si no le dices dónde está la tuya, tardará en encontrarla. El sitemap es una lista con las puertas de tu tienda que le das al cartero, y «solicitar indexación» es llamarle por teléfono para decirle: «¡Pasa a ver mi puerta nueva!». Te hará caso, pero no te promete cuándo ni que la apunte en el mapa."
+    },
+    {
+      "type": "h2",
+      "text": "Qué vas a conseguir con este tutorial"
+    },
+    {
+      "type": "p",
+      "text": "Cuando publicas una página nueva en tu web, o cambias una importante, Google no se entera al instante. Puede descubrirla por sí solo siguiendo enlaces, pero tú puedes ayudarle con dos herramientas gratuitas de Google Search Console: el informe de sitemaps, que le entrega la lista de tus páginas, y la herramienta de inspección de URLs, con la que puedes preguntar qué sabe Google de una página concreta y pedir que la revise. En este tutorial aprenderás a usar las dos, a leer lo que te responden y a saber qué hacer cuando algo no sale como esperabas."
+    },
+    {
+      "type": "p",
+      "text": "Es una tarea que cualquier dueño de un negocio local puede hacer en unos 15 minutos: una peluquería de Ruzafa que acaba de lanzar su página de precios, un restaurante de Benimaclet con una nueva carta de Navidad, una clínica dental que ha añadido una página de ortodoncia o un taller de Paterna que estrena su página de servicios. En todos los casos el procedimiento es el mismo. Los nombres de botones y menús pueden variar ligeramente según el idioma de tu cuenta; aquí damos el nombre en español y, entre paréntesis, el original en inglés que usa la ayuda oficial."
+    },
+    {
+      "type": "tip",
+      "text": "Antes de empezar necesitas dos cosas: tener tu web añadida y verificada como propiedad en Search Console con tu cuenta de Google, y que tu web publique un archivo sitemap (en muchas webs está en tudominio.es/sitemap.xml). Si no sabes si tienes alguno de los dos, mira primero nuestra guía sobre Search Console y, si hace falta, pide ayuda a quien te hizo la web.",
+      "title": "Requisitos previos"
+    },
+    {
+      "type": "h2",
+      "text": "Paso 1: comprueba que tu sitemap existe y se abre"
+    },
+    {
+      "type": "p",
+      "text": "Un sitemap es un archivo en el que tu web lista las direcciones (URL) de sus páginas para que Google las descubra con más facilidad. Antes de enviarlo, asegúrate de que realmente está publicado."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Abre el navegador y escribe la dirección de tu web seguida de /sitemap.xml, por ejemplo https://tudominio.es/sitemap.xml.",
+        "Deberías ver una lista de direcciones de tu web, normalmente en formato de código, con etiquetas como url y loc. No te asustes por su aspecto: no está pensado para personas.",
+        "Comprueba que aparecen tus páginas principales y, si acabas de publicar algo, que la página nueva está en la lista."
+      ],
+      "ordered": true
+    },
+    {
+      "type": "p",
+      "text": "Qué verás en pantalla: un listado de direcciones de tu propia web. Si ves un error 404, una página en blanco o la página de inicio de tu web, tu sitemap no está en esa dirección. Pregunta a quien gestiona tu web (o mira los ajustes SEO de tu gestor, por ejemplo el plugin que uses en WordPress) dónde lo publica. Google admite varios formatos de sitemap y también admite que la dirección del sitemap figure en el archivo robots.txt si no puedes enviarlo desde Search Console."
+    },
+    {
+      "type": "h2",
+      "text": "Paso 2: envía el sitemap en Search Console"
+    },
+    {
+      "type": "p",
+      "text": "Según la ayuda oficial de Google, no se «sube» un sitemap a Google: lo que haces es decirle dónde está para que lo lea. Para enviarlo desde Search Console necesitas permiso de propietario de la propiedad."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Entra en search.google.com/search-console con la cuenta con la que verificaste tu web y selecciona tu propiedad (arriba a la izquierda).",
+        "En el menú lateral, dentro del apartado de indexación, abre «Sitemaps». También puedes ir directamente a search.google.com/search-console/sitemaps.",
+        "Verás una caja llamada «Añadir un sitemap nuevo» (en el idioma inglés de Google, «Add a new sitemap»). Escribe ahí la parte final de la dirección, normalmente sitemap.xml.",
+        "Pulsa «Enviar» (en inglés, «Submit»).",
+        "Aparecerá una tabla con tu sitemap. Pulsa sobre la fila si quieres ver el detalle."
+      ],
+      "ordered": true
+    },
+    {
+      "type": "p",
+      "text": "Qué verás en pantalla: una tabla de sitemaps enviados con columnas como la URL del sitemap, el tipo, la fecha en que se envió, la última lectura, el estado y el número de páginas descubiertas. Google lee el sitemap enseguida, pero la ayuda oficial aclara que rastrear las direcciones que contiene puede tardar y que no tiene por qué rastrear todas."
+    },
+    {
+      "type": "h2",
+      "text": "Cómo leer el estado del sitemap"
+    },
+    {
+      "type": "p",
+      "text": "La columna de estado es la que debes mirar. La ayuda oficial de Google describe tres resultados:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Correcto («Success»): el sitemap se cargó y se procesó sin errores. Es lo que queremos ver.",
+        "Tiene errores («Has errors»): Google pudo obtener el sitemap pero encontró uno o más errores. Pulsa la fila para ver cuáles son y pásaselos a quien mantiene tu web.",
+        "No se ha podido obtener («Couldn't fetch»): Google no pudo descargar el archivo por algún motivo. Comprueba que la dirección está bien escrita y que el archivo se abre en el navegador sin pedir contraseña."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Un detalle importante que recuerda la propia ayuda de Google: que una dirección aparezca como «descubierta» en el sitemap no garantiza que Google la haya rastreado o la vaya a indexar. El sitemap es una invitación, no una orden. Además, solo se muestran en este informe los sitemaps enviados desde aquí o mediante la API; si Google encontró el tuyo por el archivo robots.txt, puede que no aparezca en la tabla."
+    },
+    {
+      "type": "tip",
+      "text": "Solo tienes que enviar el sitemap una vez. Si tu web lo actualiza sola cuando publicas páginas nuevas, no hace falta que lo vuelvas a enviar cada vez."
+    },
+    {
+      "type": "h2",
+      "text": "Paso 3: inspecciona una página concreta"
+    },
+    {
+      "type": "p",
+      "text": "Ahora vamos con la herramienta de inspección de URLs, que sirve para preguntarle a Google cómo ve una página en concreto. Es perfecta para cuando acabas de publicar algo importante o cuando una página no te sale en Google y quieres saber por qué."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Copia la dirección completa de la página que quieres comprobar, empezando por https://. Debe pertenecer a la propiedad que tienes abierta.",
+        "En la barra de inspección que aparece en la parte superior de cualquier pantalla de Search Console, pega la dirección y pulsa Intro.",
+        "Espera unos segundos mientras Google consulta lo que tiene guardado de esa página."
+      ],
+      "ordered": true
+    },
+    {
+      "type": "p",
+      "text": "Qué verás en pantalla: un resultado con uno de estos estados principales, según la documentación oficial:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "«La URL está en Google» («URL is on Google»): la página puede aparecer en los resultados de búsqueda, aunque Google aclara que no está garantizado que aparezca.",
+        "«La URL está en Google, pero tiene problemas» («URL is on Google, but has issues»): está indexada, pero hay avisos o errores, por ejemplo en datos estructurados, que conviene leer y corregir.",
+        "«La URL no está en Google» («URL is not on Google»): la página no puede aparecer en los resultados. Revisa la sección de indexación de páginas de la propia herramienta para ver el motivo."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Si ves el primer estado, no tienes que hacer nada más: tu página ya está en el índice. Para comprobar si aparece de verdad en las búsquedas, haz una búsqueda en Google con la dirección de la página o con una frase muy concreta de su contenido."
+    },
+    {
+      "type": "h2",
+      "text": "Paso 4: haz una prueba en vivo"
+    },
+    {
+      "type": "p",
+      "text": "La inspección inicial te muestra lo que Google tiene guardado de la última vez que visitó la página. Si acabas de cambiar algo, o quieres saber si hoy mismo Google puede acceder a ella, usa la prueba en vivo."
+    },
+    {
+      "type": "list",
+      "items": [
+        "En el resultado de la inspección, pulsa el botón «Probar URL publicada» (en inglés, «Test live URL»).",
+        "Espera a que termine. Google visita la página en ese momento y la examina en tiempo real.",
+        "Revisa el resultado: si la página está disponible para Google, verás un mensaje en ese sentido; si no, la herramienta te indica el problema."
+      ],
+      "ordered": true
+    },
+    {
+      "type": "p",
+      "text": "Ten presente que la herramienta tiene un límite diario de pruebas en vivo por propiedad, así que úsala con cabeza. Y que un resultado correcto en la prueba no garantiza que la página vaya a indexarse: solo dice que, a día de hoy, Google puede acceder a ella."
+    },
+    {
+      "type": "p",
+      "text": "Si el enlace «Ver página rastreada» («View crawled page») está activo, te permite ver el código HTML que recibió Google. Si aparece desactivado, suele indicar que hubo un problema al obtener la página."
+    },
+    {
+      "type": "h2",
+      "text": "Paso 5: solicita la indexación"
+    },
+    {
+      "type": "p",
+      "text": "Cuando la página no está en Google, o cuando la has cambiado de forma importante, puedes pedir a Google que la revise."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Con el resultado de la inspección abierto, pulsa «Solicitar indexación» («Request indexing»).",
+        "Google hace una comprobación rápida de errores evidentes de indexación. Si la página la supera, entra en una cola de rastreo.",
+        "Si la página no es indexable según la prueba en vivo, no podrás solicitarla: corrige primero el problema que señale la herramienta."
+      ],
+      "ordered": true
+    },
+    {
+      "type": "p",
+      "text": "Qué verás en pantalla: un aviso de que la solicitud se ha enviado. Y ahora viene lo que más conviene recordar, porque es donde se equivoca mucha gente: la propia ayuda de Google dice que enviar la solicitud no garantiza que la página aparezca en el índice, que existe un límite diario de solicitudes y que la indexación puede tardar desde aproximadamente un día hasta una o dos semanas. Por eso no sirve de nada pulsar el botón varias veces seguidas para la misma página: no acelera el proceso."
+    },
+    {
+      "type": "tip",
+      "text": "Pide indexación solo de páginas que merezcan la pena: una página de servicio nueva, una oferta importante o una guía. No hace falta hacerlo con cada pequeño cambio ni con páginas sin interés para tus clientes."
+    },
+    {
+      "type": "h2",
+      "text": "Paso 6: revisa el informe de indexación de páginas"
+    },
+    {
+      "type": "p",
+      "text": "Para ver el panorama completo de tu web, abre en el menú lateral «Indexación de páginas» («Page indexing»), que también está en search.google.com/search-console/index. Allí verás un gráfico con las páginas indexadas y las no indexadas, y debajo una tabla titulada «Por qué las páginas no están indexadas» («Why pages aren't indexed») con los motivos. Pulsa cada fila para ver qué páginas afecta."
+    },
+    {
+      "type": "p",
+      "text": "No todos los motivos son un problema. Google indica en su documentación que no garantiza que todas las páginas de todas las webs lleguen a su índice, y que estar indexada una página tampoco asegura que salga en los resultados. Por ejemplo, es normal que no estén indexadas las páginas de «gracias», las de administración o las duplicadas. Fíjate sobre todo en si aparecen las páginas que son importantes para tu negocio: servicios, contacto, ubicación, carta o precios."
+    },
+    {
+      "type": "p",
+      "text": "Entre los motivos que verás, dos se confunden a menudo. «Descubierta: actualmente sin indexar» significa, en esencia, que Google conoce la dirección pero todavía no la ha rastreado. «Rastreada: actualmente sin indexar» significa que Google sí la visitó pero, de momento, decidió no incluirla en el índice. En ambos casos, si es una página importante, inspecciónala con la herramienta del paso 3 y revisa si su contenido es útil, único y está enlazado desde otras páginas de tu web."
+    },
+    {
+      "type": "h2",
+      "text": "Cuánto hay que esperar"
+    },
+    {
+      "type": "p",
+      "text": "La documentación oficial de Google es clara: cuando añades contenido nuevo, puede tardar unos días en indexarse; en una web o una página nuevas puede tardar una semana o más, y la indexación nunca es instantánea, ni siquiera cuando envías la solicitud directamente. Si has pedido indexación y a los pocos días la página sigue sin estar, no entres en pánico: espera una o dos semanas antes de volver a revisar, y mientras tanto asegúrate de que la página está enlazada desde tu menú o desde otras páginas."
+    },
+    {
+      "type": "h2",
+      "text": "Errores típicos y cómo arreglarlos"
+    },
+    {
+      "type": "list",
+      "items": [
+        "El sitemap sale como «No se ha podido obtener»: comprueba que la dirección está bien escrita, que se abre en el navegador sin contraseña y que no la bloquea ningún ajuste de seguridad de tu web. Si todo parece correcto, pide a tu desarrollador que revise el archivo.",
+        "Has enviado un sitemap con direcciones que no existen o que redirigen: el sitemap solo debería listar páginas reales y públicas. Pide que lo regeneren.",
+        "La inspección dice «La URL no está en Google» y no te deja solicitar la indexación: abre el motivo que indica la herramienta. A menudo es una etiqueta noindex puesta por error, una página bloqueada o un error del servidor.",
+        "Inspeccionas una dirección con otro dominio o con otra versión (por ejemplo, sin www cuando la propiedad es con www): la herramienta solo inspecciona direcciones de la propiedad abierta. Elige la propiedad correcta.",
+        "Pides indexación una y otra vez de la misma página: no sirve de nada y gastas la cuota diaria. Una solicitud es suficiente.",
+        "Esperas resultados al día siguiente: la propia Google habla de días o semanas. Revisa pasado ese tiempo."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Para saber si una página tiene una etiqueta noindex, o si algo de tu web le impide aparecer, tu desarrollador puede comprobarlo en unos minutos. Si tu web nunca aparece y no sabes por qué, te servirá también nuestra guía sobre por qué una web no aparece en Google."
+    },
+    {
+      "type": "checklist",
+      "title": "Checklist final",
+      "items": [
+        "Mi web está verificada como propiedad en Search Console.",
+        "La dirección /sitemap.xml de mi web se abre y lista mis páginas principales.",
+        "He enviado el sitemap en el informe «Sitemaps» y su estado es «Correcto».",
+        "He inspeccionado mi página nueva más importante con la barra de inspección.",
+        "He hecho la prueba en vivo y la página está disponible para Google.",
+        "Si no estaba en Google, he pulsado «Solicitar indexación» una sola vez.",
+        "He anotado la fecha y volveré a comprobar pasadas una o dos semanas.",
+        "He revisado el informe «Indexación de páginas» para ver si mis páginas clave están indexadas."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Qué no puede hacer esta herramienta"
+    },
+    {
+      "type": "p",
+      "text": "Conviene tener las expectativas claras. La inspección de URLs no comprueba todo lo necesario para aparecer en los resultados, como la calidad del contenido, las acciones manuales o las retiradas. Aparecer en Google depende de que la página sea útil, esté bien enlazada y responda a lo que busca el cliente. Search Console te permite ver y avisar; el resto lo hace tu contenido. Si quieres ayuda para que tu negocio de Valencia se vea mejor en Google, desde LevanteHUB podemos revisarlo contigo sin compromiso."
+    },
+    {
+      "type": "p",
+      "text": "Fuentes oficiales consultadas: ayuda de Google Search Console sobre la herramienta de inspección de URLs (support.google.com/webmasters/answer/9012289), el informe de sitemaps (support.google.com/webmasters/answer/7451001) y el informe de indexación de páginas (support.google.com/webmasters/answer/7440203)."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Cuánto tarda Google en indexar una página después de solicitarlo?",
+      "a": "Según la ayuda oficial de Google, puede tardar desde aproximadamente un día hasta una o dos semanas, y la indexación nunca es instantánea. Solicitarla no garantiza que la página llegue a aparecer en el índice."
+    },
+    {
+      "q": "¿Tengo que enviar el sitemap cada vez que publico una página?",
+      "a": "No. Basta con enviarlo una vez. Si tu web actualiza el sitemap automáticamente al publicar, Google lo volverá a leer; no es necesario reenviarlo cada vez."
+    },
+    {
+      "q": "¿Por qué una URL de mi sitemap sigue sin indexarse?",
+      "a": "Google indica que una URL descubierta en un sitemap no tiene por qué rastrearse ni indexarse. Inspecciona la página, revisa el motivo en «Indexación de páginas» y comprueba que su contenido es útil, único y está enlazado desde otras páginas."
+    },
+    {
+      "q": "¿Puedo pedir la indexación de todas mis páginas a la vez?",
+      "a": "La solicitud se hace página a página y hay un límite diario. Reserva las solicitudes para páginas importantes y deja que el sitemap se ocupe del resto."
+    },
+    {
+      "q": "¿Es lo mismo que una página esté indexada y que salga en los resultados?",
+      "a": "No. Google aclara que estar indexada no garantiza que la página aparezca en los resultados de búsqueda. Depende de la relevancia y la calidad para cada búsqueda."
+    },
+    {
+      "q": "¿Necesito saber programar para hacer esto?",
+      "a": "No. Todo se hace desde el navegador con tu cuenta de Google. Solo si aparecen errores técnicos en el sitemap o una etiqueta noindex por error necesitarás ayuda de quien gestiona tu web."
+    }
+  ],
+  "related": [
+    "search-console-herramienta-gratuita-para-tu-web",
+    "medir-tu-web-search-console-y-analytics",
+    "por-que-mi-web-no-aparece-en-google",
+    "que-debe-tener-la-web-de-un-negocio-local",
+    "pagespeed-insights-comprobar-velocidad-web"
+  ]
+}
