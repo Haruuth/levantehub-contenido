@@ -7,6 +7,14 @@ Un curso nuevo, gratuito y público cada lunes, en `cursos/AAAA-MM-DD_slug.json`
 2. No repetir temas: mirar `cursos/` y `guias/`.
 3. Guardar la búsqueda elegida en el campo `busqueda`.
 
+## Estudio previo OBLIGATORIO (un curso se posiciona si es el mejor resultado sobre el tema)
+1. SERP: busca la `busqueda` en Google (WebSearch) y analiza los 5-8 primeros resultados: qué cubren, qué les falta, qué errores o datos desactualizados tienen. El curso debe cubrir todo lo que cubren y lo que NO cubren (huecos), con ejemplos locales reales.
+2. Preguntas reales: "la gente también pregunta", sugerencias de autocompletado y búsquedas relacionadas -> cada una se responde en una lección o en la FAQ.
+3. Fuentes primarias: documentación oficial (Google Search Central, Ayuda de Google Business Profile, Google Ads, Schema.org, etc.) y estudios con fecha. Todo dato o paso debe poder comprobarse; nada inventado. Si algo es opinión o experiencia, dilo.
+4. Intención: define a quién ayuda y qué problema deja resuelto; el título lleva la búsqueda principal, la descripción promete el resultado.
+5. Guarda las fuentes en `fuentes` (mínimo 4, https) y el estudio (SERP, huecos, preguntas) en investigacion/cursos/AAAA-MM-DD_slug.md.
+6. Revisión final: sin promesas de posiciones, datos y pasos verificados, español claro para quien empieza.
+
 ## Formato del JSON
 ```
 {
@@ -29,6 +37,7 @@ Un curso nuevo, gratuito y público cada lunes, en `cursos/AAAA-MM-DD_slug.json`
   ],
   "seguimiento": ["a los 7 días revisa...", "a los 30 días mide..."],
   "faq": [{"q":"...","a":"..."}],
+  "fuentes": [{"nombre":"Documentación oficial ...","url":"https://..."}],
   "tags": ["..."]
 }
 ```
