@@ -1,0 +1,37 @@
+{
+ "slug": "google-maps-bloquea-resenas-extorsion-y-ediciones-falsas",
+ "tipo": "novedad",
+ "impacto": "medio",
+ "title": "Google Maps frena las reseñas de extorsión y las ediciones falsas con Gemini",
+ "description": "Google anunció en abril de 2026 que bloquea antes de publicarse las reseñas de extorsión y las sugerencias de edición falsas, y que avisará a los propietarios de las ediciones importantes.",
+ "date": "2026-11-22",
+ "answer": "Google usa sistemas automáticos para detectar picos de reseñas falsas y ediciones que incumplen sus normas, y los bloquea antes de que se publiquen.",
+ "puntos_clave": [
+  "Si hay un pico de reseñas falsas, Google las retira y pausa nuevas reseñas en el perfil",
+  "Los propietarios verificados recibirán alertas de ediciones importantes antes de publicarse",
+  "Google dice haber eliminado más de 13 millones de perfiles falsos en 2025"
+ ],
+ "body": [
+  "En abril de 2026 Google explicó en su blog que mejora los sistemas de Google Maps contra el abuso en los perfiles de negocio. Según el resumen publicado en PPC Land del anuncio, el cambio tiene tres partes.",
+  "Primera, la extorsión con reseñas: Google detecta patrones de estafa y bloquea las publicaciones sospechosas antes de que salgan. Si aparece un pico de reseñas falsas, retira el contenido, pausa nuevas reseñas en el perfil, avisa al propietario y muestra un aviso a los consumidores.",
+  "Segunda, las ediciones falsas: modelos Gemini detectan y bloquean, antes de publicarlas, sugerencias de edición que incumplen las políticas.",
+  "Tercera, las alertas por correo: los propietarios verificados y activos recibirán avisos para revisar las ediciones importantes antes de que se publiquen.",
+  "Google también compartió cifras de 2025 de su Informe de Confianza y Seguridad: más de 292 millones de reseñas que incumplían las políticas se bloquearon o eliminaron, 79 millones de ediciones inexactas o no verificadas se bloquearon y más de 13 millones de perfiles de negocio falsos se eliminaron.",
+  "Para un negocio local, la lección práctica es mantener la ficha verificada y revisar el correo asociado: así te llegan los avisos y puedes reaccionar rápido."
+ ],
+ "que_hacer": [
+  "Comprueba que tu ficha está verificada y que el correo de la cuenta funciona",
+  "Revisa tus reseñas cada semana por si aparece un pico raro",
+  "Si recibes una reseña falsa, guarda capturas y denúnciala desde tu ficha"
+ ],
+ "source": {
+  "name": "PPC Land: resumen del anuncio de Google (16 de abril de 2026)",
+  "url": "https://ppc.land/google-maps-uses-gemini-to-stop-fake-edits-and-blocks-review-extortion-scams/"
+ },
+ "tags": [
+  "reseñas falsas",
+  "google maps",
+  "novedad",
+  "gemini"
+ ]
+}

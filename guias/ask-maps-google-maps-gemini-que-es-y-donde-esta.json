@@ -1,0 +1,35 @@
+{
+ "slug": "ask-maps-google-maps-gemini-que-es-y-donde-esta",
+ "tipo": "novedad",
+ "impacto": "bajo",
+ "title": "Ask Maps: el asistente de Gemini en Google Maps, por ahora solo en EE. UU. e India",
+ "description": "Google Maps ha estrenado Ask Maps, un asistente con Gemini para investigar negocios locales. Qué es, dónde está disponible y qué puede hacer ya un negocio local en España.",
+ "date": "2026-11-22",
+ "answer": "Ask Maps es una función de Google Maps con Gemini para investigar negocios locales y planificar viajes; se lanzó en marzo de 2026 en Estados Unidos e India y no hay confirmación de que ya esté en España.",
+ "puntos_clave": [
+  "Disponible en las apps de Android e iOS en EE. UU. e India según el lanzamiento",
+  "Por ahora no incluye anuncios, según lo que Google dijo a un medio especializado",
+  "Sus impresiones cuentan como las de Maps estándar"
+ ],
+ "body": [
+  "En marzo de 2026 Google presentó Ask Maps, una función de Google Maps que usa Gemini para investigar negocios locales, planificar viajes y dar recomendaciones. La publicó SERoundtable, que la compara con el modo IA de Google.",
+  "Según esa información, se lanzó en Estados Unidos e India, en las apps de Android e iOS, y la versión de escritorio llegaría más adelante. La fuente no menciona España, así que no podemos confirmar que ya esté disponible aquí.",
+  "Por ahora no incluye anuncios, aunque Google no lo descartó a futuro. Las impresiones se contabilizan como las de Maps estándar.",
+  "Qué conviene hacer ya: cuando estas funciones lleguen, recomendarán negocios a partir de lo que Google sabe de ellos, es decir, la información de tu ficha y tus reseñas. Una ficha completa, con categorías correctas, servicios, horarios, fotos y reseñas recientes, es la mejor preparación."
+ ],
+ "que_hacer": [
+  "Revisa que tu ficha tiene categoría, horario, teléfono y descripción completos",
+  "Añade fotos recientes y los servicios que ofreces",
+  "Pide reseñas a clientes reales con el enlace de tu ficha"
+ ],
+ "source": {
+  "name": "SERoundtable: Google lanza Ask Maps (12 de marzo de 2026)",
+  "url": "https://www.seroundtable.com/ask-maps-google-gemini-41068.html"
+ },
+ "tags": [
+  "google maps",
+  "gemini",
+  "novedad",
+  "ia"
+ ]
+}

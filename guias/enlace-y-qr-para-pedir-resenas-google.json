@@ -1,0 +1,58 @@
+{
+ "slug": "enlace-y-qr-para-pedir-resenas-google",
+ "tipo": "recomendacion",
+ "title": "Cómo conseguir el enlace y el código QR para pedir reseñas en Google",
+ "description": "Tutorial paso a paso para copiar el enlace de reseñas de tu ficha de Google y descargar su código QR, y qué no puedes hacer al pedir reseñas.",
+ "date": "2026-11-22",
+ "answer": "Entra en business.google.com, pulsa «Leer reseñas» y luego «Consigue más reseñas»: ahí copias el enlace y descargas el código QR de tu ficha.",
+ "puntos_clave": [
+  "Se hace desde el ordenador, en business.google.com",
+  "El mismo enlace sirve para correo, WhatsApp o una publicación",
+  "Está prohibido ofrecer descuentos o regalos a cambio de reseñas",
+  "Quien reseña necesita una cuenta de Google"
+ ],
+ "pasos": [
+  {
+   "titulo": "Entra en tu Perfil de Empresa",
+   "texto": "Abre business.google.com con la cuenta de Google que gestiona tu ficha. Tu ficha tiene que estar verificada."
+  },
+  {
+   "titulo": "Abre tus reseñas",
+   "texto": "Haz clic en «Leer reseñas». Dentro verás la opción «Consigue más reseñas», con el icono de compartir al lado."
+  },
+  {
+   "titulo": "Copia el enlace",
+   "texto": "Pulsa el icono de copiar. Ese enlace lleva al cliente directamente a escribir su reseña de tu negocio."
+  },
+  {
+   "titulo": "Descarga el código QR",
+   "texto": "Haz clic derecho sobre el código QR y elige «Guardar imagen como…». Según Google, por ahora los QR de reseñas solo se generan desde un navegador de ordenador."
+  },
+  {
+   "titulo": "Compártelo con tus clientes",
+   "texto": "Puedes enviarlo por correo electrónico, WhatsApp o en una publicación de Facebook, o imprimir el QR y ponerlo en el mostrador, el ticket o la tarjeta de visita."
+  }
+ ],
+ "body": [
+  "Pedir reseñas es de lo que más ayuda a un negocio local a destacar en Google, pero muchos clientes no las dejan por pura pereza: no saben dónde hacer clic. Un enlace directo o un QR les quita esa barrera.",
+  "Google explica en su ayuda oficial que puedes recordar a tus clientes que dejen una reseña pidiéndoles que visiten un enlace de Google o que escaneen un código QR. Los clientes necesitan iniciar sesión en una cuenta de Google para publicarla, aunque no hace falta que sea una dirección de Gmail.",
+  "Hay una regla que conviene tener clara: las reseñas deben reflejar una experiencia auténtica y Google prohíbe estrictamente ofrecer incentivos, como productos o servicios gratis o con descuento, a cambio de publicar o cambiar una reseña, o de eliminar una negativa. Google lo trata como interacción falsa y tu ficha puede sufrir restricciones.",
+  "Lo que sí funciona es pedirlo bien: justo después de un buen servicio, de forma amable y sin presionar, y con el enlace a un toque. Un QR en el mostrador o en el ticket funciona muy bien en tiendas, bares y consultas."
+ ],
+ "que_hacer": [
+  "Copia hoy el enlace de reseñas de tu ficha y guárdalo en tus notas",
+  "Descarga el QR e imprímelo en el mostrador o en el ticket",
+  "Prepara un mensaje corto de WhatsApp con el enlace para enviar tras cada servicio",
+  "No ofrezcas descuentos ni regalos a cambio de reseñas"
+ ],
+ "source": {
+  "name": "Ayuda de Perfil de Empresa de Google: enlace y código QR para reseñas",
+  "url": "https://support.google.com/business/answer/16816815?hl=es"
+ },
+ "tags": [
+  "reseñas",
+  "google business profile",
+  "tutorial",
+  "ficha de google"
+ ]
+}
