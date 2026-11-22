@@ -1,0 +1,17 @@
+{
+  "descripcion": "Cola de investigación DIARIA: cada día la tarea de las 6:00 publica la pieza de hoy y deja aquí, investigado con datos reales, el tema de mañana. Tiene prioridad sobre temas-prioritarios.json (que reescribe el domingo la tarea semanal). Interés de Google Trends = relativo (0-100), no volumen absoluto.",
+  "temas": [
+    {
+      "fecha_objetivo": "2026-11-23",
+      "tipo": "tutorial",
+      "department": "google-business",
+      "slug": "pedir-resenas-google-enlace-qr-oficial-sin-incentivos",
+      "keyword_principal": "reseñas google",
+      "tema": "Cómo pedir reseñas en Google con el enlace y el QR oficial de tu ficha, sin incentivos prohibidos: paso a paso en móvil y ordenador, plantillas de mensaje (WhatsApp, mostrador) y ejemplos de negocios de Valencia",
+      "por_que": "Google Trends ES (12 meses, relativo): «reseñas google» = 100 frente a 21-35 de «google my business» y 10-23 de «seo local». Relacionadas: reseñas google maps (31), cómo poner reseñas en google (2), tarjeta nfc reseñas google (1-2). Competencia (Metricool 2021, Arsys 2024, EmbedSocial 2025): sin enlace/QR oficial, sin rutas de menú verificadas; Arsys aconseja descuentos por reseña, lo que Google prohíbe.",
+      "huecos_a_cubrir": ["rutas de menú verificadas y fechadas, móvil y ordenador", "enlace y QR oficial (support.google.com/business/answer/16816815)", "bloque «qué NO hacer»: incentivos y reseñas condicionadas (support.google.com/business/answer/3474122)", "errores típicos y qué hacer si la reseña no aparece (answer/10313341)", "plantillas de mensaje y ejemplos locales", "FAQ real de 6 dudas"],
+      "fuentes": ["https://support.google.com/business/answer/3474122?hl=es", "https://support.google.com/business/answer/16816815", "https://support.google.com/business/answer/10313341"],
+      "investigacion": "investigacion/keywords/2026-11-22.md"
+    }
+  ]
+}
