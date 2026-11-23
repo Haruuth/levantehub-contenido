@@ -38,3 +38,8 @@ Haruuth ha rechazado el contenido de hoy por básico, largo y plano. A partir de
 4. **Nada de biblia:** la pieza se lee en 4-6 minutos. Tutorial: 900-1.300 palabras, directas, con el tip estrella arriba. Guías: 700-1.000. Radar: 250-400. Calidad por encima de longitud; cada párrafo debe aportar algo que no esté en la competencia.
 5. **Reels y Shorts virales** (ver tools/instagram/PLAYBOOK.md, «Lecciones del 23-nov»): gancho en el primer segundo con un dato sorprendente o un error que cuesta dinero, una frase de voz por escena, escenas de 2-4 s, texto grande que cambia sin parar, Lumen/personaje hablando (la boca se mueve), el truco poco conocido como protagonista y un cierre que invita a guardar. Short 45-60 s. Nunca una frase fija en pantalla más de 3 s.
 6. **Orden de trabajo:** primero el tip estrella y el gancho, después la pieza web, después los vídeos; la pieza de las 6:00 se elige por lo que se habla ahora en redes (ver regla anterior).
+
+## REELS/SHORTS: GANCHO Y SERIE "CÓMO USAR LA WEB" (dueño, 23-nov-2026)
+- El gancho debe pasar en los 2 primeros segundos: banner rojo, frase grande de máx. 3 líneas, Lumen grande hablando desde el segundo 0 (motor ya lo hace en la escena `r-hook`; el título del gancho de máx. 3 líneas para no tapar a Lumen).
+- Desde el 24-nov, alternar con reels/Shorts que presenten la web y enseñen a usar sus herramientas a favor del usuario (diagnóstico, comprobador de dominio, guías, radar), a medida que haya más herramientas.
+- Slugs de páginas nuevas: cortos (4-5 palabras, máx. 40 caracteres).
