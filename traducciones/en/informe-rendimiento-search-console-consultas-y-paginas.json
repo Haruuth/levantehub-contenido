@@ -1,0 +1,50 @@
+{
+ "slug": "search-console-performance-report-queries-and-pages",
+ "slug_es": "informe-rendimiento-search-console-consultas-y-paginas",
+ "es_path": "/radar/informe-rendimiento-search-console-consultas-y-paginas",
+ "tipo": "recomendacion",
+ "title": "Search Console: How to See Which Searches Find You and Which Pages Work",
+ "description": "Tutorial to open the Search Console Performance report and read clicks, impressions, CTR and position by query and by page, with official Google sources.",
+ "date": "2026-11-22",
+ "character": "nuri",
+ "tags": ["search console", "measure results", "tutorial", "seo"],
+ "answer": {
+  "question": "How do I see which searches bring people to my website in Search Console?",
+  "text": "In Search Console open \"Search results\" (the Performance report): by default it shows clicks and impressions for the last three months, and you can group them by Queries or by Pages."
+ },
+ "intro": "The Search Console Performance report is the most reliable source for knowing how Google sees you, because it is real data from your website and it is free. According to Google's official help, by default it shows clicks and impressions from Google Search for the last three months.",
+ "body": [
+  {"type": "p", "text": "Clicks are the times a user enters your site from Google. Impressions are the times your website appears in the results. CTR is the percentage of clicks over impressions. The average position, in the table, is the average position of the URL or group in each row."},
+  {"type": "p", "text": "With a new website it is normal to see few impressions and distant positions. What is useful is spotting patterns: which queries repeat, which pages are starting to show up and which have impressions but no clicks. That is where a clearer title or a more direct answer on the first screen makes the difference."},
+  {"type": "h2", "text": "Key points"},
+  {"type": "list", "items": [
+   "Clicks: times someone entered your website from Google",
+   "Impressions: times you appeared in the results",
+   "CTR is clicks divided by impressions",
+   "Average position is a guide, not an exact figure"
+  ]},
+  {"type": "h2", "text": "Steps"},
+  {"type": "list", "ordered": true, "items": [
+   "Sign in to Search Console. Use the Google account with which you verified your website and choose your property.",
+   "Open the Performance report. In the menu, open \"Search results\". You will see the chart of clicks and impressions from Google Search for the last three months.",
+   "Turn on the metrics you need. Click the tabs above the chart to show or hide clicks, impressions, CTR and average position.",
+   "Look at the queries. In the table below, open the \"Queries\" tab: these are the searches your website appeared for. Pay particular attention to those with impressions but almost no clicks.",
+   "Look at the pages. Switch to the \"Pages\" tab to see which URLs appear most. If a page shows up a lot and gets few clicks, improve its title and description.",
+   "Adjust dates and search type. Use the date and search type filters to compare periods, for example the last four weeks with the previous ones."
+  ]},
+  {"type": "h2", "text": "What to do"},
+  {"type": "list", "items": [
+   "Open the report today and write down your five queries with the most impressions",
+   "Rewrite the title of the page that appears most and gets the fewest clicks",
+   "Repeat the review every week, comparing with the previous period"
+  ]}
+ ],
+ "faq": [
+  {"q": "What time period does the Performance report show by default?", "a": "According to Google's help, the last three months of clicks and impressions from Google Search. You can change the dates with the filters."},
+  {"q": "What is CTR in Search Console?", "a": "It is the percentage of clicks over impressions: how many of the people who saw your result clicked on it."},
+  {"q": "Is the average position exact?", "a": "No, it is a guide. It is the average position of the URL or group in each row of the table."}
+ ],
+ "sources": [
+  {"name": "Search Console Help: Performance report for Search results", "url": "https://support.google.com/webmasters/answer/7576553?hl=en"}
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "slug": "google-business-profile-performance-calls-directions-visits",
+ "slug_es": "rendimiento-ficha-google-llamadas-indicaciones-visitas",
+ "es_path": "/radar/rendimiento-ficha-google-llamadas-indicaciones-visitas",
+ "tipo": "recomendacion",
+ "title": "How to See How Many Calls and Visits Your Google Business Profile Brings",
+ "description": "Tutorial to open the Performance report of your Google Business Profile and see how many people call, ask for directions or visit your website. Official sources.",
+ "date": "2026-11-22",
+ "character": "nuri",
+ "tags": [
+  "google business profile",
+  "performance",
+  "tutorial",
+  "measure results"
+ ],
+ "answer": {
+  "question": "How do I see how many calls and visits my Google Business Profile gets?",
+  "text": "At business.google.com click \"Performance\", choose the period and click \"Apply\"; on mobile, in the Google Maps app, tap \"Business\" and \"See more\" next to \"Performance\"."
+ },
+ "intro": "Many businesses have a Google listing and do not know whether it brings them customers. The Business Profile Performance report answers that with Google's own data: how many people see you, call you, ask for directions or visit your website.",
+ "body": [
+  {
+   "type": "p",
+   "text": "According to the official help, only the metrics that apply to your business appear, and data only exists for verified profiles. Views count unique visitors, at most once a day per person. The searches metric is updated at the beginning of each month and can take up to 5 days to show."
+  },
+  {
+   "type": "p",
+   "text": "Do not be surprised to see low figures at first: what matters is the trend. If you upload photos, reply to reviews and publish updates, check every month whether calls and directions grow."
+  },
+  {
+   "type": "h2",
+   "text": "Key points"
+  },
+  {
+   "type": "list",
+   "items": [
+    "There is data only if your listing is verified",
+    "It shows searches, views, calls, directions and clicks to your website",
+    "Only the metrics that apply to your business appear",
+    "The searches metric is updated at the beginning of the month"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Steps"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Sign in with your listing's account. You must use the Google account associated with the Business Profile, and the profile must be verified.",
+    "On a computer. Go to business.google.com, click \"Performance\", choose the report period at the top and click \"Apply\".",
+    "On mobile. In the Google Maps app tap \"Business\" (bottom right), tap \"See more\" next to \"Performance\", choose the period and tap \"Apply\".",
+    "Interpret the metrics. Depending on your business you will see: searches that found you, views on Search and Maps, directions, calls (if you have added your phone number), clicks to your website and messages.",
+    "Compare periods. Define a date range and compare it with the previous one to see whether your changes (photos, posts, reviews) move the figures."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "What to do"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Check that your listing is verified and that you have added your phone number",
+    "Write down today's figures for calls, directions and website clicks as a starting point",
+    "Review the report on the 5th of each month, when searches have already been updated"
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Why do I see no data in the Performance report?",
+   "a": "Data only exists for verified profiles, and only the metrics that apply to your business appear. Check that your listing is verified."
+  },
+  {
+   "q": "When is the searches metric updated?",
+   "a": "At the beginning of each month, and it can take up to 5 days to show, according to the official help."
+  },
+  {
+   "q": "Do views count every time someone sees my listing?",
+   "a": "No. They count unique visitors, at most once a day per person."
+  }
+ ],
+ "sources": [
+  {
+   "name": "Google Business Profile Help: understand your performance",
+   "url": "https://support.google.com/business/answer/9918094?hl=en"
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "slug": "submit-sitemap-and-request-indexing-search-console",
+ "slug_es": "tutorial-sitemap-y-solicitar-indexacion-search-console",
+ "es_path": "/servicios-web/guias/tutorial-sitemap-y-solicitar-indexacion-search-console",
+ "tipo": "tutorial",
+ "title": "How to Submit Your Sitemap and Request Indexing in Search Console",
+ "description": "Learn step by step how to submit your sitemap and ask Google to index a new page with Search Console: what you will see, common errors and a final checklist.",
+ "date": "2026-11-22",
+ "character": "nuri",
+ "tags": ["tutorial", "search console", "sitemap", "indexing", "request indexing", "url inspection", "local seo valencia", "local business website"],
+ "answer": {
+  "question": "How do I submit a sitemap and ask Google to index a new page?",
+  "text": "In Search Console, open \"Sitemaps\", type your sitemap address (usually sitemap.xml) and click \"Submit\". For a specific page, paste its URL into the inspection bar and click \"Request indexing\". Google does not guarantee indexing or give a date: it can take from about a day to one or two weeks."
+ },
+ "intro": "You have published a new page on your website and want Google to find it as soon as possible. With Search Console you can hand Google the map of your site (the sitemap) and ask it to check a specific page. We explain it step by step, with what you will see on each screen and what Google does and does not guarantee.",
+ "body": [
+  {"type": "answer", "question": "Explained like you're five", "text": "Imagine your website is a new shop in a huge neighbourhood and Google is the postman who hands out a map of the shops. If you do not tell him where yours is, he will take a while to find it. The sitemap is a list of your shop's doors that you give to the postman, and \"request indexing\" is phoning him to say: \"Come and see my new door!\". He will listen, but he does not promise when, or that he will mark it on the map."},
+  {"type": "h2", "text": "What you will get from this tutorial"},
+  {"type": "p", "text": "When you publish a new page on your site, or change an important one, Google does not find out instantly. It can discover it on its own by following links, but you can help it with two free Google Search Console tools: the sitemaps report, which hands it the list of your pages, and the URL inspection tool, with which you can ask what Google knows about a specific page and request that it be checked. In this tutorial you will learn to use both, to read their answers and to know what to do when something does not go as expected."},
+  {"type": "p", "text": "It is a task any local business owner can do in about 15 minutes: a hair salon in Ruzafa that has just launched its price page, a restaurant in Benimaclet with a new Christmas menu, a dental clinic that has added an orthodontics page or a garage in Paterna launching its services page. The procedure is the same in every case. Button and menu names may vary slightly depending on your account language; here we use the English names that appear in Google's official help."},
+  {"type": "tip", "title": "Prerequisites", "text": "Before you start you need two things: your website added and verified as a property in Search Console with your Google account, and your website must publish a sitemap file (on many sites it lives at yourdomain.com/sitemap.xml). If you are not sure you have either, read our Search Console guide first and, if needed, ask whoever built your site for help.", "mood": "thinking"},
+  {"type": "h2", "text": "Step 1: check that your sitemap exists and opens"},
+  {"type": "p", "text": "A sitemap is a file in which your website lists the addresses (URLs) of its pages so Google can discover them more easily. Before submitting it, make sure it is actually published."},
+  {"type": "list", "ordered": true, "items": [
+   "Open your browser and type your website address followed by /sitemap.xml, for example https://yourdomain.com/sitemap.xml.",
+   "You should see a list of addresses from your site, normally in code-like format with tags such as url and loc. Do not be put off by how it looks: it is not designed for people.",
+   "Check that your main pages appear and, if you have just published something, that the new page is in the list."
+  ]},
+  {"type": "p", "text": "What you will see on screen: a list of addresses from your own website. If you see a 404 error, a blank page or your home page, your sitemap is not at that address. Ask whoever manages your site (or check the SEO settings of your platform, for example the plugin you use in WordPress) where it is published. Google supports several sitemap formats and also accepts the sitemap address being listed in the robots.txt file if you cannot submit it from Search Console."},
+  {"type": "h2", "text": "Step 2: submit the sitemap in Search Console"},
+  {"type": "p", "text": "According to Google's official help, you do not \"upload\" a sitemap to Google: you tell Google where it is so it can read it. To submit it from Search Console you need owner permission on the property."},
+  {"type": "list", "ordered": true, "items": [
+   "Go to search.google.com/search-console with the account you used to verify your site and select your property (top left).",
+   "In the side menu, under Indexing, open \"Sitemaps\". You can also go straight to search.google.com/search-console/sitemaps.",
+   "You will see a box called \"Add a new sitemap\". Type the final part of the address there, normally sitemap.xml.",
+   "Click \"Submit\".",
+   "A table with your sitemap will appear. Click the row if you want to see the details."
+  ]},
+  {"type": "p", "text": "What you will see on screen: a table of submitted sitemaps with columns such as the sitemap URL, the type, the date it was submitted, the last read, the status and the number of discovered pages. Google reads the sitemap quickly, but the official help clarifies that crawling the addresses it contains can take time and that Google does not have to crawl all of them."},
+  {"type": "h2", "text": "How to read the sitemap status"},
+  {"type": "p", "text": "The status column is the one to look at. Google's official help describes three outcomes:"},
+  {"type": "list", "items": [
+   "\"Success\": the sitemap was loaded and processed without errors. This is what we want to see.",
+   "\"Has errors\": Google could get the sitemap but found one or more errors. Click the row to see which ones and pass them to whoever maintains your website.",
+   "\"Couldn't fetch\": Google could not download the file for some reason. Check that the address is spelled correctly and that the file opens in the browser without asking for a password."
+  ]},
+  {"type": "p", "text": "An important detail that Google's own help reminds us of: an address appearing as \"discovered\" in the sitemap does not guarantee that Google has crawled it or will index it. The sitemap is an invitation, not an order. Also, this report only shows sitemaps submitted from here or through the API; if Google found yours through the robots.txt file, it may not appear in the table."},
+  {"type": "tip", "title": "Tip", "text": "You only need to submit the sitemap once. If your website updates it automatically when you publish new pages, you do not need to resubmit it every time.", "mood": "happy"},
+  {"type": "h2", "text": "Step 3: inspect a specific page"},
+  {"type": "p", "text": "Now for the URL inspection tool, which is used to ask Google how it sees a specific page. It is perfect for when you have just published something important or when a page does not show up on Google and you want to know why."},
+  {"type": "list", "ordered": true, "items": [
+   "Copy the full address of the page you want to check, starting with https://. It must belong to the property you have open.",
+   "In the inspection bar at the top of any Search Console screen, paste the address and press Enter.",
+   "Wait a few seconds while Google looks up what it has stored about that page."
+  ]},
+  {"type": "p", "text": "What you will see on screen: a result with one of these main statuses, according to the official documentation:"},
+  {"type": "list", "items": [
+   "\"URL is on Google\": the page can appear in search results, although Google clarifies that appearing is not guaranteed.",
+   "\"URL is on Google, but has issues\": it is indexed, but there are warnings or errors, for example in structured data, that are worth reading and fixing.",
+   "\"URL is not on Google\": the page cannot appear in results. Check the page indexing section of the tool itself to see the reason."
+  ]},
+  {"type": "p", "text": "If you see the first status, you do not need to do anything else: your page is already in the index. To check whether it really shows up in searches, search on Google for the page address or a very specific phrase from its content."},
+  {"type": "h2", "text": "Step 4: run a live test"},
+  {"type": "p", "text": "The initial inspection shows what Google has stored from the last time it visited the page. If you have just changed something, or you want to know whether Google can access the page today, use the live test."},
+  {"type": "list", "ordered": true, "items": [
+   "In the inspection result, click \"Test live URL\".",
+   "Wait for it to finish. Google visits the page at that moment and examines it in real time.",
+   "Review the result: if the page is available to Google, you will see a message to that effect; if not, the tool tells you the problem."
+  ]},
+  {"type": "p", "text": "Keep in mind that the tool has a daily limit of live tests per property, so use it sensibly. And that a successful test does not guarantee the page will be indexed: it only says that, today, Google can access it."},
+  {"type": "p", "text": "If the \"View crawled page\" link is active, it lets you see the HTML code Google received. If it is greyed out, it usually means there was a problem fetching the page."},
+  {"type": "h2", "text": "Step 5: request indexing"},
+  {"type": "p", "text": "When the page is not on Google, or when you have changed it significantly, you can ask Google to check it."},
+  {"type": "list", "ordered": true, "items": [
+   "With the inspection result open, click \"Request indexing\".",
+   "Google runs a quick check for obvious indexing errors. If the page passes, it joins a crawl queue.",
+   "If the page is not indexable according to the live test, you will not be able to request it: first fix the problem the tool points out."
+  ]},
+  {"type": "p", "text": "What you will see on screen: a notice that the request has been submitted. And here comes what is most worth remembering, because it is where many people go wrong: Google's own help says that submitting the request does not guarantee the page will appear in the index, that there is a daily request limit and that indexing can take from about a day to one or two weeks. That is why clicking the button several times in a row for the same page is pointless: it does not speed up the process."},
+  {"type": "tip", "title": "Tip", "text": "Only request indexing for pages worth it: a new service page, an important offer or a guide. There is no need to do it for every small change or for pages that are of no interest to your customers.", "mood": "talking"},
+  {"type": "h2", "text": "Step 6: review the page indexing report"},
+  {"type": "p", "text": "To see the full picture of your site, open \"Page indexing\" in the side menu, also available at search.google.com/search-console/index. There you will see a chart with indexed and non-indexed pages, and below it a table titled \"Why pages aren't indexed\" with the reasons. Click each row to see which pages it affects."},
+  {"type": "p", "text": "Not every reason is a problem. Google states in its documentation that it does not guarantee that every page on every site will reach its index, and that a page being indexed does not guarantee it will show up in results either. For example, it is normal for \"thank you\" pages, admin pages or duplicates not to be indexed. Look above all at whether the pages that matter to your business are there: services, contact, location, menu or prices."},
+  {"type": "p", "text": "Among the reasons you will see, two are often confused. \"Discovered - currently not indexed\" means, in essence, that Google knows the address but has not crawled it yet. \"Crawled - currently not indexed\" means Google did visit it but, for now, decided not to include it in the index. In both cases, if it is an important page, inspect it with the tool from step 3 and check that its content is useful, unique and linked from other pages on your site."},
+  {"type": "h2", "text": "How long to wait"},
+  {"type": "p", "text": "Google's official documentation is clear: when you add new content, it can take a few days to be indexed; for a new site or page it can take a week or more, and indexing is never instant, even when you submit the request directly. If you have requested indexing and the page is still not there after a few days, do not panic: wait one or two weeks before checking again, and in the meantime make sure the page is linked from your menu or from other pages."},
+  {"type": "h2", "text": "Common mistakes and how to fix them"},
+  {"type": "list", "items": [
+   "The sitemap shows \"Couldn't fetch\": check that the address is spelled correctly, that it opens in the browser without a password and that no security setting on your site is blocking it. If everything looks right, ask your developer to check the file.",
+   "You submitted a sitemap with addresses that do not exist or that redirect: the sitemap should only list real, public pages. Ask for it to be regenerated.",
+   "The inspection says \"URL is not on Google\" and does not let you request indexing: open the reason the tool gives. It is often a noindex tag added by mistake, a blocked page or a server error.",
+   "You inspect an address from another domain or another version (for example, without www when the property is with www): the tool only inspects addresses of the open property. Choose the right property.",
+   "You request indexing of the same page again and again: it is pointless and uses up your daily quota. One request is enough.",
+   "You expect results the next day: Google itself talks about days or weeks. Check after that time."
+  ]},
+  {"type": "p", "text": "To find out whether a page has a noindex tag, or whether something on your site stops it from appearing, your developer can check in a few minutes. If your site never appears and you do not know why, our guide on why a website does not appear on Google will also help."},
+  {"type": "checklist", "title": "Final checklist", "items": [
+   "My site is verified as a property in Search Console.",
+   "The /sitemap.xml address of my site opens and lists my main pages.",
+   "I submitted the sitemap in the \"Sitemaps\" report and its status is \"Success\".",
+   "I inspected my most important new page with the inspection bar.",
+   "I ran the live test and the page is available to Google.",
+   "If it was not on Google, I clicked \"Request indexing\" only once.",
+   "I noted the date and will check again after one or two weeks.",
+   "I reviewed the \"Page indexing\" report to see whether my key pages are indexed."
+  ]},
+  {"type": "h2", "text": "What this tool cannot do"},
+  {"type": "p", "text": "It is worth setting clear expectations. The URL inspection tool does not check everything needed to appear in results, such as content quality, manual actions or removals. Appearing on Google depends on the page being useful, well linked and answering what the customer is searching for. Search Console lets you see and notify; the rest is done by your content. If you want help making your Valencia business more visible on Google, at LevanteHUB we can review it with you, no strings attached."},
+  {"type": "p", "text": "Official sources consulted: Google Search Console help on the URL inspection tool (support.google.com/webmasters/answer/9012289), the sitemaps report (support.google.com/webmasters/answer/7451001) and the page indexing report (support.google.com/webmasters/answer/7440203)."}
+ ],
+ "faq": [
+  {"q": "How long does Google take to index a page after I request it?", "a": "According to Google's official help, it can take from about a day to one or two weeks, and indexing is never instant. Requesting it does not guarantee the page will end up in the index."},
+  {"q": "Do I have to submit the sitemap every time I publish a page?", "a": "No. Submitting it once is enough. If your site updates the sitemap automatically when you publish, Google will read it again; there is no need to resubmit it each time."},
+  {"q": "Why is a URL in my sitemap still not indexed?", "a": "Google states that a URL discovered in a sitemap does not have to be crawled or indexed. Inspect the page, check the reason in \"Page indexing\" and make sure its content is useful, unique and linked from other pages."},
+  {"q": "Can I request indexing of all my pages at once?", "a": "The request is made page by page and there is a daily limit. Save requests for important pages and let the sitemap take care of the rest."},
+  {"q": "Is a page being indexed the same as it showing up in results?", "a": "No. Google clarifies that being indexed does not guarantee the page will appear in search results. It depends on relevance and quality for each search."},
+  {"q": "Do I need to know how to code to do this?", "a": "No. Everything is done from the browser with your Google account. You will only need help from whoever manages your site if technical errors appear in the sitemap or a noindex tag was added by mistake."}
+ ],
+ "sources": [
+  {"name": "Google Search Console Help: URL Inspection tool", "url": "https://support.google.com/webmasters/answer/9012289?hl=en"},
+  {"name": "Google Search Console Help: Sitemaps report", "url": "https://support.google.com/webmasters/answer/7451001?hl=en"},
+  {"name": "Google Search Console Help: Page indexing report", "url": "https://support.google.com/webmasters/answer/7440203?hl=en"}
+ ]
+}
