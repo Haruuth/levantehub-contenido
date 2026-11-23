@@ -22,3 +22,9 @@ La web trabaja de forma pasiva: la mejor web en español para APRENDER SEO, SEM 
 - Los personajes están en primer plano: presentan, señalan y enseñan en pantalla la guía, tutorial, novedad o recomendación del día.
 - Mismo tema que la pieza de las 6:00. Reel optimizado para Instagram; Short con formato distinto, adaptado a YouTube.
 - Formatos virales: cada semana se estudian los Shorts y Reels con más tracción en español sobre SEO, marketing digital y negocios locales (solo estructura y tipo de gancho, nunca copiar contenido ni material con copyright) y se anota en investigacion/formatos-virales.md.
+
+## Tema de la pieza de las 6:00: lo que se habla en las redes (regla del dueño, 23-nov-2026)
+- El tema de cada día debe salir de lo que se está hablando AHORA en redes y buscadores sobre Google Business, SEO local, IA para negocios y herramientas de Google/Meta/YouTube/Instagram: busca con WebSearch en noticias, foros, Reddit, X, YouTube e Instagram (qué preguntan, qué se comparte, qué novedades están generando conversación).
+- Cruza esa tendencia con una consulta real (Search Console / Trends) y con la competencia; si coincide, ese es el tema. Si no hay tendencia clara, usa la cola de investigación.
+- Anota en `por_que` de cola-diaria.json la señal social concreta (qué se dice, dónde, fecha y URL). Nada inventado.
+- La investigación de la pieza de mañana (paso 7) debe aplicar esta misma regla.
