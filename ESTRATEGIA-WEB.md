@@ -44,6 +44,7 @@ Haruuth ha rechazado el contenido de hoy por básico, largo y plano. A partir de
 - Cada escena con personaje DEBE llevar voz (`voz:`) para que la boca tenga sentido; si una escena no tiene voz, la boca queda cerrada.
 - Gancho espectacular en el PRIMER segundo: frase corta y concreta (error, cifra o promesa), flash, sonido y texto grande. Sin saludos ni presentaciones.
 - Totalmente comprensible: una idea por escena, frases cortas, voz clara y subtítulos que coincidan con lo que se dice.
+- RITMO (dueño, 21:25): cambio de pantalla continuo y rápido. El motor ya recorta los silencios de cada voz, pone transiciones de 0,3 s y un pulso de cámara constante; ninguna escena debe quedarse más de ~3 s sin voz ni movimiento. Escenas cortas (1,5-4 s), una frase por escena. Un reel de 30-45 s bien apretado es mejor que uno de 60 s con pausas.
 - Antes de publicar: extraer 4-6 fotogramas (inicio, hook, escena con voz) y comprobar boca, texto dentro de zona segura y gancho. Si algo falla, corregir y volver a renderizar; nunca publicar "a ver si cuela".
 
 ## REELS/SHORTS: GANCHO Y SERIE "CÓMO USAR LA WEB" (dueño, 23-nov-2026)
