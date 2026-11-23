@@ -39,6 +39,13 @@ Haruuth ha rechazado el contenido de hoy por básico, largo y plano. A partir de
 5. **Reels y Shorts virales** (ver tools/instagram/PLAYBOOK.md, «Lecciones del 23-nov»): gancho en el primer segundo con un dato sorprendente o un error que cuesta dinero, una frase de voz por escena, escenas de 2-4 s, texto grande que cambia sin parar, Lumen/personaje hablando (la boca se mueve), el truco poco conocido como protagonista y un cierre que invita a guardar. Short 45-60 s. Nunca una frase fija en pantalla más de 3 s.
 6. **Orden de trabajo:** primero el tip estrella y el gancho, después la pieza web, después los vídeos; la pieza de las 6:00 se elige por lo que se habla ahora en redes (ver regla anterior).
 
+## REELS/SHORTS: CALIDAD EXIGIDA (dueño, 23-nov-2026, 21:16) — MÁS CAÑA DESDE EL 24-NOV
+- El dueño rechazó el reel del 23-nov: Lumen movía la boca sin parar. Ahora `reel.js` sincroniza la boca con la voz (nivel de volumen por fotograma; boca cerrada en silencio). Usa siempre la versión actual de `tools/instagram/reel.js` (commit cd434c8 o posterior) y no vuelvas a poner animaciones de boca/cuerpo en bucle.
+- Cada escena con personaje DEBE llevar voz (`voz:`) para que la boca tenga sentido; si una escena no tiene voz, la boca queda cerrada.
+- Gancho espectacular en el PRIMER segundo: frase corta y concreta (error, cifra o promesa), flash, sonido y texto grande. Sin saludos ni presentaciones.
+- Totalmente comprensible: una idea por escena, frases cortas, voz clara y subtítulos que coincidan con lo que se dice.
+- Antes de publicar: extraer 4-6 fotogramas (inicio, hook, escena con voz) y comprobar boca, texto dentro de zona segura y gancho. Si algo falla, corregir y volver a renderizar; nunca publicar "a ver si cuela".
+
 ## REELS/SHORTS: GANCHO Y SERIE "CÓMO USAR LA WEB" (dueño, 23-nov-2026)
 - El gancho debe pasar en los 2 primeros segundos: banner rojo, frase grande de máx. 3 líneas, Lumen grande hablando desde el segundo 0 (motor ya lo hace en la escena `r-hook`; el título del gancho de máx. 3 líneas para no tapar a Lumen).
 - Desde el 24-nov, alternar con reels/Shorts que presenten la web y enseñen a usar sus herramientas a favor del usuario (diagnóstico, comprobador de dominio, guías, radar), a medida que haya más herramientas.
