@@ -25,6 +25,9 @@ Cada guía es un archivo `guias/<slug>.json`. La web (levantehub.es) los lee y l
 ```
 Opcionales: `related` (slugs de otras guías), `updated`, `ads` (por defecto true). `list` admite `"ordered": true`; `checklist` y `tip` admiten `"title"`. El cargador exige: slug válido, title, description, intro, department, date y al menos 3 bloques válidos; si algo falla, la guía se ignora.
 
+## Slugs
+SLUG CORTO, por orden del dueño: máximo 3-4 palabras y 30 caracteres, solo la palabra clave principal, sin verbos de relleno ni preposiciones (no «como-...», «que-es», «donde-esta»). Ej.: `boton-mensaje-maps`, `qr-resenas-google`. Aplica a guías, novedades, recomendaciones y traducciones.
+
 ## Método de investigación diaria
 1. Buscar qué preguntan negocios locales de Valencia/España sobre ficha de Google, SEO local, web y medición.
 2. Revisar guías existentes en `guias/` para no repetir tema.
