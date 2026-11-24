@@ -30,6 +30,7 @@ El dueño asigna, edita y borra tareas a cada trabajador desde el panel. Antes d
 | [NUBE] LevanteHUB presencia online | alex |
 | SEO semanal Fachadas Levante | jordi |
 | Oficina · Captación · Raúl (leads 7:34) | raul |
+| Oficina · Correo (Carmen y Pablo, 8:43) | carmen, pablo |
 
 ## Herramienta
 
