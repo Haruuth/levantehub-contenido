@@ -57,6 +57,13 @@ Usa `mcp__claude-artifacts__db_write` (si está diferida, cárgala con ToolSearc
 
 Valores de `agente`: vega, carmen, pablo (sede) · clara, ivan-mila, teo, leo, sara (Nuri) · marta, alex, bea (Lumen) · nico, jordi, pau (Tuerca) · lucia, elena, raul (Rumbo).
 
+## Vídeos e imágenes: que se vean DENTRO del panel (obligatorio)
+
+El dueño y Susanna revisan reels, Shorts, posts y stories en el reproductor del panel, sin descargar nada. Para cada vídeo (.mp4) o imagen (.jpg/.png) que entregues:
+1. Súbelo al panel con `mcp__claude-artifacts__upload_asset` (cárgala con ToolSearch): `slug` del panel y `files: [{"name": "AAAA-MM-DD-<web>-reel.mp4", "path": "<ruta local>"}]`. Máx. 32 MiB por archivo y 10 por llamada. Si te pide `shared_live`, repite la llamada con `"shared_live": "users"`.
+2. Añade a la tarjeta el campo `"media": [{"tipo": "video"|"imagen", "url": "<url /_blob/... que devuelve>", "t": "Reel" | "Post 1" | "Story 1"...}]`. Máximo 8 elementos por tarjeta (el vídeo primero).
+3. Mantén también el enlace al LEEME para copiar los textos.
+
 Reglas:
 - **Un vídeo = una tarjeta** con `tipo` `reel`, `short` o `video` y el enlace directo al .mp4 como **primer** enlace (el panel lo muestra como vídeo con ▶).
 - Lenguaje de dueño de negocio, nada técnico. Sin markdown dentro de los textos.
