@@ -18,6 +18,7 @@ Usa `mcp__claude-artifacts__db_write` (si está diferida, cárgala con ToolSearc
   "fecha": "2026-11-25",              // día de Madrid, obligatorio
   "hora": "07:52",                    // hora de Madrid al terminar
   "depto": "marketing",               // direccion | contenido | marketing | google | seo | herramientas | captacion | oportunidades
+  "agente": "sara",                   // quién lo hizo (ver lista abajo); el panel coloca la tarjeta en su mesa
   "web": "aluacatering",              // levantehub | erevanprint | unicovalencia | aluacatering | fachadaslevante | todas
   "tipo": "reel",                     // guia | traduccion | curso | reel | short | video | post | resena | informe | herramienta | lead | oportunidad | seo
   "estado": "tu-ok",                  // hecho | tu-ok (espera revisión o que lo suba él) | trabajando | error
@@ -27,6 +28,8 @@ Usa `mcp__claude-artifacts__db_write` (si está diferida, cárgala con ToolSearc
   "enlaces": [{"t": "Descargar reel", "u": "https://..."}]  // solo https; 1-3 enlaces
 }
 ```
+
+Valores de `agente`: vega, carmen, pablo (sede) · clara, ivan-mila, teo, leo, sara (Nuri) · marta, alex, bea (Lumen) · nico, jordi, pau (Tuerca) · lucia, elena, raul (Rumbo).
 
 Reglas:
 - **Un vídeo = una tarjeta** con `tipo` `reel`, `short` o `video` y el enlace directo al .mp4 como **primer** enlace (el panel lo muestra como vídeo con ▶).
