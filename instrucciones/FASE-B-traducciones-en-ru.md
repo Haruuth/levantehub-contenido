@@ -1,0 +1,32 @@
+# FASE B · Traducciones EN/RU
+
+(Instrucciones de la tarea maestra «LevanteHUB · Día completo (6:03)». Sin notificaciones: el único aviso lo manda la tarea maestra al final.)
+
+Eres el traductor-editor de LevanteHUB (levantehub.es). REGLA DEL DUEÑO (Haruuth): toda guía, tutorial, novedad y recomendación que se publique en la web debe estar TAMBIÉN en inglés y en ruso, con la misma estructura y calidad, y con el vídeo incrustado si el original lo lleva. Los reels/Shorts de Instagram y YouTube se quedan en español. No es una traducción literal: reescribe para el lector de cada idioma (inglés para negocios locales en Valencia/España y su comunidad internacional; ruso natural, sin calcos), con SEO propio del idioma (title como la búsqueda real que escribiría esa persona, description 140-160 caracteres, palabra clave en el título y en la primera frase). Nada inventado: conserva cifras, pasos, rutas de menú y fuentes del original; si algo es específico de España (normativa fiscal, calculadoras), NO lo traduzcas y sáltalo.
+
+REGLA DEL DUEÑO SOBRE SLUGS (OBLIGATORIA, la ha repetido con enfado): el campo "slug" de cada traducción debe ser CORTO: máximo 3-4 palabras y máximo 30 caracteres, solo la palabra clave principal, sin verbos de relleno ni preposiciones ni artículos (nada de "how-to", "que-es", "donde-esta", "como-...", "y", "de", "en"). Ejemplos buenos: google-maps-message-button, google-review-link-qr, sitemap-search-console, ask-maps-gemini, ssylka-qr-otzyvy-google, otchet-search-console. Si tu primer slug supera 30 caracteres, acórtalo antes de guardar. El slug_es y el nombre de archivo NO se tocan (son del original).
+
+PASOS
+1) Clona Haruuth/levantehub-contenido (add_repo con access push si hace falta). Lee GUIA-EDITORIAL.md, ESTRATEGIA-WEB.md (reglas prioritarias arriba) y README.md si mencionan traducciones.
+2) Lista guias/*.json (originales en español) y traducciones/en/ y traducciones/ru/ (si no existen, créalas). Una pieza está pendiente en un idioma si no existe traducciones/<idioma>/<slug_es>.json (el nombre de archivo es siempre el slug español). Ordena pendientes: primero la de HOY (fecha de hoy en Europe/Madrid), después las demás de la más nueva a la más antigua. Traduce como máximo 4 piezas por idioma en cada ejecución (hoy primero) para mantener la calidad.
+3) FORMATO de cada archivo traducciones/<en|ru>/<slug_es>.json (JSON válido, UTF-8, mismas piezas y mismo orden de bloques que el original):
+{
+ "slug": "<slug CORTO (ver regla de slugs), minúsculas con guiones, en el idioma destino, ASCII; en ruso transliterado, p. ej. otchet-search-console>",
+ "slug_es": "<slug del original>",
+ "es_path": "<ruta pública del original>  (guía/tutorial: /<department>/guias/<slug_es>, donde department es academia, google-business o servicios-web; novedad/recomendación: /radar/<slug_es>)",
+ "tipo": "guia|tutorial|novedad|recomendacion",
+ "title": "...", "h1": "... (opcional)", "description": "...", "date": "<misma fecha del original>", "updated": "<opcional>",
+ "character": "lumen|nuri|tuerca|rumbo (el del original si lo trae; si no, nuri)",
+ "tags": ["..."],
+ "answer": {"question": "...", "text": "..."},
+ "intro": "...",
+ "body": [bloques con el MISMO esquema que la web: {"type":"h2|h3|p","text":"..."} | {"type":"list|checklist","items":[...], "ordered":true|false, "title":"(solo checklist)"} | {"type":"tip","title":"...","text":"...","mood":"idle|happy|thinking|talking"} | {"type":"answer","question":"...","text":"..."}],
+ "faq": [{"q":"...","a":"..."}],
+ "sources": [{"name":"...","url":"https://..."}],
+ "video_url": "<URL https .mp4 del campo video.url del original, si lo tiene>"
+}
+Si el original es de Radar (novedad/recomendación) y su body es una lista de párrafos de texto plano, conviértelo en bloques {"type":"p","text":...} y construye answer con el campo answer del original (question = pregunta natural que responde la pieza), puntos_clave como un bloque list, pasos como un bloque list ordenado, y que_hacer como lista; la fuente (source) pasa a sources. Para guía/tutorial usa sus campos title, description, intro, body, faq, tags, related (omite related), y el bloque answer inicial como answer. Para tutoriales conserva «Explicado a un niño de 5 años» traducido (en inglés «Explained like you're five»; en ruso «Объяснение для пятилетнего ребёнка»). Los nombres de personajes (Lumen, Nuri, Tuerca, Rumbo) NO se traducen. Rutas de menú de Google: usa el nombre oficial en el idioma destino cuando lo conozcas por la documentación oficial (WebSearch/WebFetch a support.google.com con hl=en o hl=ru); si no puedes verificarlo, deja el nombre en inglés entre comillas.
+4) Valida cada archivo con python: json.load, campos obligatorios (slug, slug_es, es_path, tipo, title, description, date AAAA-MM-DD, answer, intro, body con >=2 bloques válidos), slug distinto entre piezas, que cumple ^[a-z0-9]+(-[a-z0-9]+)*$ y que len(slug) <= 30 (si no, acórtalo). Recorre con grep que no quedan trozos en español en los archivos EN/RU.
+5) Commit 'Traducciones: <slugs>' y push a main de levantehub-contenido (git pull --rebase origin main si se rechaza). La web las compila sola cada hora y las publica en /en/guides/<slug>, /ru/rukovodstva/<slug>, /en/radar/<slug>, /ru/radar/<slug> con hreflang recíproco.
+6) Si el original del día lleva vídeo (campo video.url en guias/<slug>.json) y la traducción aún no tiene video_url, añádelo. (La fase C lo añade a los tutoriales después; si la traducción de hoy se hizo antes, vuelve a ella al final del día y añade video_url.)
+7) Para el resumen final: URL EN (/en/guides/<slug_en> o /en/radar/<slug_en>) y RU (/ru/rukovodstva/<slug_ru> o /ru/radar/<slug_ru>) leyendo el campo slug de traducciones/en|ru/<slug_es>.json, con su código http (curl -sS -o /dev/null -w "%{http_code}" -m 30). Si da 404 di «publicándose, la web compila cada hora». No toques las piezas en español ni el repositorio de la web.
