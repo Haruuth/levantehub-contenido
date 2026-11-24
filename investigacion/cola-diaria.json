@@ -51,6 +51,32 @@
    "condicion": "Novedad solo si el redactor puede confirmar la fuente en 2 medios; si el 24-nov no se puede verificar, cambiar a guía de reserva (google-my-business-o-google-business-profile-que-es-y-como-entrar).",
    "hecho": "2026-11-24",
    "slug_publicado": "boton-mensaje-google-maps"
+  },
+  {
+   "fecha_objetivo": "2026-11-25",
+   "tipo": "guia",
+   "department": "academia",
+   "slug": "google-ads-negocio-local",
+   "area": "SEM",
+   "keyword_principal": "google ads negocio local",
+   "tema": "Primera campaña de Google Ads para un negocio local de Valencia: qué es SEM, cómo funciona la subasta, presupuesto prudente, palabras clave negativas y los errores que más dinero cuestan (lección SEM nº1 del temario gratuito)",
+   "por_que": "El temario cubre SEO y GEO pero no hay ninguna pieza SEM publicada (guias/ a 24-nov-2026). Búsqueda del 24-nov: los resultados en español son guías genéricas (SendPulse, HubSpot, Sleekflow, Alejandro Rioja, Guía Alfa) y la propia Google Business (business.google.com/es/resources); no se localizó ninguna centrada en negocio local de España con ejemplos y errores. Sin datos de Windsor/Trends/Keyword Planner en esta ejecución: demanda NO medida, no hay volúmenes. Señal social no verificada: por confirmar mañana antes de redactar.",
+   "huecos_a_cubrir": [
+    "explicar SEM vs SEO en una frase",
+    "ejemplos locales (cerrajero, clínica dental, taller) y presupuesto prudente sin prometer resultados",
+    "palabras clave negativas y concordancia",
+    "ubicación y radio (Valencia)",
+    "errores típicos: Performance Max sin control, no medir llamadas",
+    "rutas de menú SOLO si se verifican en ayuda oficial; si no, no escribirlas",
+    "FAQ de 4-6 dudas; cierre con siguiente lección SEM"
+   ],
+   "fuentes": [
+    "https://business.google.com/es/resources/articles/how-to-setup-google-ads-a-checklist/",
+    "https://business.google.com/es/google-ads/how-ads-work/",
+    "https://support.google.com/google-ads/supporthub?hl=es-419"
+   ],
+   "investigacion": "investigacion/keywords/2026-11-24.md",
+   "condicion": "Si mañana hay tendencia social clara (regla del 23-nov) o noticia confirmada en 2 fuentes, puede sustituirse; reserva: tutorial ver y responder reseñas."
   }
  ]
 }
