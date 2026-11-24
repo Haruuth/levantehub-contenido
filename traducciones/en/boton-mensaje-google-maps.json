@@ -1,0 +1,61 @@
+{
+ "slug": "google-maps-message-button-next-to-call",
+ "slug_es": "boton-mensaje-google-maps",
+ "es_path": "/radar/boton-mensaje-google-maps",
+ "tipo": "novedad",
+ "title": "Google Maps Adds a \"Message\" Button Next to \"Call\" on Business Listings",
+ "description": "Google's small business newsletter says Maps shows a Message button next to Call on Android and iOS. What the source says and what to check on your listing.",
+ "date": "2026-11-24",
+ "character": "nuri",
+ "tags": [
+  "google maps",
+  "google business profile",
+  "messaging",
+  "whatsapp",
+  "news",
+  "local seo"
+ ],
+ "answer": {
+  "question": "Does Google Maps now have a Message button next to Call on business listings?",
+  "text": "Google has announced in its small business newsletter a \"Message\" button next to \"Call\" on Google Maps listings (Android and iOS), with WhatsApp or SMS as the destination; there is no confirmation that it is already available in Spain."
+ },
+ "intro": "Google has announced a Message button on Google Maps business listings, but nobody has confirmed which countries get it. Here is what the sources say, what we do not know, and what you can prepare in the meantime.",
+ "body": [
+  {
+   "type": "p",
+   "text": "What the source says: in Google's monthly small business newsletter (published on the official Google Business Profile forum in early November 2026), Google explains that customers can find a clearly visible \"Message\" button right next to \"Call\" on your business listing in Google Maps. Search Engine Roundtable (6 November 2026) reports it for Android and iOS and mentions WhatsApp and SMS as channels. Relevant Audience (7 November 2026) says the same."
+  },
+  {
+   "type": "p",
+   "text": "What we do not know: neither source confirms in which countries the button is active. Relevant Audience explicitly points out that Google has not given a list of countries. So we cannot say that the button already appears on listings in Spain, or that it will appear on yours. We also could not open the original newsletter, so we rely on these two reports."
+  },
+  {
+   "type": "p",
+   "text": "Our advice (not Google's): even if the button takes a while to arrive, it is worth getting your messaging in order. Check that the messaging channel you use (for example WhatsApp) is properly linked to your listing, that your phone number and opening hours are correct, and that someone replies within a reasonable time. A simple test: write to your business from another phone and check that the message lands in an inbox someone actually watches."
+  },
+  {
+   "type": "p",
+   "text": "Example: a hair salon in Valencia that already takes bookings on WhatsApp only needs to check that the linked number is the salon's and not the owner's personal one. A clinic or a garage should also decide who answers outside opening hours."
+  },
+  {
+   "type": "p",
+   "text": "When Google publishes the list of countries or the official help explains it in detail, we will update this note. In the meantime, if you would rather hand over the care of your listing, LevanteHUB offers Google listing management and local SEO."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is the Message button available in Spain?",
+   "a": "It is not confirmed. Neither source gives a list of countries, so we cannot say whether it already appears on listings in Spain."
+  },
+  {
+   "q": "Which channels does the button use?",
+   "a": "Search Engine Roundtable mentions WhatsApp and SMS, on Android and iOS."
+  }
+ ],
+ "sources": [
+  {
+   "name": "Search Engine Roundtable (quotes Google's small business newsletter)",
+   "url": "https://www.seroundtable.com/google-maps-messaging-android-ios-42472.html"
+  }
+ ]
+}

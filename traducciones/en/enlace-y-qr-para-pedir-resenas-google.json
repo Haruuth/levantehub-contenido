@@ -1,0 +1,100 @@
+{
+ "slug": "get-google-review-link-and-qr-code",
+ "slug_es": "enlace-y-qr-para-pedir-resenas-google",
+ "es_path": "/radar/enlace-y-qr-para-pedir-resenas-google",
+ "tipo": "recomendacion",
+ "title": "How to Get the Link and QR Code to Ask for Google Reviews",
+ "description": "Step-by-step tutorial to copy your Google listing's review link and download its QR code, plus what you must not do when asking customers for reviews.",
+ "date": "2026-11-22",
+ "character": "nuri",
+ "tags": [
+  "reviews",
+  "google business profile",
+  "tutorial",
+  "google listing"
+ ],
+ "answer": {
+  "question": "How do I get the link and QR code to ask for reviews on Google?",
+  "text": "Go to business.google.com, click \"Read reviews\" and then \"Get more reviews\": there you copy the link and download your listing's QR code."
+ },
+ "intro": "Many customers never leave a review simply because they do not know where to click. A direct link or a QR code removes that barrier, and you can get both for free from your Google Business Profile.",
+ "body": [
+  {
+   "type": "p",
+   "text": "Asking for reviews is one of the things that helps a local business stand out on Google most, but many customers skip it out of sheer laziness: they do not know where to click. A direct link or a QR code removes that barrier."
+  },
+  {
+   "type": "p",
+   "text": "Google explains in its official help that you can remind customers to leave a review by asking them to visit a Google link or scan a QR code. Customers need to sign in to a Google account to post it, although it does not have to be a Gmail address."
+  },
+  {
+   "type": "p",
+   "text": "One rule is worth keeping clear: reviews must reflect a genuine experience, and Google strictly prohibits offering incentives, such as free or discounted products or services, in exchange for posting or changing a review, or for removing a negative one. Google treats this as fake engagement and your listing can be restricted."
+  },
+  {
+   "type": "p",
+   "text": "What does work is asking well: right after a good service, in a friendly way and without pressure, with the link one tap away. A QR code on the counter or on the receipt works very well in shops, bars and clinics."
+  },
+  {
+   "type": "h2",
+   "text": "Key points"
+  },
+  {
+   "type": "list",
+   "items": [
+    "You do it from a computer, at business.google.com",
+    "The same link works for email, WhatsApp or a post",
+    "Offering discounts or gifts in exchange for reviews is prohibited",
+    "Whoever writes the review needs a Google account"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Steps"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Go to your Business Profile. Open business.google.com with the Google account that manages your listing. Your listing must be verified.",
+    "Open your reviews. Click \"Read reviews\". Inside you will see the \"Get more reviews\" option, with the share icon next to it.",
+    "Copy the link. Click the copy icon. That link takes the customer straight to writing a review of your business.",
+    "Download the QR code. Right-click the QR code and choose \"Save image as…\". According to Google, review QR codes can for now only be generated from a desktop browser.",
+    "Share it with your customers. You can send it by email, WhatsApp or in a Facebook post, or print the QR and put it on the counter, the receipt or the business card."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "What to do"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Copy your listing's review link today and save it in your notes",
+    "Download the QR and print it for the counter or the receipt",
+    "Prepare a short WhatsApp message with the link to send after each service",
+    "Do not offer discounts or gifts in exchange for reviews"
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do my customers need a Gmail account to leave a review?",
+   "a": "They need to sign in to a Google account, but it does not have to be a Gmail address."
+  },
+  {
+   "q": "Can I generate the QR code from my phone?",
+   "a": "According to Google, review QR codes can for now only be generated from a desktop browser."
+  },
+  {
+   "q": "Can I give a discount to customers who leave a review?",
+   "a": "No. Google strictly prohibits incentives in exchange for reviews and your listing can be restricted."
+  }
+ ],
+ "sources": [
+  {
+   "name": "Google Business Profile Help: review link and QR code",
+   "url": "https://support.google.com/business/answer/16816815?hl=en"
+  }
+ ]
+}

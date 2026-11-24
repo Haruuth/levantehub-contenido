@@ -1,0 +1,87 @@
+{
+ "slug": "google-maps-blocks-review-extortion-fake-edits-gemini",
+ "slug_es": "google-maps-bloquea-resenas-extorsion-y-ediciones-falsas",
+ "es_path": "/radar/google-maps-bloquea-resenas-extorsion-y-ediciones-falsas",
+ "tipo": "novedad",
+ "title": "Google Maps Cracks Down on Review Extortion and Fake Edits with Gemini",
+ "description": "Google announced in April 2026 that it blocks review extortion and fake edit suggestions before they are published, and will alert owners to important edits.",
+ "date": "2026-11-22",
+ "character": "nuri",
+ "tags": [
+  "fake reviews",
+  "google maps",
+  "news",
+  "gemini"
+ ],
+ "answer": {
+  "question": "How is Google Maps fighting fake reviews and fake edits?",
+  "text": "Google uses automated systems to detect spikes of fake reviews and edits that break its rules, and blocks them before they are published."
+ },
+ "intro": "Google says it has strengthened Google Maps against abuse on business profiles: review extortion, fake edits and fake profiles. For a local business the practical lesson is simple: keep your listing verified and watch the email linked to it.",
+ "body": [
+  {
+   "type": "p",
+   "text": "In April 2026 Google explained on its blog that it is improving the Google Maps systems against abuse on business profiles. According to the summary of the announcement published on PPC Land, the change has three parts."
+  },
+  {
+   "type": "p",
+   "text": "First, review extortion: Google detects scam patterns and blocks suspicious posts before they go live. If a spike of fake reviews appears, it removes the content, pauses new reviews on the profile, notifies the owner and shows a notice to consumers."
+  },
+  {
+   "type": "p",
+   "text": "Second, fake edits: Gemini models detect and block, before publication, edit suggestions that break the policies."
+  },
+  {
+   "type": "p",
+   "text": "Third, email alerts: verified and active owners will receive notices to review important edits before they are published."
+  },
+  {
+   "type": "p",
+   "text": "Google also shared 2025 figures from its Trust and Safety report: more than 292 million policy-violating reviews were blocked or removed, 79 million inaccurate or unverified edits were blocked and more than 13 million fake business profiles were removed."
+  },
+  {
+   "type": "p",
+   "text": "For a local business, the practical lesson is to keep your listing verified and check the email linked to it: that way the alerts reach you and you can react quickly."
+  },
+  {
+   "type": "h2",
+   "text": "Key points"
+  },
+  {
+   "type": "list",
+   "items": [
+    "If there is a spike of fake reviews, Google removes them and pauses new reviews on the profile",
+    "Verified owners will receive alerts about important edits before they are published",
+    "Google says it removed more than 13 million fake profiles in 2025"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "What to do"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Check that your listing is verified and that the account's email works",
+    "Review your reviews every week in case a strange spike appears",
+    "If you get a fake review, save screenshots and report it from your listing"
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What does Google do if there is a spike of fake reviews?",
+   "a": "According to the summary, it removes the content, pauses new reviews on the profile, notifies the owner and shows a notice to consumers."
+  },
+  {
+   "q": "Who will receive the alerts about edits?",
+   "a": "Verified and active owners, so that they can review important edits before they are published."
+  }
+ ],
+ "sources": [
+  {
+   "name": "PPC Land: summary of Google's announcement (16 April 2026)",
+   "url": "https://ppc.land/google-maps-uses-gemini-to-stop-fake-edits-and-blocks-review-extortion-scams/"
+  }
+ ]
+}

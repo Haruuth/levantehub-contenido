@@ -1,0 +1,79 @@
+{
+ "slug": "ask-maps-gemini-assistant-google-maps-where-available",
+ "slug_es": "ask-maps-google-maps-gemini-que-es-y-donde-esta",
+ "es_path": "/radar/ask-maps-google-maps-gemini-que-es-y-donde-esta",
+ "tipo": "novedad",
+ "title": "Ask Maps: The Gemini Assistant in Google Maps, for Now Only in the US and India",
+ "description": "Google Maps launched Ask Maps, a Gemini assistant for researching local businesses. What it is, where it is available and what a business in Spain can do now.",
+ "date": "2026-11-22",
+ "character": "nuri",
+ "tags": [
+  "google maps",
+  "gemini",
+  "news",
+  "ai"
+ ],
+ "answer": {
+  "question": "What is Ask Maps in Google Maps and is it available in Spain?",
+  "text": "Ask Maps is a Google Maps feature powered by Gemini for researching local businesses and planning trips; it launched in March 2026 in the United States and India, and there is no confirmation that it is already in Spain."
+ },
+ "intro": "Ask Maps is Google's new Gemini assistant inside Google Maps. It is not confirmed for Spain yet, but it is worth knowing how it works, because it will recommend businesses based on what Google knows about them.",
+ "body": [
+  {
+   "type": "p",
+   "text": "In March 2026 Google introduced Ask Maps, a Google Maps feature that uses Gemini to research local businesses, plan trips and give recommendations. It was reported by SERoundtable, which compares it with Google's AI Mode."
+  },
+  {
+   "type": "p",
+   "text": "According to that report, it launched in the United States and India, in the Android and iOS apps, and the desktop version would come later. The source does not mention Spain, so we cannot confirm that it is already available here."
+  },
+  {
+   "type": "p",
+   "text": "For now it includes no ads, although Google did not rule them out in the future. Impressions are counted like those of standard Maps."
+  },
+  {
+   "type": "p",
+   "text": "What to do now: when these features arrive, they will recommend businesses based on what Google knows about them, that is, the information on your listing and your reviews. A complete listing, with the right categories, services, opening hours, photos and recent reviews, is the best preparation."
+  },
+  {
+   "type": "h2",
+   "text": "Key points"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Available in the Android and iOS apps in the US and India, according to the launch report",
+    "For now it includes no ads, according to what Google told a specialist outlet",
+    "Its impressions count like those of standard Maps"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "What to do"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Check that your listing has a complete category, opening hours, phone number and description",
+    "Add recent photos and the services you offer",
+    "Ask real customers for reviews using your listing's link"
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is Ask Maps available in Spain?",
+   "a": "It is not confirmed. The source only mentions the United States and India."
+  },
+  {
+   "q": "Does Ask Maps show ads?",
+   "a": "Not for now, according to what Google told a specialist outlet, although it did not rule them out in the future."
+  }
+ ],
+ "sources": [
+  {
+   "name": "SERoundtable: Google launches Ask Maps (12 March 2026)",
+   "url": "https://www.seroundtable.com/ask-maps-google-gemini-41068.html"
+  }
+ ]
+}
