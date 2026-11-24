@@ -34,6 +34,16 @@ Reglas:
 - Si algo falla: tarjeta con `estado:"error"`, el motivo exacto en `resumen` y qué hacer en `accion_tuya`.
 - No escribas en `dias/…`: eso es solo de Dirección.
 
+## ALUA Catering y ÚNICO Valencia: revisión de Susi (obligatorio)
+
+Susi revisa todo lo que se va a publicar en **aluacatering** y **unicovalencia** desde la pestaña «Revisión de Susi» del panel. Ella **no lee español**: lee ruso o armenio. Por eso, en toda tarjeta con `web` = `aluacatering` o `unicovalencia` que lleve algo para publicar (reel, short, post, texto de web, publicación de ficha):
+
+- `"texto"`: el texto EXACTO que se publicará, en español (caption del post, texto de la ficha, título y meta...). Máx. 1.500 caracteres. Las publicaciones siempre van en español.
+- `"traduccion"`: `{"ru": "...", "hy": "..."}` con la traducción fiel al ruso y al armenio de `tarea` + `texto` (y del guion de voz si es un vídeo), para que entienda qué se publica. Lenguaje sencillo.
+- `estado: "tu-ok"`.
+
+Su respuesta queda en la colección `revisiones/<id de la tarjeta>` (`{"estado":"ok"|"cambios","nota"}`). Antes de preparar algo nuevo para esas dos webs, lee las revisiones de los últimos 7 días con `db_list` y aplica lo que pidió en `nota`.
+
 ## Si el panel no responde
 
 Si `db_write` falla dos veces, guarda las mismas tarjetas como lista JSON en `oficina/estado/<AAAA-MM-DD>/<depto>.json` de este repo (commit y push). Dirección las sube al panel a las 9:07.
