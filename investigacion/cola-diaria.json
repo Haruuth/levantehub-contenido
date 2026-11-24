@@ -60,8 +60,9 @@
    "area": "SEM",
    "keyword_principal": "google ads negocio local",
    "tema": "Primera campaña de Google Ads para un negocio local de Valencia: qué es SEM, cómo funciona la subasta, presupuesto prudente, palabras clave negativas y los errores que más dinero cuestan (lección SEM nº1 del temario gratuito)",
-   "por_que": "El temario cubre SEO y GEO pero no hay ninguna pieza SEM publicada (guias/ a 24-nov-2026). Búsqueda del 24-nov: los resultados en español son guías genéricas (SendPulse, HubSpot, Sleekflow, Alejandro Rioja, Guía Alfa) y la propia Google Business (business.google.com/es/resources); no se localizó ninguna centrada en negocio local de España con ejemplos y errores. Sin datos de Windsor/Trends/Keyword Planner en esta ejecución: demanda NO medida, no hay volúmenes. Señal social no verificada: por confirmar mañana antes de redactar.",
+   "por_que": "REVISADO 24-nov (con datos). Search Console (sc-domain:levantehub.es, 28 días, Windsor): 66 filas, 0 clics, posiciones medias 12-99; las impresiones se concentran en ficha de Google (verificar, reseñas negativas, alta en Maps Valencia, horarios) y 'mi web no aparece en google'; no hay ninguna consulta SEM. Google Trends ES (relativo 0-100, 90 días, 'google ads'/'seo local'/'reseñas google'): 'google ads' pico 100 en sep-2026 y ~22 en oct-nov; 'reseñas google' ~16-22; 'seo local' 6-14. Las consultas relacionadas en ascenso de 'google ads' son ruido (cupones, apuestas, VPN), así que el término es ambiguo y no mide demanda de negocios locales. Competencia en español ya cubre el tema: Negociario, Marketegic, Publiup, venderporinternet.org, StubGroup, Karma Studio, Roger Montero, Atalaya SEO (titulares de SERP; no leídas en detalle). El hueco NO es el tema general sino un ángulo concreto. Conclusión honesta: se mantiene como pieza SEM de temario, pero con prioridad media; la demanda real de la web hoy es ficha de Google.",
    "huecos_a_cubrir": [
+    "ÁNGULO propio obligatorio (el tema general ya está cubierto por 8+ webs): p. ej. «cuándo NO pagar anuncios y mejorar antes la ficha de Google» con checklist de decisión, o errores de la primera campaña verificados en ayuda oficial",
     "explicar SEM vs SEO en una frase",
     "ejemplos locales (cerrajero, clínica dental, taller) y presupuesto prudente sin prometer resultados",
     "palabras clave negativas y concordancia",
@@ -76,7 +77,7 @@
     "https://support.google.com/google-ads/supporthub?hl=es-419"
    ],
    "investigacion": "investigacion/keywords/2026-11-24.md",
-   "condicion": "Si mañana hay tendencia social clara (regla del 23-nov) o noticia confirmada en 2 fuentes, puede sustituirse; reserva: tutorial ver y responder reseñas."
+   "condicion": "Antes de redactar: leer 3 competidores (Negociario, Publiup, Marketegic) y confirmar el ángulo. Alternativa con demanda real en Search Console: tutorial ficha de Google (verificar/alta en Maps Valencia, 6-8 impresiones/mes en pos. 70-80) con ángulo nuevo."
   }
  ]
 }
