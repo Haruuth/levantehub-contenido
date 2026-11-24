@@ -4,6 +4,8 @@ Mapa de la oficina de agentes de LevanteHUB. Cada departamento es un agente (tar
 
 **Panel:** https://claude.ai/artifact/V3xEN4BoGpEmcp5S9KoRg4
 
+**Dirección:** Haruuth (director, dueño) y Susanna «Susi» (directora, al mismo nivel). Susanna lleva además el **Instagram de ALUA Catering y Único**: todo lo que se vaya a publicar en esos Instagram pasa por su revisión (panel en ruso/armenio; las publicaciones siempre en español).
+
 El dueño (Haruuth) habla español y no es programador. Lo mira cada mañana: quiere ver de un vistazo qué hizo cada departamento, para qué web y qué le toca a él. **Nada de notificaciones largas**: solo Dirección manda UN aviso corto al día con el enlace al panel.
 
 ## Webs de la cartera (gestionadas por la oficina)

@@ -8,3 +8,4 @@
 - **Lo que hay que conseguir:** más grupos y cumpleaños (búsquedas como "cumpleaños en pub Valencia", "bar de copas Juan Llorens", "sitio para celebrar cumpleaños Valencia").
 - **Contenido de redes:** ambiente real, cócteles, futbolín, terraza al atardecer, planes de grupo, fines de semana y fechas especiales (Navidad, Nochevieja, Fallas).
 - **No hacer:** prometer precios o promociones que el dueño no haya dado.
+- **Instagram lo lleva Susanna (directora):** todo lo que se publique en el Instagram de esta web necesita su aprobación en el panel (texto en español + traducción RU/HY).

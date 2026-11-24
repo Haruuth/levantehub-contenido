@@ -9,3 +9,4 @@
 - **Temporadas fuertes:** cenas y comidas de empresa en Navidad, eventos de empresa, comuniones y celebraciones en primavera.
 - **Contenido de redes:** platos y montajes reales, eventos de empresa, "cómo pedir un catering en 3 pasos", ideas de menú por número de personas.
 - **No hacer:** inventar clientes, precios o reseñas. Nombrar marcas de clientes solo si el dueño lo autoriza.
+- **Instagram lo lleva Susanna (directora):** todo lo que se publique en el Instagram de esta web necesita su aprobación en el panel (texto en español + traducción RU/HY).
