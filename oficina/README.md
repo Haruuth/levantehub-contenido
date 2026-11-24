@@ -22,11 +22,11 @@ El dueño (Haruuth) habla español y no es programador. Lo mira cada mañana: qu
 
 | Departamento | Agente | Qué hace | Cuándo | Tarea programada |
 |---|---|---|---|---|
-| Dirección | Vega | Resumen del día en el panel + UN aviso corto | Diario 9:07 | «Oficina · Dirección (resumen 9:07)» |
+| Dirección (en la sede) | Vega | Resumen del día en el panel + UN aviso corto | Diario 9:07 | «Oficina · Dirección (resumen 9:07)» |
 | Contenido y Academia | Lumen | Pieza del día, traducciones EN/RU, curso del lunes | Diario 6:03 · lunes 4:37 | «LevanteHUB · Día completo», «Curso gratis semanal» |
 | Marketing | Nuri | Reels/Shorts de LevanteHUB (en Día completo) y de un cliente cada día | Diario 7:51 | «Oficina · Marketing clientes» |
 | Google Business | Rumbo | Posts para las fichas, respuestas a reseñas, revisión de la ficha | Mar y vie 10:19 | «Oficina · Google Business» |
-| SEO y Webs | Tuerca | Search Console, informe semanal y mejoras | Lunes (Fachadas) · domingo | «SEO semanal Fachadas Levante», «Las webs · Informe semanal», «LevanteHUB presencia online» |
+| SEO y Webs | Tuerca | Search Console, informe semanal y mejoras | Lunes (Fachadas) · domingo | «SEO semanal Fachadas Levante», «[NUBE] Las 5 webs · Informe semanal», «LevanteHUB presencia online» |
 | Herramientas gratis | Chispa | Una herramienta gratis nueva o mejorada para autónomos en levantehub.es (en rama + PR, tú apruebas) | Miércoles 10:23 | «Oficina · Herramientas gratis» |
 | Captación | Faro | Negocios de Valencia que necesitan a LevanteHUB (lista para llamar) | Pausada | «Leads diarios pymes Valencia» (encender cuando quieras) |
 | Oportunidades | Brújula | Ideas de negocio reales con inversión, margen y riesgo | Viernes 11:29 | «Oficina · Oportunidades» |
