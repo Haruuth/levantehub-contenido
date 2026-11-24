@@ -9,7 +9,8 @@ Panel: https://claude.ai/artifact/V3xEN4BoGpEmcp5S9KoRg4 · slug `e329682e-9a42-
 El dueño asigna, edita y borra tareas a cada trabajador desde el panel. Antes de hacer nada:
 
 1. Carga `mcp__claude-artifacts__db_get` y lee `equipo/<agente>` del artefacto `e329682e-9a42-4a74-8d51-b71a934fbac9` para **cada** agente que representas (tabla de abajo). Si no existe, no hay cambios.
-2. `principal_activa: false` → NO hagas tu trabajo principal de siempre; haz solo las tareas programadas. Si `principal` tiene texto, esa es la versión que manda el dueño de tu trabajo principal.
+2. `despedido: true` → ese agente está despedido: no hagas NADA de su trabajo (si representas a varios, haz solo el de los demás).
+3. `principal_activa: false` → NO hagas tu trabajo principal de siempre; haz solo las tareas programadas. Si `principal` tiene texto, esa es la versión que manda el dueño de tu trabajo principal.
 3. Para cada elemento de `tareas` con `activa: true`:
    - `cuando: "siempre"` → hazla en cada ejecución.
    - `cuando: "una"` → hazla solo si no tiene `hecha`; al terminar, márcala: `db_get` del documento, y `update` con `ifVersion` reescribiendo el array `tareas` igual pero con `"hecha": "AAAA-MM-DD"` en esa tarea.
