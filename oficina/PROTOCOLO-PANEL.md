@@ -4,6 +4,31 @@ Cada agente, al terminar (o al terminar cada entrega importante), deja **una tar
 
 Panel: https://claude.ai/artifact/V3xEN4BoGpEmcp5S9KoRg4 · slug `e329682e-9a42-4a74-8d51-b71a934fbac9`
 
+## PASO 0 (obligatorio, ANTES de empezar): tus tareas programadas
+
+El dueño asigna, edita y borra tareas a cada trabajador desde el panel. Antes de hacer nada:
+
+1. Carga `mcp__claude-artifacts__db_get` y lee `equipo/<agente>` del artefacto `e329682e-9a42-4a74-8d51-b71a934fbac9` para **cada** agente que representas (tabla de abajo). Si no existe, no hay cambios.
+2. `principal_activa: false` → NO hagas tu trabajo principal de siempre; haz solo las tareas programadas. Si `principal` tiene texto, esa es la versión que manda el dueño de tu trabajo principal.
+3. Para cada elemento de `tareas` con `activa: true`:
+   - `cuando: "siempre"` → hazla en cada ejecución.
+   - `cuando: "una"` → hazla solo si no tiene `hecha`; al terminar, márcala: `db_get` del documento, y `update` con `ifVersion` reescribiendo el array `tareas` igual pero con `"hecha": "AAAA-MM-DD"` en esa tarea.
+   - Deja una tarjeta por cada tarea hecha con `"tarea_id": "<id de la tarea>"` y `"agente"`: así sale en su historial.
+4. Si una tarea no se puede hacer (falta acceso, es ambigua o requiere pagar), tarjeta `estado:"error"` con el motivo y `tarea_id`.
+
+| Tarea programada | Agentes que representa |
+|---|---|
+| LevanteHUB · Día completo (6:03) | clara, ivan-mila, leo |
+| Curso gratis semanal (lunes) | teo |
+| Oficina · Marketing clientes | sara |
+| Oficina · Google Business | lucia |
+| Oficina · Herramientas gratis | pau |
+| Oficina · Oportunidades | bea |
+| Oficina · Dirección (9:07) | vega |
+| [NUBE] Las 5 webs · Informe semanal | marta |
+| [NUBE] LevanteHUB presencia online | alex |
+| SEO semanal Fachadas Levante | jordi |
+
 ## Herramienta
 
 Usa `mcp__claude-artifacts__db_write` (si está diferida, cárgala con ToolSearch `select:mcp__claude-artifacts__db_write,mcp__claude-artifacts__db_get,mcp__claude-artifacts__db_query`). Un `db_write` cada vez, con todas las tarjetas del agente en `ops` (máx. 50).
