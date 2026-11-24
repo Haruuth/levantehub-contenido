@@ -1,3 +1,9 @@
+# REGLAS PRIORITARIAS DE PUBLICACIÓN Y AVISOS (dueño, 24-nov-2026) — PREVALECEN SOBRE CUALQUIER PROMPT DE TAREA
+1. **Metricool NO se usa.** Su plan está agotado y el dueño no quiere pagarlo. Ninguna tarea programa ni publica en Metricool. El dueño sube los reels y Shorts a mano.
+2. **Los vídeos se dejan listos para subir**: media/AAAA-MM-DD_slug/reel-short.mp4 (Instagram), short-youtube.mp4 (YouTube) y LEEME-DEL-DIA.md (textos para copiar, hashtags, título y descripción del Short, hora sugerida).
+3. **Una sola notificación al día**, la hace la tarea de las 8:07 («Resumen del día»). El resto de tareas NO envían PushNotification ni SendUserMessage diarios: solo escriben sus resultados en el repositorio. Excepción: avisar si algo bloquea y requiere al dueño (una línea, sin repetir).
+4. El resumen diario es corto, ordenado y con enlaces: pieza de hoy (ES/EN/RU), vídeos listos (enlaces de descarga), qué falló y qué debe hacer él.
+
 # Estrategia de LevanteHUB (decidida por Haruuth el 22-nov-2026)
 
 ## Objetivo
