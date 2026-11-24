@@ -1,290 +1,290 @@
 {
-  "slug": "how-to-ask-for-google-reviews-link-and-qr-code",
-  "slug_es": "pedir-resenas-google-enlace-qr-oficial-sin-incentivos",
-  "es_path": "/google-business/guias/pedir-resenas-google-enlace-qr-oficial-sin-incentivos",
-  "tipo": "tutorial",
-  "title": "How to Ask for Google Reviews with Your Official Link and QR Code",
-  "description": "Learn how to get the official review link and QR code for your Google Business Profile, where to place them, message templates and which incentives are banned.",
-  "date": "2026-11-23",
-  "character": "nuri",
-  "tags": [
-    "tutorial",
-    "google reviews",
-    "review link",
-    "qr code",
-    "google business profile",
-    "local seo valencia",
-    "online reputation"
-  ],
-  "answer": {
-    "question": "How do I ask customers for Google reviews with an official link and QR code?",
-    "text": "Sign in at business.google.com, open \"Read reviews\" and then \"Get more reviews\": there you copy your review link and download the QR code. Share it with every customer equally, and never offer discounts or gifts in exchange for a review."
+ "slug": "ask-google-reviews-qr",
+ "slug_es": "pedir-resenas-google-enlace-qr-oficial-sin-incentivos",
+ "es_path": "/google-business/guias/pedir-resenas-google-enlace-qr-oficial-sin-incentivos",
+ "tipo": "tutorial",
+ "title": "How to Ask for Google Reviews with Your Official Link and QR Code",
+ "description": "Learn how to get the official review link and QR code for your Google Business Profile, where to place them, message templates and which incentives are banned.",
+ "date": "2026-11-23",
+ "character": "nuri",
+ "tags": [
+  "tutorial",
+  "google reviews",
+  "review link",
+  "qr code",
+  "google business profile",
+  "local seo valencia",
+  "online reputation"
+ ],
+ "answer": {
+  "question": "How do I ask customers for Google reviews with an official link and QR code?",
+  "text": "Sign in at business.google.com, open \"Read reviews\" and then \"Get more reviews\": there you copy your review link and download the QR code. Share it with every customer equally, and never offer discounts or gifts in exchange for a review."
+ },
+ "intro": "You have happy customers, but very few of them leave a Google review. Often it is not unwillingness: they simply do not know where to tap. In this free tutorial we show you how to get the official link and QR code from your Business Profile, where to place them in your business, which messages to send and which practices Google bans, so you do not put your listing at risk.",
+ "body": [
+  {
+   "type": "answer",
+   "question": "Explained like you're five",
+   "text": "Imagine your shop has a box for opinions and nobody knows where it is. The Google link and QR code are a giant arrow saying: \"Leave your opinion here!\". You just show the arrow to someone who was happy. What you cannot do is give out sweets in exchange for nice opinions: that is cheating, and Google gets angry."
   },
-  "intro": "You have happy customers, but very few of them leave a Google review. Often it is not unwillingness: they simply do not know where to tap. In this free tutorial we show you how to get the official link and QR code from your Business Profile, where to place them in your business, which messages to send and which practices Google bans, so you do not put your listing at risk.",
-  "body": [
-    {
-      "type": "answer",
-      "question": "Explained like you're five",
-      "text": "Imagine your shop has a box for opinions and nobody knows where it is. The Google link and QR code are a giant arrow saying: \"Leave your opinion here!\". You just show the arrow to someone who was happy. What you cannot do is give out sweets in exchange for nice opinions: that is cheating, and Google gets angry."
-    },
-    {
-      "type": "h2",
-      "text": "What you will get from this tutorial"
-    },
-    {
-      "type": "p",
-      "text": "By the end you will have the direct link and the QR code for your Google listing, you will know where to put them (WhatsApp, counter, receipt, email), you will have three ready-to-copy messages and you will understand which practices are banned so your listing does not get restricted. You do not need any paid tool: everything comes from your own Google Business Profile, formerly known as Google My Business."
-    },
-    {
-      "type": "p",
-      "text": "Estimated time: 15 minutes the first time. To follow the tutorial you need a verified listing and owner or manager access. If you do not have one yet, start with our guide on how to create and verify your Google Business listing. Menu path last checked on 22 November 2026; Google changes its screens often, so if something does not match, use the official help linked at the end."
-    },
-    {
-      "type": "h2",
-      "text": "Before you start: what the review link is and what it is for"
-    },
-    {
-      "type": "p",
-      "text": "When someone wants to review a business, they normally have to search for it on Google or Maps, open the listing, find the reviews section and tap the button to write one. Every extra step is a chance for them to give up and leave it for another day. The review link skips all those steps: one tap and the person lands directly in the window where they rate and write about your specific business."
-    },
-    {
-      "type": "p",
-      "text": "The QR code does the same thing in the physical world: the customer scans it with their phone camera and lands in the same place. According to Google's official help, you can remind your customers to leave a review by asking them to visit a Google link or scan a QR code. One detail to keep in mind: to publish the review, the customer must sign in to a Google account, although it does not have to be a Gmail address."
-    },
-    {
-      "type": "h2",
-      "text": "Step 1: open your Business Profile"
-    },
-    {
-      "type": "list",
-      "ordered": true,
-      "items": [
-        "Open the browser on your computer and sign in with the Google account that manages your listing (the same one you used to verify it).",
-        "Go to business.google.com. You will see your business dashboard with the listing name, the average rating and a series of cards or shortcuts.",
-        "If you manage several businesses, pick the right one first in the selector at the top. Copying the link of the wrong location is a very common mistake."
-      ]
-    },
-    {
-      "type": "p",
-      "text": "What you will see: your profile with the business name, the address and management buttons or cards. If you see a message asking you to verify the listing instead, finish verification first: without it you will not have the review options."
-    },
-    {
-      "type": "h2",
-      "text": "Step 2: open the reviews section and find the option to get more"
-    },
-    {
-      "type": "list",
-      "ordered": true,
-      "items": [
-        "On your listing dashboard, click \"Read reviews\".",
-        "Inside that section, find and click \"Get more reviews\".",
-        "A window will open with the link to ask for reviews on your listing and the option to download the QR code."
-      ]
-    },
-    {
-      "type": "p",
-      "text": "What you will see: a pop-up with a long or short Google link, a button to copy it and another to download the QR code. The exact button names may vary slightly depending on your account and the date. If you cannot find \"Get more reviews\", check that you are signed in as owner or manager and not as a user with limited permissions, and review the official help listed at the end."
-    },
-    {
-      "type": "h2",
-      "text": "Step 3: copy the link and test it before sending it"
-    },
-    {
-      "type": "list",
-      "ordered": true,
-      "items": [
-        "Click the button to copy the link.",
-        "Paste it into an incognito tab or on your phone.",
-        "Check that the review form opens with the name and address of your business, not those of another location or branch."
-      ]
-    },
-    {
-      "type": "p",
-      "text": "This one-minute test saves you a headache: a link pointing to the wrong listing sends reviews to a business that is not yours. If your business shares its name with another one (very common with hair salons, bars and garages), also check the address that appears."
-    },
-    {
-      "type": "h2",
-      "text": "Step 4: download the QR code"
-    },
-    {
-      "type": "list",
-      "ordered": true,
-      "items": [
-        "In the same \"Get more reviews\" window, choose the option to download the QR code.",
-        "Save the file in a folder you can find easily, for example \"Marketing > Reviews\".",
-        "Scan it with your phone camera, just as a customer would, and check that it takes you to the right form."
-      ]
-    },
-    {
-      "type": "p",
-      "text": "What you will see: a square image with the code. When printed, it should be at least three or four centimetres on each side and have good contrast (black on white) so any phone can read it without effort. Test it with two different phones before printing a hundred cards."
-    },
-    {
-      "type": "h2",
-      "text": "What about on my phone?"
-    },
-    {
-      "type": "p",
-      "text": "The link you copied on the computer works on any phone, so the most practical thing is to send it to yourself by WhatsApp or email and keep it in a pinned message or in your phone notes: that way it is one tap away when you finish a job. In this tutorial we do not describe the mobile app menus because we could not verify their exact path in the official documentation today and we prefer not to invent steps; if you want to do it from your phone, check the official Google help listed at the end."
-    },
-    {
-      "type": "h2",
-      "text": "Step 5: where and when to ask for the review"
-    },
-    {
-      "type": "p",
-      "text": "Having the link is not enough: you need to put it in the customer's path right when they are happy. These are the places that usually work best depending on the type of business:"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Hair salon: when the service ends, while the customer looks in the mirror, show the QR on a small stand next to the till or send the link by WhatsApp when they leave.",
-        "Restaurant or bar: QR on the bill or receipt, not on the table during the meal, so you do not interrupt; a thank-you message if you saved the contact from a booking.",
-        "Clinic or practice: link in the follow-up email or message after the appointment, never mentioning any health data or the treatment carried out.",
-        "Garage: a card with a QR inside the invoice folder or a link by message when the customer collects the car.",
-        "Neighbourhood shop: QR next to the card reader and the link on the bag or receipt."
-      ]
-    },
-    {
-      "type": "tip",
-      "title": "The best moment",
-      "text": "Ask for the review within the first hours after a good service, while the memory is fresh. A sincere, short request works better than a pushy one. If the customer says no, do not insist.",
-      "mood": "happy"
-    },
-    {
-      "type": "h2",
-      "text": "Three message templates to copy"
-    },
-    {
-      "type": "p",
-      "text": "Adapt them to your tone and the customer's name. None of them offers anything in exchange for the review, and none asks only for positive opinions."
-    },
-    {
-      "type": "list",
-      "items": [
-        "WhatsApp (hair salon): \"Hi Marta, thanks for coming today. If you like how it turned out, you would help us a lot by sharing it on Google with this link: [link]. And if something did not go well, tell us and we will fix it. Best, Laura\".",
-        "Counter (sign or card with QR): \"Your opinion helps us improve and helps other neighbours choose. Scan the code and tell us how it went\".",
-        "Follow-up email (clinic): \"Thank you for trusting us. If you would like to share your experience, you can do so at this link: [link]. If you prefer to tell us something privately, just reply to this email\"."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "What you must NOT do: what Google prohibits"
-    },
-    {
-      "type": "p",
-      "text": "This is the most important section of the tutorial, because many tips circulating online clash with Google's policies. In its official help, Google states that reviews must reflect an authentic experience and strictly prohibits offering incentives, such as free or discounted products or services, in exchange for posting or changing a review, or for removing a negative one. Google treats this as fake engagement and your listing may be restricted."
-    },
-    {
-      "type": "list",
-      "items": [
-        "Do not offer discounts, gifts, coffees or prize draws in exchange for a review, not even \"if it is five stars\".",
-        "Do not ask only the customers you know are happy and steer the unhappy ones to a private form: this is a practice to avoid (our advice; we recommend you read the policies section of the official help). Offer the link to everyone equally and let each person say what they think.",
-        "Do not write reviews yourself, or have your family or staff write them, about your own business.",
-        "Do not buy reviews or hire opinion packages: Google actively pursues this practice and it can lead to reviews being removed or your listing being restricted.",
-        "Do not offer any compensation for someone deleting a negative review."
-      ]
-    },
-    {
-      "type": "p",
-      "text": "If someone offers you reviews for money, turn them down. If you want context on how Google is cracking down on abuse in Maps, read our piece on extortion reviews and fake edits."
-    },
-    {
-      "type": "h2",
-      "text": "Common mistakes and how to fix them"
-    },
-    {
-      "type": "list",
-      "items": [
-        "\"The link opens another business\": you copied the one from a different listing. Go back to Step 1, choose the right listing and repeat.",
-        "\"The customer says they cannot post\": they must sign in with a Google account. It does not need to be Gmail, but it must be a Google account. Encourage them to do it from their phone, where they are usually already signed in.",
-        "\"The QR does not scan\": usually because of poor printing, small size or glare on the paper. Print it larger, on matte paper and with good contrast.",
-        "\"The review does not show up straight away\": sometimes it takes a while to appear. Wait a reasonable time before complaining. Google has its own help page about missing or delayed reviews.",
-        "\"I got an unfair review\": do not ignore it or argue. See our guide on replying to negative reviews and reporting fake ones."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Final checklist"
-    },
-    {
-      "type": "checklist",
-      "title": "Before you call the tutorial done",
-      "items": [
-        "I signed in at business.google.com with the right account and chose the right listing.",
-        "I opened \"Read reviews\" and \"Get more reviews\" and copied the link.",
-        "I tested the link on my phone and it opens my business, not another one.",
-        "I downloaded the QR, scanned it with two phones and it works.",
-        "I decided where to put it: counter, receipt, invoice, WhatsApp or email.",
-        "I prepared my three messages without offering any incentive.",
-        "I do not filter customers: I ask everyone equally for a review.",
-        "I put a date in my calendar to check new reviews every week."
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Next free lesson"
-    },
-    {
-      "type": "p",
-      "text": "Once reviews start arriving, it is time to manage them: view them, reply with a routine and know what to do with the ones that should not be there. Our next free lesson in the Google Business area will explain how to view and reply to your reviews step by step, from phone and computer."
-    },
-    {
-      "type": "p",
-      "text": "If you would rather hand off managing your Google listing and local SEO in Valencia, at LevanteHUB we can give you a hand; if not, this lesson and the following ones are designed so you can do it yourself, for free."
-    },
-    {
-      "type": "h2",
-      "text": "Official sources"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Google Business Profile Help: get a link or QR code to ask for reviews: support.google.com/business/answer/16816815",
-        "Google Business Profile Help: tips to get more reviews and policies on incentives: support.google.com/business/answer/3474122",
-        "Google Business Profile Help: missing or delayed reviews: support.google.com/business/answer/10313341"
-      ]
-    }
-  ],
-  "faq": [
-    {
-      "q": "Are the Google review link and QR code free?",
-      "a": "Yes. Your own Google Business Profile generates them at no cost. You do not need to pay for cards or third-party tools to ask for reviews."
-    },
-    {
-      "q": "Can I give a discount to someone who leaves a review?",
-      "a": "No. Google strictly prohibits offering incentives, such as free or discounted products or services, in exchange for posting or changing a review. It can be treated as fake engagement and your listing may be restricted."
-    },
-    {
-      "q": "Do my customers need a Gmail account?",
-      "a": "They need to sign in to a Google account to post the review, although it does not have to be a Gmail address, according to Google's official help."
-    },
-    {
-      "q": "Can I ask only satisfied customers for reviews?",
-      "a": "It is better not to filter. Choose whom to ask naturally, but do not steer unhappy customers to a private channel to stop them reviewing on Google: offer the link to everyone equally."
-    },
-    {
-      "q": "Why does my review not show up right away?",
-      "a": "It may take time to appear, or not appear at all if it breaks a policy. Google has a specific help page about missing or delayed reviews; start by checking it."
-    },
-    {
-      "q": "How often should I ask for reviews?",
-      "a": "There is no official figure. The sensible approach is to ask real customers regularly right after the service, without mass campaigns or artificial spikes."
-    }
-  ],
-  "sources": [
-    {
-      "name": "Google Business Profile Help: get a link or QR code to ask for reviews",
-      "url": "https://support.google.com/business/answer/16816815?hl=en"
-    },
-    {
-      "name": "Google Business Profile Help: tips to get more reviews and policies on incentives",
-      "url": "https://support.google.com/business/answer/3474122?hl=en"
-    },
-    {
-      "name": "Google Business Profile Help: missing or delayed reviews",
-      "url": "https://support.google.com/business/answer/10313341?hl=en"
-    }
-  ],
-  "video_url": "https://cdn.jsdelivr.net/gh/Haruuth/levantehub-contenido@main/media/2026-11-23_pedir-resenas-google-enlace-qr/reel-short.mp4"
+  {
+   "type": "h2",
+   "text": "What you will get from this tutorial"
+  },
+  {
+   "type": "p",
+   "text": "By the end you will have the direct link and the QR code for your Google listing, you will know where to put them (WhatsApp, counter, receipt, email), you will have three ready-to-copy messages and you will understand which practices are banned so your listing does not get restricted. You do not need any paid tool: everything comes from your own Google Business Profile, formerly known as Google My Business."
+  },
+  {
+   "type": "p",
+   "text": "Estimated time: 15 minutes the first time. To follow the tutorial you need a verified listing and owner or manager access. If you do not have one yet, start with our guide on how to create and verify your Google Business listing. Menu path last checked on 22 November 2026; Google changes its screens often, so if something does not match, use the official help linked at the end."
+  },
+  {
+   "type": "h2",
+   "text": "Before you start: what the review link is and what it is for"
+  },
+  {
+   "type": "p",
+   "text": "When someone wants to review a business, they normally have to search for it on Google or Maps, open the listing, find the reviews section and tap the button to write one. Every extra step is a chance for them to give up and leave it for another day. The review link skips all those steps: one tap and the person lands directly in the window where they rate and write about your specific business."
+  },
+  {
+   "type": "p",
+   "text": "The QR code does the same thing in the physical world: the customer scans it with their phone camera and lands in the same place. According to Google's official help, you can remind your customers to leave a review by asking them to visit a Google link or scan a QR code. One detail to keep in mind: to publish the review, the customer must sign in to a Google account, although it does not have to be a Gmail address."
+  },
+  {
+   "type": "h2",
+   "text": "Step 1: open your Business Profile"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Open the browser on your computer and sign in with the Google account that manages your listing (the same one you used to verify it).",
+    "Go to business.google.com. You will see your business dashboard with the listing name, the average rating and a series of cards or shortcuts.",
+    "If you manage several businesses, pick the right one first in the selector at the top. Copying the link of the wrong location is a very common mistake."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "What you will see: your profile with the business name, the address and management buttons or cards. If you see a message asking you to verify the listing instead, finish verification first: without it you will not have the review options."
+  },
+  {
+   "type": "h2",
+   "text": "Step 2: open the reviews section and find the option to get more"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "On your listing dashboard, click \"Read reviews\".",
+    "Inside that section, find and click \"Get more reviews\".",
+    "A window will open with the link to ask for reviews on your listing and the option to download the QR code."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "What you will see: a pop-up with a long or short Google link, a button to copy it and another to download the QR code. The exact button names may vary slightly depending on your account and the date. If you cannot find \"Get more reviews\", check that you are signed in as owner or manager and not as a user with limited permissions, and review the official help listed at the end."
+  },
+  {
+   "type": "h2",
+   "text": "Step 3: copy the link and test it before sending it"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Click the button to copy the link.",
+    "Paste it into an incognito tab or on your phone.",
+    "Check that the review form opens with the name and address of your business, not those of another location or branch."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "This one-minute test saves you a headache: a link pointing to the wrong listing sends reviews to a business that is not yours. If your business shares its name with another one (very common with hair salons, bars and garages), also check the address that appears."
+  },
+  {
+   "type": "h2",
+   "text": "Step 4: download the QR code"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "In the same \"Get more reviews\" window, choose the option to download the QR code.",
+    "Save the file in a folder you can find easily, for example \"Marketing > Reviews\".",
+    "Scan it with your phone camera, just as a customer would, and check that it takes you to the right form."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "What you will see: a square image with the code. When printed, it should be at least three or four centimetres on each side and have good contrast (black on white) so any phone can read it without effort. Test it with two different phones before printing a hundred cards."
+  },
+  {
+   "type": "h2",
+   "text": "What about on my phone?"
+  },
+  {
+   "type": "p",
+   "text": "The link you copied on the computer works on any phone, so the most practical thing is to send it to yourself by WhatsApp or email and keep it in a pinned message or in your phone notes: that way it is one tap away when you finish a job. In this tutorial we do not describe the mobile app menus because we could not verify their exact path in the official documentation today and we prefer not to invent steps; if you want to do it from your phone, check the official Google help listed at the end."
+  },
+  {
+   "type": "h2",
+   "text": "Step 5: where and when to ask for the review"
+  },
+  {
+   "type": "p",
+   "text": "Having the link is not enough: you need to put it in the customer's path right when they are happy. These are the places that usually work best depending on the type of business:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Hair salon: when the service ends, while the customer looks in the mirror, show the QR on a small stand next to the till or send the link by WhatsApp when they leave.",
+    "Restaurant or bar: QR on the bill or receipt, not on the table during the meal, so you do not interrupt; a thank-you message if you saved the contact from a booking.",
+    "Clinic or practice: link in the follow-up email or message after the appointment, never mentioning any health data or the treatment carried out.",
+    "Garage: a card with a QR inside the invoice folder or a link by message when the customer collects the car.",
+    "Neighbourhood shop: QR next to the card reader and the link on the bag or receipt."
+   ]
+  },
+  {
+   "type": "tip",
+   "title": "The best moment",
+   "text": "Ask for the review within the first hours after a good service, while the memory is fresh. A sincere, short request works better than a pushy one. If the customer says no, do not insist.",
+   "mood": "happy"
+  },
+  {
+   "type": "h2",
+   "text": "Three message templates to copy"
+  },
+  {
+   "type": "p",
+   "text": "Adapt them to your tone and the customer's name. None of them offers anything in exchange for the review, and none asks only for positive opinions."
+  },
+  {
+   "type": "list",
+   "items": [
+    "WhatsApp (hair salon): \"Hi Marta, thanks for coming today. If you like how it turned out, you would help us a lot by sharing it on Google with this link: [link]. And if something did not go well, tell us and we will fix it. Best, Laura\".",
+    "Counter (sign or card with QR): \"Your opinion helps us improve and helps other neighbours choose. Scan the code and tell us how it went\".",
+    "Follow-up email (clinic): \"Thank you for trusting us. If you would like to share your experience, you can do so at this link: [link]. If you prefer to tell us something privately, just reply to this email\"."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "What you must NOT do: what Google prohibits"
+  },
+  {
+   "type": "p",
+   "text": "This is the most important section of the tutorial, because many tips circulating online clash with Google's policies. In its official help, Google states that reviews must reflect an authentic experience and strictly prohibits offering incentives, such as free or discounted products or services, in exchange for posting or changing a review, or for removing a negative one. Google treats this as fake engagement and your listing may be restricted."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Do not offer discounts, gifts, coffees or prize draws in exchange for a review, not even \"if it is five stars\".",
+    "Do not ask only the customers you know are happy and steer the unhappy ones to a private form: this is a practice to avoid (our advice; we recommend you read the policies section of the official help). Offer the link to everyone equally and let each person say what they think.",
+    "Do not write reviews yourself, or have your family or staff write them, about your own business.",
+    "Do not buy reviews or hire opinion packages: Google actively pursues this practice and it can lead to reviews being removed or your listing being restricted.",
+    "Do not offer any compensation for someone deleting a negative review."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "If someone offers you reviews for money, turn them down. If you want context on how Google is cracking down on abuse in Maps, read our piece on extortion reviews and fake edits."
+  },
+  {
+   "type": "h2",
+   "text": "Common mistakes and how to fix them"
+  },
+  {
+   "type": "list",
+   "items": [
+    "\"The link opens another business\": you copied the one from a different listing. Go back to Step 1, choose the right listing and repeat.",
+    "\"The customer says they cannot post\": they must sign in with a Google account. It does not need to be Gmail, but it must be a Google account. Encourage them to do it from their phone, where they are usually already signed in.",
+    "\"The QR does not scan\": usually because of poor printing, small size or glare on the paper. Print it larger, on matte paper and with good contrast.",
+    "\"The review does not show up straight away\": sometimes it takes a while to appear. Wait a reasonable time before complaining. Google has its own help page about missing or delayed reviews.",
+    "\"I got an unfair review\": do not ignore it or argue. See our guide on replying to negative reviews and reporting fake ones."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Final checklist"
+  },
+  {
+   "type": "checklist",
+   "title": "Before you call the tutorial done",
+   "items": [
+    "I signed in at business.google.com with the right account and chose the right listing.",
+    "I opened \"Read reviews\" and \"Get more reviews\" and copied the link.",
+    "I tested the link on my phone and it opens my business, not another one.",
+    "I downloaded the QR, scanned it with two phones and it works.",
+    "I decided where to put it: counter, receipt, invoice, WhatsApp or email.",
+    "I prepared my three messages without offering any incentive.",
+    "I do not filter customers: I ask everyone equally for a review.",
+    "I put a date in my calendar to check new reviews every week."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Next free lesson"
+  },
+  {
+   "type": "p",
+   "text": "Once reviews start arriving, it is time to manage them: view them, reply with a routine and know what to do with the ones that should not be there. Our next free lesson in the Google Business area will explain how to view and reply to your reviews step by step, from phone and computer."
+  },
+  {
+   "type": "p",
+   "text": "If you would rather hand off managing your Google listing and local SEO in Valencia, at LevanteHUB we can give you a hand; if not, this lesson and the following ones are designed so you can do it yourself, for free."
+  },
+  {
+   "type": "h2",
+   "text": "Official sources"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Google Business Profile Help: get a link or QR code to ask for reviews: support.google.com/business/answer/16816815",
+    "Google Business Profile Help: tips to get more reviews and policies on incentives: support.google.com/business/answer/3474122",
+    "Google Business Profile Help: missing or delayed reviews: support.google.com/business/answer/10313341"
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Are the Google review link and QR code free?",
+   "a": "Yes. Your own Google Business Profile generates them at no cost. You do not need to pay for cards or third-party tools to ask for reviews."
+  },
+  {
+   "q": "Can I give a discount to someone who leaves a review?",
+   "a": "No. Google strictly prohibits offering incentives, such as free or discounted products or services, in exchange for posting or changing a review. It can be treated as fake engagement and your listing may be restricted."
+  },
+  {
+   "q": "Do my customers need a Gmail account?",
+   "a": "They need to sign in to a Google account to post the review, although it does not have to be a Gmail address, according to Google's official help."
+  },
+  {
+   "q": "Can I ask only satisfied customers for reviews?",
+   "a": "It is better not to filter. Choose whom to ask naturally, but do not steer unhappy customers to a private channel to stop them reviewing on Google: offer the link to everyone equally."
+  },
+  {
+   "q": "Why does my review not show up right away?",
+   "a": "It may take time to appear, or not appear at all if it breaks a policy. Google has a specific help page about missing or delayed reviews; start by checking it."
+  },
+  {
+   "q": "How often should I ask for reviews?",
+   "a": "There is no official figure. The sensible approach is to ask real customers regularly right after the service, without mass campaigns or artificial spikes."
+  }
+ ],
+ "sources": [
+  {
+   "name": "Google Business Profile Help: get a link or QR code to ask for reviews",
+   "url": "https://support.google.com/business/answer/16816815?hl=en"
+  },
+  {
+   "name": "Google Business Profile Help: tips to get more reviews and policies on incentives",
+   "url": "https://support.google.com/business/answer/3474122?hl=en"
+  },
+  {
+   "name": "Google Business Profile Help: missing or delayed reviews",
+   "url": "https://support.google.com/business/answer/10313341?hl=en"
+  }
+ ],
+ "video_url": "https://cdn.jsdelivr.net/gh/Haruuth/levantehub-contenido@main/media/2026-11-23_pedir-resenas-google-enlace-qr/reel-short.mp4"
 }
