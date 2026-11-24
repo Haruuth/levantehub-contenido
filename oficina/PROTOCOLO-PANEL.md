@@ -70,6 +70,24 @@ Reglas:
 - Si algo falla: tarjeta con `estado:"error"`, el motivo exacto en `resumen` y qué hacer en `accion_tuya`.
 - No escribas en `dias/…`: eso es solo de Dirección.
 
+## Reels, Shorts y posts que el director sube a mano: campo `publicar` (obligatorio)
+
+Toda tarjeta con `estado: "tu-ok"` que haya que subir a una red lleva un campo `publicar`: una entrada por cada sitio donde va. El panel enseña el vídeo, un botón para descargarlo, el texto listo para copiar y un botón «Ya publicado aquí». Cuando el director marca todos, la tarjeta pasa sola a `hecho`.
+
+```json
+"publicar": [
+  {"red": "instagram", "tipo": "Reel", "cuenta": "LevanteHUB", "texto": "Texto completo con emojis, enlace y hashtags"},
+  {"red": "youtube", "tipo": "Short", "cuenta": "LevanteHUB", "titulo": "Título del Short", "texto": "Descripción con enlace y #Shorts"}
+]
+```
+
+- `red`: `instagram`, `youtube`, `tiktok`, `facebook` o `google` (ficha de Google).
+- `cuenta`: el nombre de la cuenta donde va (LevanteHUB, ALUA Catering, Único Valencia, Erevan Print, Fachadas Levante).
+- `texto` (y `titulo` en YouTube): el texto final, completo, en español, para copiar y pegar tal cual. No pongas «ver LEEME».
+- No hace falta hora: el director publica cuando puede.
+- El vídeo tiene que estar subido como asset y puesto en `media` (sección anterior).
+- `accion_tuya`: una frase corta, por ejemplo «Subir el reel a Instagram de LevanteHUB».
+
 ## ALUA Catering y ÚNICO Valencia: revisión de Susi (obligatorio)
 
 Susi revisa todo lo que se va a publicar en **aluacatering** y **unicovalencia** desde la pestaña «Revisión de Susi» del panel. Ella **no lee español**: lee ruso o armenio. Por eso, en toda tarjeta con `web` = `aluacatering` o `unicovalencia` que lleve algo para publicar (reel, short, post, texto de web, publicación de ficha):
