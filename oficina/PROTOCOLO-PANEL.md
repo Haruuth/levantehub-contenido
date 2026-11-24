@@ -29,6 +29,7 @@ El dueño asigna, edita y borra tareas a cada trabajador desde el panel. Antes d
 | [NUBE] Las 5 webs · Informe semanal | marta |
 | [NUBE] LevanteHUB presencia online | alex |
 | SEO semanal Fachadas Levante | jordi |
+| Oficina · Captación · Raúl (leads 7:34) | raul |
 
 ## Herramienta
 
@@ -69,6 +70,19 @@ Reglas:
 - Lenguaje de dueño de negocio, nada técnico. Sin markdown dentro de los textos.
 - Si algo falla: tarjeta con `estado:"error"`, el motivo exacto en `resumen` y qué hacer en `accion_tuya`.
 - No escribas en `dias/…`: eso es solo de Dirección.
+
+## Accesos directos en cada tarjeta (obligatorio)
+
+El dueño abre cada tarjeta y tiene que poder ver TODO lo que has hecho sin buscar. En `enlaces` pon un enlace por cada cosa que hayas creado, con un nombre claro (`t`) y la URL pública real (`u`, siempre https):
+
+- Pieza publicada en la web: la URL española y, en la tarjeta de traducciones, la inglesa y la rusa.
+- Vídeos: la copia en raw.githubusercontent.com del .mp4 (además del asset en `media`).
+- Documento de textos (LEEME) en github.com.
+- Informes, hojas de leads, oportunidades, PR: su enlace directo.
+
+Traducciones: la URL usa el slug TRADUCIDO, el campo `slug` de `traducciones/<en|ru>/<slug_es>.json`, nunca el español. Rutas: `/en/guides/<slug>` o `/en/radar/<slug>`, `/ru/rukovodstva/<slug>` o `/ru/radar/<slug>`. Un 200 no basta: la web devuelve la portada con 200 cuando la ruta no existe. Comprueba con WebFetch que el título de la página es el del artículo; si sale la portada, la tarjeta va con `estado:"error"` y el motivo.
+
+Textos para redes (campo `publicar`): uno por plataforma, adaptado y optimizado para su buscador: Instagram con gancho en la primera línea, palabras clave en el texto y 8-12 hashtags; YouTube con título de 70 caracteres máximo con la palabra clave al principio y descripción con enlace y #Shorts; TikTok con texto corto y 3-5 hashtags si se publica allí.
 
 ## Reels, Shorts y posts que el director sube a mano: campo `publicar` (obligatorio)
 
