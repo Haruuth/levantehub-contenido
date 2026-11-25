@@ -1,56 +1,64 @@
 {
- "slug": "rendimiento-ficha-google-llamadas-indicaciones-visitas",
- "tipo": "recomendacion",
- "title": "Cómo ver cuántas llamadas y visitas te trae tu ficha de Google",
- "description": "Tutorial para abrir el informe de Rendimiento de tu Perfil de Empresa y saber cuántas personas llaman, piden cómo llegar o visitan tu web.",
- "date": "2026-11-22",
- "answer": "En business.google.com pulsa «Rendimiento», elige el periodo y pulsa «Aplicar»; en el móvil, desde la app de Google Maps, toca «Empresa» y «Ver más» junto a «Rendimiento».",
- "puntos_clave": [
-  "Solo hay datos si tu ficha está verificada",
-  "Muestra búsquedas, visualizaciones, llamadas, indicaciones y clics a tu web",
-  "Solo salen las métricas que aplican a tu negocio",
-  "La métrica de búsquedas se actualiza a principios de mes"
- ],
- "pasos": [
-  {
-   "titulo": "Inicia sesión con la cuenta de tu ficha",
-   "texto": "Tienes que usar la cuenta de Google asociada al Perfil de Empresa, y el perfil debe estar verificado."
+  "slug": "rendimiento-ficha-google-llamadas-indicaciones-visitas",
+  "tipo": "recomendacion",
+  "title": "Cómo ver cuántas llamadas y visitas te trae tu ficha de Google",
+  "description": "Tutorial para abrir el informe de Rendimiento de tu Perfil de Empresa y saber cuántas personas llaman, piden cómo llegar o visitan tu web.",
+  "date": "2026-11-22",
+  "answer": "En business.google.com pulsa «Rendimiento», elige el periodo y pulsa «Aplicar»; en el móvil, desde la app de Google Maps, toca «Empresa» y «Ver más» junto a «Rendimiento».",
+  "puntos_clave": [
+    "Solo hay datos si tu ficha está verificada",
+    "Muestra búsquedas, visualizaciones, llamadas, indicaciones y clics a tu web",
+    "Solo salen las métricas que aplican a tu negocio",
+    "La métrica de búsquedas se actualiza a principios de mes"
+  ],
+  "pasos": [
+    {
+      "titulo": "Inicia sesión con la cuenta de tu ficha",
+      "texto": "Tienes que usar la cuenta de Google asociada al Perfil de Empresa, y el perfil debe estar verificado."
+    },
+    {
+      "titulo": "En el ordenador",
+      "texto": "Entra en business.google.com, pulsa «Rendimiento», elige arriba el periodo del informe y pulsa «Aplicar»."
+    },
+    {
+      "titulo": "En el móvil",
+      "texto": "En la app de Google Maps toca «Empresa» (abajo a la derecha), pulsa «Ver más» junto a «Rendimiento», elige el periodo y toca «Aplicar»."
+    },
+    {
+      "titulo": "Interpreta las métricas",
+      "texto": "Verás, según tu negocio: búsquedas con las que te encontraron, visualizaciones en Búsqueda y Maps, indicaciones, llamadas (si has añadido tu teléfono), clics a tu web y mensajes."
+    },
+    {
+      "titulo": "Compara periodos",
+      "texto": "Define un intervalo de fechas y compáralo con el anterior para ver si tus cambios (fotos, publicaciones, reseñas) mueven las cifras."
+    }
+  ],
+  "body": [
+    "Muchos negocios tienen ficha de Google y no saben si les trae clientes. El informe de Rendimiento del Perfil de Empresa lo responde con datos propios de Google: cuánta gente te ve, te llama, pide cómo llegar o entra en tu web.",
+    "Según la ayuda oficial, solo aparecen las métricas que se aplican a tu empresa, y los datos solo existen para perfiles verificados. Las visualizaciones cuentan visitantes únicos, como máximo una vez al día por persona. La métrica de búsquedas se actualiza a principios de cada mes y puede tardar hasta 5 días en mostrarse.",
+    "Que no te sorprenda ver cifras bajas al principio: lo importante es la tendencia. Si subes fotos, respondes reseñas y publicas novedades, mira cada mes si crecen las llamadas y las indicaciones."
+  ],
+  "que_hacer": [
+    "Comprueba que tu ficha está verificada y que has añadido tu teléfono",
+    "Anota hoy las cifras de llamadas, indicaciones y clics a la web como punto de partida",
+    "Revisa el informe el día 5 de cada mes, cuando ya se actualizan las búsquedas"
+  ],
+  "source": {
+    "name": "Ayuda de Perfil de Empresa de Google: entender el rendimiento",
+    "url": "https://support.google.com/business/answer/9918094?hl=es"
   },
-  {
-   "titulo": "En el ordenador",
-   "texto": "Entra en business.google.com, pulsa «Rendimiento», elige arriba el periodo del informe y pulsa «Aplicar»."
-  },
-  {
-   "titulo": "En el móvil",
-   "texto": "En la app de Google Maps toca «Empresa» (abajo a la derecha), pulsa «Ver más» junto a «Rendimiento», elige el periodo y toca «Aplicar»."
-  },
-  {
-   "titulo": "Interpreta las métricas",
-   "texto": "Verás, según tu negocio: búsquedas con las que te encontraron, visualizaciones en Búsqueda y Maps, indicaciones, llamadas (si has añadido tu teléfono), clics a tu web y mensajes."
-  },
-  {
-   "titulo": "Compara periodos",
-   "texto": "Define un intervalo de fechas y compáralo con el anterior para ver si tus cambios (fotos, publicaciones, reseñas) mueven las cifras."
-  }
- ],
- "body": [
-  "Muchos negocios tienen ficha de Google y no saben si les trae clientes. El informe de Rendimiento del Perfil de Empresa lo responde con datos propios de Google: cuánta gente te ve, te llama, pide cómo llegar o entra en tu web.",
-  "Según la ayuda oficial, solo aparecen las métricas que se aplican a tu empresa, y los datos solo existen para perfiles verificados. Las visualizaciones cuentan visitantes únicos, como máximo una vez al día por persona. La métrica de búsquedas se actualiza a principios de cada mes y puede tardar hasta 5 días en mostrarse.",
-  "Que no te sorprenda ver cifras bajas al principio: lo importante es la tendencia. Si subes fotos, respondes reseñas y publicas novedades, mira cada mes si crecen las llamadas y las indicaciones."
- ],
- "que_hacer": [
-  "Comprueba que tu ficha está verificada y que has añadido tu teléfono",
-  "Anota hoy las cifras de llamadas, indicaciones y clics a la web como punto de partida",
-  "Revisa el informe el día 5 de cada mes, cuando ya se actualizan las búsquedas"
- ],
- "source": {
-  "name": "Ayuda de Perfil de Empresa de Google: entender el rendimiento",
-  "url": "https://support.google.com/business/answer/9918094?hl=es"
- },
- "tags": [
-  "ficha de google",
-  "rendimiento",
-  "tutorial",
-  "medir resultados"
- ]
+  "tags": [
+    "ficha de google",
+    "rendimiento",
+    "medir resultados"
+  ],
+  "enlaces": [
+    {
+      "titulo": "Tutorial con vídeo: medir llamadas, rutas y visitas de tu ficha",
+      "ruta": "/google-business/guias/rendimiento-ficha-google",
+      "tipo": "tutorial",
+      "nota": "Paso a paso con vídeo explicativo.",
+      "pendiente": true
+    }
+  ]
 }

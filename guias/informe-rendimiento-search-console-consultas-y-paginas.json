@@ -1,60 +1,68 @@
 {
- "slug": "informe-rendimiento-search-console-consultas-y-paginas",
- "tipo": "recomendacion",
- "title": "Search Console: cómo ver con qué búsquedas te encuentran y qué páginas funcionan",
- "description": "Tutorial para abrir el informe de Rendimiento de Search Console y leer clics, impresiones, CTR y posición por consulta y por página.",
- "date": "2026-11-22",
- "answer": "En Search Console abre «Resultados de búsqueda» (informe de Rendimiento): por defecto muestra clics e impresiones de los últimos tres meses, y puedes agruparlos por Consultas o por Páginas.",
- "puntos_clave": [
-  "Clics: veces que alguien entró en tu web desde Google",
-  "Impresiones: veces que apareciste en los resultados",
-  "CTR es clics dividido entre impresiones",
-  "La posición media orienta, no es una cifra exacta"
- ],
- "pasos": [
-  {
-   "titulo": "Entra en Search Console",
-   "texto": "Accede con la cuenta de Google con la que verificaste tu web y elige tu propiedad."
+  "slug": "informe-rendimiento-search-console-consultas-y-paginas",
+  "tipo": "recomendacion",
+  "title": "Search Console: cómo ver con qué búsquedas te encuentran y qué páginas funcionan",
+  "description": "Tutorial para abrir el informe de Rendimiento de Search Console y leer clics, impresiones, CTR y posición por consulta y por página.",
+  "date": "2026-11-22",
+  "answer": "En Search Console abre «Resultados de búsqueda» (informe de Rendimiento): por defecto muestra clics e impresiones de los últimos tres meses, y puedes agruparlos por Consultas o por Páginas.",
+  "puntos_clave": [
+    "Clics: veces que alguien entró en tu web desde Google",
+    "Impresiones: veces que apareciste en los resultados",
+    "CTR es clics dividido entre impresiones",
+    "La posición media orienta, no es una cifra exacta"
+  ],
+  "pasos": [
+    {
+      "titulo": "Entra en Search Console",
+      "texto": "Accede con la cuenta de Google con la que verificaste tu web y elige tu propiedad."
+    },
+    {
+      "titulo": "Abre el informe de Rendimiento",
+      "texto": "En el menú, abre «Resultados de búsqueda». Verás el gráfico de clics e impresiones de Google Search de los últimos tres meses."
+    },
+    {
+      "titulo": "Activa las métricas que necesitas",
+      "texto": "Pulsa las pestañas sobre el gráfico para mostrar u ocultar clics, impresiones, CTR y posición media."
+    },
+    {
+      "titulo": "Mira las consultas",
+      "texto": "En la tabla de abajo abre la pestaña «Consultas»: son las búsquedas con las que apareció tu web. Fíjate sobre todo en las que tienen impresiones pero casi ningún clic."
+    },
+    {
+      "titulo": "Mira las páginas",
+      "texto": "Cambia a la pestaña «Páginas» para saber qué URLs aparecen más. Si una página sale mucho y recibe pocos clics, mejora su título y su descripción."
+    },
+    {
+      "titulo": "Ajusta fechas y tipo de búsqueda",
+      "texto": "Usa los filtros de fecha y de tipo de búsqueda para comparar periodos, por ejemplo las últimas cuatro semanas con las anteriores."
+    }
+  ],
+  "body": [
+    "El informe de Rendimiento de Search Console es la fuente más fiable para saber cómo te ve Google, porque son datos reales de tu web y gratis. Según la ayuda oficial de Google, por defecto muestra clics e impresiones de Google Search de los últimos tres meses.",
+    "Los clics son las veces que un usuario entra en tu sitio desde Google. Las impresiones, las veces que tu web aparece en los resultados. El CTR es el porcentaje de clics sobre impresiones. La posición media, en la tabla, es la posición media de la URL o del grupo de cada fila.",
+    "Con una web nueva es normal ver pocas impresiones y posiciones lejanas. Lo útil es detectar patrones: qué consultas se repiten, qué páginas empiezan a asomar y cuáles tienen impresiones sin clics. Ahí es donde un título más claro o una respuesta más directa en la primera pantalla marca la diferencia."
+  ],
+  "que_hacer": [
+    "Abre hoy el informe y apunta tus cinco consultas con más impresiones",
+    "Reescribe el título de la página que más aparece y menos clics recibe",
+    "Repite la revisión cada semana, comparando con el periodo anterior"
+  ],
+  "source": {
+    "name": "Ayuda de Search Console: informe de rendimiento en resultados de búsqueda",
+    "url": "https://support.google.com/webmasters/answer/7576553?hl=es"
   },
-  {
-   "titulo": "Abre el informe de Rendimiento",
-   "texto": "En el menú, abre «Resultados de búsqueda». Verás el gráfico de clics e impresiones de Google Search de los últimos tres meses."
-  },
-  {
-   "titulo": "Activa las métricas que necesitas",
-   "texto": "Pulsa las pestañas sobre el gráfico para mostrar u ocultar clics, impresiones, CTR y posición media."
-  },
-  {
-   "titulo": "Mira las consultas",
-   "texto": "En la tabla de abajo abre la pestaña «Consultas»: son las búsquedas con las que apareció tu web. Fíjate sobre todo en las que tienen impresiones pero casi ningún clic."
-  },
-  {
-   "titulo": "Mira las páginas",
-   "texto": "Cambia a la pestaña «Páginas» para saber qué URLs aparecen más. Si una página sale mucho y recibe pocos clics, mejora su título y su descripción."
-  },
-  {
-   "titulo": "Ajusta fechas y tipo de búsqueda",
-   "texto": "Usa los filtros de fecha y de tipo de búsqueda para comparar periodos, por ejemplo las últimas cuatro semanas con las anteriores."
-  }
- ],
- "body": [
-  "El informe de Rendimiento de Search Console es la fuente más fiable para saber cómo te ve Google, porque son datos reales de tu web y gratis. Según la ayuda oficial de Google, por defecto muestra clics e impresiones de Google Search de los últimos tres meses.",
-  "Los clics son las veces que un usuario entra en tu sitio desde Google. Las impresiones, las veces que tu web aparece en los resultados. El CTR es el porcentaje de clics sobre impresiones. La posición media, en la tabla, es la posición media de la URL o del grupo de cada fila.",
-  "Con una web nueva es normal ver pocas impresiones y posiciones lejanas. Lo útil es detectar patrones: qué consultas se repiten, qué páginas empiezan a asomar y cuáles tienen impresiones sin clics. Ahí es donde un título más claro o una respuesta más directa en la primera pantalla marca la diferencia."
- ],
- "que_hacer": [
-  "Abre hoy el informe y apunta tus cinco consultas con más impresiones",
-  "Reescribe el título de la página que más aparece y menos clics recibe",
-  "Repite la revisión cada semana, comparando con el periodo anterior"
- ],
- "source": {
-  "name": "Ayuda de Search Console: informe de rendimiento en resultados de búsqueda",
-  "url": "https://support.google.com/webmasters/answer/7576553?hl=es"
- },
- "tags": [
-  "search console",
-  "medir resultados",
-  "tutorial",
-  "seo"
- ]
+  "tags": [
+    "search console",
+    "medir resultados",
+    "seo"
+  ],
+  "enlaces": [
+    {
+      "titulo": "Tutorial con vídeo: leer el informe de rendimiento de Search Console",
+      "ruta": "/servicios-web/guias/informe-search-console",
+      "tipo": "tutorial",
+      "nota": "Paso a paso con vídeo explicativo.",
+      "pendiente": true
+    }
+  ]
 }

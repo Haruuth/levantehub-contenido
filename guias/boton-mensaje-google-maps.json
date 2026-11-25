@@ -26,9 +26,9 @@
   ],
   "enlaces": [
     {
-      "titulo": "Cómo activar y configurar los mensajes en tu ficha de Google",
-      "ruta": "/radar/como-activar-mensajes-ficha-google",
-      "tipo": "guia",
+      "titulo": "Tutorial con vídeo: cómo activar los mensajes en tu ficha de Google",
+      "ruta": "/google-business/guias/activar-mensajes-ficha",
+      "tipo": "tutorial",
       "nota": "Paso a paso para dejar el botón «Mensaje» listo cuando esté disponible en tu ficha.",
       "pendiente": true
     },

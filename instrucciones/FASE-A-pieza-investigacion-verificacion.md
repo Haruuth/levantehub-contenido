@@ -38,3 +38,8 @@ ENLAZADO INTERNO (obligatorio en cada pieza, y en las traducciones EN/RU):
 - Toda novedad o recomendación de Radar lleva el campo "enlaces" (máx. 6): [{"titulo","ruta" (empieza por /),"tipo" guia|tutorial|radar|servicio|curso|herramienta,"nota","pendiente":true|false}]. Pon primero el «cómo hacerlo»: si ya existe una guía o tutorial que lo explica, enlázala (pendiente false). Si NO existe, añade el enlace con "pendiente": true y apunta ese tema en investigacion/cola-diaria.json para publicarlo pronto, con la misma ruta que tendrá. Añade también 1-2 piezas relacionadas y, si encaja, el servicio (/google-business, /servicios-web, /diagnostico).
 - Cuando publiques una guía o tutorial nuevo, busca en guias/ las piezas con enlaces "pendiente": true cuya ruta coincida con la nueva y cámbialas a false (commit 'Enlaces: <slug> ya publicada'). Añade además en la guía nueva un enlace de vuelta a la novedad que la originó.
 - Comprueba que cada ruta enlazada devuelve 200 (salvo las pendientes) y que no hay piezas sin enlaces.
+
+REGLA DE SECCIÓN Y VÍDEO (dueño, 25-nov-2026):
+- Un paso a paso («cómo hacer X») es SIEMPRE un TUTORIAL: va a su departamento (/google-business/guias/<slug>, /servicios-web/guias/<slug>, /academia/guias/<slug>), NUNCA a Radar. Radar es solo para novedades y recomendaciones de herramientas, sin campo "pasos" ni la etiqueta «tutorial».
+- Todo tutorial lleva vídeo explicativo (reel/Short de FASE C): claro, fácil de entender, dinámico y con un gancho en los 2 primeros segundos. Una novedad de Radar que pida un «cómo hacerlo» enlaza al tutorial (pendiente true hasta publicarlo).
+- Si una novedad exige tutorial y aún no existe, ese tutorial entra en la cola para los próximos días.
