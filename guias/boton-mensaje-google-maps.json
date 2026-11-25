@@ -16,5 +16,33 @@
     "name": "Search Engine Roundtable (cita el boletín de Google para pequeños negocios)",
     "url": "https://www.seroundtable.com/google-maps-messaging-android-ios-42472.html"
   },
-  "tags": ["google maps", "ficha de google", "mensajes", "whatsapp", "novedad", "seo local"]
+  "tags": [
+    "google maps",
+    "ficha de google",
+    "mensajes",
+    "whatsapp",
+    "novedad",
+    "seo local"
+  ],
+  "enlaces": [
+    {
+      "titulo": "Cómo activar y configurar los mensajes en tu ficha de Google",
+      "ruta": "/radar/como-activar-mensajes-ficha-google",
+      "tipo": "guia",
+      "nota": "Paso a paso para dejar el botón «Mensaje» listo cuando esté disponible en tu ficha.",
+      "pendiente": true
+    },
+    {
+      "titulo": "Rendimiento de la ficha: llamadas, indicaciones y visitas",
+      "ruta": "/radar/rendimiento-ficha-google-llamadas-indicaciones-visitas",
+      "tipo": "radar",
+      "nota": "Mide si tus clientes te contactan desde Google."
+    },
+    {
+      "titulo": "Ficha de Google Business: te la dejamos a punto",
+      "ruta": "/google-business",
+      "tipo": "servicio",
+      "nota": "Si prefieres que lo configuremos nosotros."
+    }
+  ]
 }
