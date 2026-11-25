@@ -1,0 +1,176 @@
+{
+  "slug": "google-ads-negocio-local",
+  "tipo": "guia",
+  "title": "Google Ads para un negocio local: cuándo NO pagar y cómo empezar",
+  "description": "Antes de pagar anuncios en Google, revisa tu ficha. Guía gratis para negocios de Valencia: subasta, palabras negativas, ubicación y errores que cuestan dinero.",
+  "intro": "Casi todos los negocios locales abren una cuenta de Google Ads con prisa, ponen 10 euros al día y descubren que los clics llegan de gente que no iba a comprar. En esta primera lección gratuita de SEM te explicamos cómo funciona de verdad la subasta, cuándo conviene NO pagar todavía y tres ajustes poco conocidos (verificados en la ayuda oficial de Google) que evitan gastar a ciegas.",
+  "department": "academia",
+  "date": "2026-11-25",
+  "tags": [
+    "google ads",
+    "sem",
+    "negocio local",
+    "valencia",
+    "palabras clave negativas",
+    "ficha de google"
+  ],
+  "body": [
+    {
+      "type": "answer",
+      "question": "¿Merece la pena Google Ads para un negocio local?",
+      "text": "Sí, cuando tu ficha de Google y tu web ya convierten visitas en llamadas o reservas: entonces pagar anuncios acelera lo que funciona. Si la ficha está incompleta o tiene pocas reseñas, los anuncios solo compran clics que se pierden. Ningún método garantiza resultados: empieza con un presupuesto que puedas permitirte perder mientras aprendes."
+    },
+    {
+      "type": "h2",
+      "text": "SEO y SEM en una frase"
+    },
+    {
+      "type": "p",
+      "text": "El SEO te hace aparecer en los resultados «normales» sin pagar por cada clic; el SEM (en Google, Google Ads) es publicidad: pagas, normalmente por clic, para aparecer en la zona de anuncios cuando alguien busca lo que ofreces. Un cerrajero de Valencia que sale en Maps gracias a su ficha hace SEO local; el mismo cerrajero pagando por «cerrajero urgente Valencia» hace SEM."
+    },
+    {
+      "type": "h2",
+      "text": "Antes de pagar: el test de las 5 comprobaciones"
+    },
+    {
+      "type": "p",
+      "text": "Los anuncios envían tráfico a tu ficha o a tu web. Si ese destino falla, cada euro se evapora. Antes de abrir la cuenta comprueba esto:"
+    },
+    {
+      "type": "checklist",
+      "title": "Si no marcas al menos 4, mejora primero la ficha",
+      "items": [
+        "Tu ficha de Google está verificada y con categoría, horario y teléfono correctos.",
+        "Tienes reseñas recientes y respondes a las negativas.",
+        "Tu web (o ficha) deja claro qué haces, dónde y cómo llamar en menos de cinco segundos desde el móvil.",
+        "Sabes qué es un cliente nuevo para ti y cuánto puedes pagar por conseguirlo.",
+        "Puedes medir llamadas, mensajes o formularios; si no, no sabrás qué anuncio funcionó."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Si fallas en varias, tu mejor inversión no es un anuncio: es completar la ficha, ordenar las categorías y pedir reseñas con el enlace oficial. Te lo explicamos paso a paso en nuestras guías gratuitas de ficha de Google."
+    },
+    {
+      "type": "h2",
+      "text": "Cómo funciona la subasta (y por qué no gana siempre quien más paga)"
+    },
+    {
+      "type": "p",
+      "text": "Cada vez que alguien busca, Google hace una subasta en milisegundos. Según su ayuda oficial, el ranking del anuncio determina si tu anuncio puede mostrarse y en qué posición, y depende de varios factores: tu puja, la calidad del anuncio y de la página de destino, el contexto de la búsqueda (términos, ubicación, dispositivo, momento) y el impacto esperado de los recursos del anuncio, como la llamada o la ubicación."
+    },
+    {
+      "type": "tip",
+      "title": "Tip poco conocido nº 1: la calidad puede abaratar el clic",
+      "text": "Google indica en su ayuda que los anuncios de mayor calidad pueden reducir el coste por clic. Un anuncio que repite lo que el cliente buscó y una página de destino clara y rápida pueden permitirte competir con una puja menor. Pujar más no es la única palanca."
+    },
+    {
+      "type": "h2",
+      "text": "Palabras clave negativas: el filtro que casi nadie configura"
+    },
+    {
+      "type": "p",
+      "text": "Una palabra clave negativa excluye términos de búsqueda de tus campañas. El ejemplo de la ayuda de Google es una óptica que excluye «gafas de buceo». Para una clínica dental de Valencia podrían ser «gratis», «empleo» o «prácticas»; para un taller, «curso» o «tutorial»."
+    },
+    {
+      "type": "tip",
+      "title": "Tip poco conocido nº 2: las negativas no cubren variaciones",
+      "text": "Según la ayuda oficial, las palabras clave negativas no excluyen variaciones cercanas ni derivados. Si excluyes «curso», añade también «cursos», y los sinónimos que te importen, por separado. Además, el tipo predeterminado es concordancia amplia negativa: el anuncio no se muestra solo si la búsqueda contiene todos los términos en cualquier orden, así que para excluir una frase exacta usa concordancia de frase o exacta. Y no te pases: Google avisa de que demasiadas negativas pueden hacer que tus anuncios lleguen a menos clientes."
+    },
+    {
+      "type": "p",
+      "text": "Revisa cada semana el informe de términos de búsqueda de tu cuenta y añade como negativas las búsquedas que no te interesan. Es la tarea con mejor relación esfuerzo-ahorro de una campaña local."
+    },
+    {
+      "type": "h2",
+      "text": "Ubicación: Valencia no es «solo Valencia»"
+    },
+    {
+      "type": "p",
+      "text": "Google Ads te deja elegir países, áreas (ciudades, territorios), un radio alrededor de un punto o las ubicaciones de tu Perfil de Negocio, y también excluir zonas. Para una peluquería de barrio, un radio corto alrededor del local suele tener más sentido que toda la provincia."
+    },
+    {
+      "type": "tip",
+      "title": "Tip poco conocido nº 3: la ubicación también incluye a quien «muestra interés»",
+      "text": "La ayuda oficial explica que el ajuste predeterminado y recomendado llega a personas que están o visitan con frecuencia tu zona, y también a quienes han mostrado interés en ella (por ejemplo, buscando información sobre Valencia desde otra ciudad). Si tu negocio solo atiende en persona, revisa esta opción y las ubicaciones excluidas. Google añade que la segmentación no tiene una precisión del 100 %."
+    },
+    {
+      "type": "h2",
+      "text": "Conecta tu ficha con Google Ads"
+    },
+    {
+      "type": "p",
+      "text": "Vincular tu Perfil de Empresa permite mostrar tus ubicaciones como recursos de ubicación en los anuncios. Según la ayuda oficial, la ruta es Campañas > Recursos > botón «más» > Ubicación; después eliges tu Perfil o la cuenta que lo gestiona y guardas. Google actualiza estos menús con frecuencia: si algo no coincide con tu pantalla, busca «vincular Perfil de Empresa» en la ayuda de Google Ads (consultado el 25-nov-2026)."
+    },
+    {
+      "type": "h2",
+      "text": "Presupuesto prudente y errores que más dinero cuestan"
+    },
+    {
+      "type": "p",
+      "text": "No hay una cifra mágica: fija una cantidad semanal que puedas perder sin problema, déjala funcionar unas semanas y decide con datos reales (llamadas, mensajes, citas), no con intuiciones. No prometas ni esperes resultados concretos de antemano."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Abrir la campaña con piloto automático y sin revisar los términos de búsqueda ni añadir negativas.",
+        "Dejar una ubicación demasiado amplia para un negocio que solo atiende en su barrio.",
+        "Mandar los clics a la portada en vez de a una página (o ficha) que responda exactamente a lo buscado.",
+        "No medir llamadas ni formularios: sin medición, no sabes si el anuncio paga la inversión.",
+        "Pagar anuncios mientras la ficha tiene reseñas negativas sin responder o datos erróneos."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Qué hacer esta semana"
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "Pasa el test de las 5 comprobaciones y arregla lo que falle.",
+        "Escribe 3 servicios por los que sí quieres que te encuentren y 5 búsquedas que NO te interesan.",
+        "Decide el radio o la zona real en la que atiendes.",
+        "Fija un presupuesto de prueba que no te duela perder y un número de llamadas o citas que te haría seguir.",
+        "Guarda esta guía y compártela con quien lleve tus anuncios."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Siguiente lección gratuita del área SEM: cómo leer el informe de términos de búsqueda y mejorar una campaña con los datos reales. Si prefieres delegar la ficha de Google o el SEO local, LevanteHUB también ofrece ese servicio en Valencia, sin compromiso."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Cuánto cuesta Google Ads?",
+      "a": "Depende de la competencia y de lo que decidas gastar: tú fijas el presupuesto y el coste por clic varía según la subasta. Google no garantiza resultados con ningún presupuesto."
+    },
+    {
+      "q": "¿Es mejor Google Ads o mejorar la ficha de Google?",
+      "a": "Primero la ficha: es gratuita y es lo que ven los clientes tanto en Maps como en los anuncios. Los anuncios funcionan mejor cuando la ficha y la web ya convencen."
+    },
+    {
+      "q": "¿Qué son las palabras clave negativas?",
+      "a": "Términos que le dices a Google que no quieres que activen tus anuncios, como «gratis» o «empleo». Evitan clics de gente que no es tu cliente."
+    },
+    {
+      "q": "¿Puedo mostrar mis anuncios solo en mi barrio?",
+      "a": "Sí: Google Ads permite elegir áreas o un radio alrededor de una ubicación y excluir zonas. Revisa también la opción de ubicación predeterminada, que incluye a personas interesadas en esa zona."
+    },
+    {
+      "q": "¿Los anuncios sustituyen al SEO?",
+      "a": "No. El SEO y la ficha construyen visibilidad que no depende de pagar cada clic; los anuncios dan visibilidad inmediata mientras pagas. Se complementan."
+    },
+    {
+      "q": "¿Cómo sé si mis anuncios funcionan?",
+      "a": "Midiendo lo que importa: llamadas, mensajes, formularios o citas. Los clics por sí solos no te dicen si hay negocio."
+    }
+  ],
+  "related": [
+    "pedir-resenas-google-enlace-qr-oficial-sin-incentivos",
+    "responder-resenas-negativas-google-y-denunciar-falsas",
+    "categorias-ficha-google-business-como-elegir",
+    "horarios-especiales-festivos-ficha-google-negocio",
+    "informe-rendimiento-search-console-consultas-y-paginas"
+  ]
+}
