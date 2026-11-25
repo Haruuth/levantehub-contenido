@@ -21,3 +21,6 @@ Regla de oro: cada departamento trabaja POR ADELANTADO para el siguiente. Nadie 
 
 ## Seguimiento de tráfico (analista de tráfico)
 Cada semana mide las 5 webs y sus fichas de Google y guarda números y capturas en el repositorio PRIVADO (`levantehub-web/seguimiento/<web>/AAAA-Snn/`). Ver ANALISTA-TRAFICO-seguimiento-semanal.md. Romu usa esos números para decidir temas.
+
+## Cierre del día de Leo
+Tras publicar reel, Short, posts e historias, Leo actualiza las historias destacadas para que la pieza del día quede en su destacada (instrucciones/LEO-publicacion-e-historias-destacadas.md).
