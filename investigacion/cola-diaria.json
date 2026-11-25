@@ -83,49 +83,76 @@
       "fecha_objetivo": "2026-11-26",
       "tipo": "tutorial",
       "department": "google-business",
-      "slug": "activar-mensajes-ficha",
-      "keyword_principal": "mensajes ficha google",
-      "tema": "Cómo activar y configurar los mensajes en tu ficha de Google (para cuando llegue el botón «Mensaje»)",
-      "por_que": "Pendiente de investigar con datos reales (FASE A). Sustituye al paso a paso que estaba en Radar: los tutoriales van en su departamento y con vídeo.",
+      "slug": "apelar-ficha-google-suspendida-formulario-paso-a-paso",
+      "area": "SEO",
+      "keyword_principal": "ficha de google suspendida apelar",
+      "tema": "Cómo apelar una ficha de Google Business Profile suspendida, paso a paso: qué pruebas preparar, cómo usar el formulario de apelación y qué esperar después, con ejemplos de negocios de Valencia",
+      "por_que": "Search Console (sc-domain:levantehub.es, 28 días, Windsor): 6 impresiones en consultas de ficha suspendida, 0 clics; «recuperar una ficha suspendida» está en posición 12, la mejor de toda la web (el resto, 50-95). Noticia: Search Engine Roundtable (24-nov-2026) dice que el formulario de apelación pasa a ser único, con ID de caso en «menos de 30 segundos»; su fuente es un post de LinkedIn de un tercero (no de Google) y no indica países, así que se trata con prudencia, no como novedad confirmada. Competencia (solo titulares): ayuda oficial de Google, Search Engine Land, BrightLocal, Merchynt y Ueni en inglés, Ranktracker en español; no se vio paso a paso local en español. Trends: sin dato propio hoy. Nuestra guía del 18-nov explica causas y pruebas pero no el paso a paso del formulario: se complementan.",
       "huecos_a_cubrir": [
-        "rutas de menú verificadas",
-        "errores típicos",
-        "vídeo gancho"
+        "paso a paso del formulario SOLO con rutas confirmadas en la ayuda oficial; si algún paso no se puede confirmar, no escribirlo",
+        "checklist de pruebas por tipo de negocio (local con rótulo, servicio a domicilio, sin local) con ejemplos de Valencia",
+        "cuándo apelar y cuándo corregir primero (nombre, categoría, dirección, duplicadas)",
+        "qué esperar: ID de caso, plazos sin prometer cifras que Google no dé, qué hacer si rechazan",
+        "nota prudente: el formulario único lo cuenta Search Engine Roundtable con fuente de tercero; indicar fecha y que Google no lo ha confirmado en la ayuda leída",
+        "errores típicos: apelar varias veces, crear ficha nueva, pagar a intermediarios",
+        "vídeo gancho: «Tu ficha desapareció: haz esto antes de apelar»",
+        "FAQ de 5-6 dudas reales"
       ],
-      "fuentes": [],
-      "provisional": true
+      "fuentes": [
+        "https://support.google.com/business/answer/4569145?hl=es",
+        "https://support.google.com/business/answer/13597551",
+        "https://support.google.com/business/?p=manage_appeals",
+        "https://www.seroundtable.com/google-business-profiles-appeals-form-simplified-42593.html",
+        "https://searchengineland.com/google-business-profile-suspension-reappeal-440524"
+      ],
+      "enlaces_previstos": [
+        "guias/ficha-google-suspendida-que-hacer (guía madre; añadir enlace de vuelta al tutorial)",
+        "guias/crear-y-verificar-ficha-google-business",
+        "guias/responder-resenas-negativas-google-y-denunciar-falsas"
+      ],
+      "investigacion": "investigacion/demanda/2026-11-25.md",
+      "condicion": "WebFetch suele bloquear support.google.com: si no se puede leer la ayuda oficial, escribir solo el proceso general sin rutas de menú ni capturas de botones y decirlo. No afirmar el formulario único como hecho de Google."
     },
     {
       "fecha_objetivo": "2026-11-27",
-      "tipo": "tutorial",
-      "department": "google-business",
-      "slug": "rendimiento-ficha-google",
-      "keyword_principal": "rendimiento ficha google",
-      "tema": "Cómo medir llamadas, rutas y visitas de tu ficha de Google paso a paso",
-      "por_que": "Pendiente de investigar con datos reales (FASE A). Sustituye al paso a paso que estaba en Radar: los tutoriales van en su departamento y con vídeo.",
+      "tipo": "novedad",
+      "department": "radar",
+      "slug": "google-business-profile-controla-enlaces-de-reserva",
+      "area": "SEO",
+      "keyword_principal": "google business profile reservas citas enlaces",
+      "tema": "Google Business Profile permite elegir qué enlaces de reserva de citas y restaurante aparecen en tu ficha (sección «Booking»); qué revisar si tu negocio de Valencia usa reservas",
+      "por_que": "Search Engine Roundtable (23-nov-2026) lo cuenta citando una publicación de Lisa Landsman (Google) en LinkedIn; sin cifras ni países; es lo mismo que Google añadió hace un mes para pedidos de restaurante. Una sola fuente leída hoy; interés de búsqueda sin dato.",
       "huecos_a_cubrir": [
-        "rutas de menú verificadas",
-        "errores típicos",
-        "vídeo gancho"
+        "distinguir lo que dice Google de consejo nuestro",
+        "no prometer disponibilidad en España",
+        "qué revisar: socios de reserva activos, enlaces correctos",
+        "ejemplo local: peluquería, clínica, restaurante"
       ],
-      "fuentes": [],
-      "provisional": true
+      "fuentes": [
+        "https://www.seroundtable.com/google-business-profiles-appt-book-dinner-reserve-42605.html"
+      ],
+      "investigacion": "investigacion/demanda/2026-11-25.md",
+      "condicion": "Publicar como novedad solo con 2 medios que lo confirmen; si no, cambiar a tutorial de verificación de ficha (candidato 4 del informe)."
     },
     {
       "fecha_objetivo": "2026-11-30",
       "tipo": "tutorial",
-      "department": "servicios-web",
-      "slug": "informe-search-console",
-      "keyword_principal": "informe rendimiento search console",
-      "tema": "Cómo leer el informe de rendimiento de Search Console: consultas y páginas",
-      "por_que": "Pendiente de investigar con datos reales (FASE A). Sustituye al paso a paso que estaba en Radar: los tutoriales van en su departamento y con vídeo.",
+      "department": "google-business",
+      "slug": "verificar-ficha-google-metodos-y-fallos",
+      "area": "SEO",
+      "keyword_principal": "cómo verificar google my business",
+      "tema": "Verificar tu ficha de Google: métodos disponibles y qué hacer cuando la verificación falla",
+      "por_que": "Search Console 28 días: 12 impresiones en 7 consultas de verificación (posiciones 53-83), 0 clics; existe la guía crear-y-verificar, así que el ángulo es el diagnóstico de fallos. Competencia en titulares: SE Ranking, Metricool (ES), Whitespark y Search Engine Journal (EN).",
       "huecos_a_cubrir": [
-        "rutas de menú verificadas",
-        "errores típicos",
+        "rutas verificadas en ayuda oficial",
+        "qué hacer si falla la verificación",
         "vídeo gancho"
       ],
-      "fuentes": [],
-      "provisional": true
+      "fuentes": [
+        "https://support.google.com/business/answer/7107242",
+        "https://support.google.com/business/answer/14271705"
+      ],
+      "investigacion": "investigacion/demanda/2026-11-25.md"
     }
   ]
 }
