@@ -88,7 +88,7 @@
       "area": "SEO",
       "keyword_principal": "ficha de google suspendida apelar",
       "tema": "Cómo apelar una ficha de Google Business Profile suspendida, paso a paso: qué pruebas preparar, cómo usar el formulario de apelación y qué esperar después, con ejemplos de negocios de Valencia",
-      "por_que": "Search Console (sc-domain:levantehub.es, 28 días, Windsor): 6 impresiones en consultas de ficha suspendida, 0 clics; «recuperar una ficha suspendida» está en posición 12, la mejor de toda la web (el resto, 50-95). Noticia: Search Engine Roundtable (24-nov-2026) dice que el formulario de apelación pasa a ser único, con ID de caso en «menos de 30 segundos»; su fuente es un post de LinkedIn de un tercero (no de Google) y no indica países, así que se trata con prudencia, no como novedad confirmada. Competencia (solo titulares): ayuda oficial de Google, Search Engine Land, BrightLocal, Merchynt y Ueni en inglés, Ranktracker en español; no se vio paso a paso local en español. Trends: sin dato propio hoy. Nuestra guía del 18-nov explica causas y pruebas pero no el paso a paso del formulario: se complementan.",
+      "por_que": "Search Console (sc-domain:levantehub.es, 28 días, Windsor, consultado 25-nov; datos hasta 23-nov): 78 filas, 0 clics en filas de consulta (1 clic diario el 18-nov sin consulta visible), ~257 impresiones en 7 días de datos. La familia «ficha suspendida» suma 7 impresiones en 3 consultas (2+4+1); «recuperar una ficha suspendida» está en posición 12, la mejor de toda la web (el resto 50-95). Noticia: Search Engine Roundtable (24-nov-2026) dice que el formulario de apelación pasa a ser único con ID de caso; fuente = post de LinkedIn de un tercero, no de Google. Hay además un artículo previo de SER sobre subida de pruebas en las apelaciones (seroundtable.com/google-business-profile-appeal-evidence-uploads-41641.html, solo titular). Competencia (solo titulares de SERP): ayuda oficial de Google (answer/4569145 y 13597551), Search Engine Land, BrightLocal, Merchynt, Sterling Sky y Search Atlas en inglés; en español EmbedSocial («suspendido: solución en 6 pasos») y Ranktracker, genéricos y sin ejemplos locales. Trends: sin dato hoy (herramienta no disponible); último relativo conocido en keywords/2026-11-24.md. Complementa la guía del 18-nov (causas y pruebas) con el paso a paso.",
       "huecos_a_cubrir": [
         "paso a paso del formulario SOLO con rutas confirmadas en la ayuda oficial; si algún paso no se puede confirmar, no escribirlo",
         "checklist de pruebas por tipo de negocio (local con rótulo, servicio a domicilio, sin local) con ejemplos de Valencia",
@@ -104,7 +104,9 @@
         "https://support.google.com/business/answer/13597551",
         "https://support.google.com/business/?p=manage_appeals",
         "https://www.seroundtable.com/google-business-profiles-appeals-form-simplified-42593.html",
-        "https://searchengineland.com/google-business-profile-suspension-reappeal-440524"
+        "https://searchengineland.com/google-business-profile-suspension-reappeal-440524",
+        "https://support.google.com/business/contact/local_appeals",
+        "https://www.seroundtable.com/google-business-profile-appeal-evidence-uploads-41641.html"
       ],
       "enlaces_previstos": [
         "guias/ficha-google-suspendida-que-hacer (guía madre; añadir enlace de vuelta al tutorial)",
@@ -112,7 +114,8 @@
         "guias/responder-resenas-negativas-google-y-denunciar-falsas"
       ],
       "investigacion": "investigacion/demanda/2026-11-25.md",
-      "condicion": "WebFetch suele bloquear support.google.com: si no se puede leer la ayuda oficial, escribir solo el proceso general sin rutas de menú ni capturas de botones y decirlo. No afirmar el formulario único como hecho de Google."
+      "condicion": "WebFetch suele bloquear support.google.com: si no se puede leer la ayuda oficial, escribir solo el proceso general sin rutas de menú ni capturas de botones y decirlo. No afirmar el formulario único como hecho de Google.",
+      "informe": "investigacion/demanda/2026-11-25.md"
     },
     {
       "fecha_objetivo": "2026-11-27",
@@ -157,19 +160,27 @@
     },
     {
       "fecha_objetivo": "2026-12-01",
-      "tipo": "tutorial",
+      "tipo": "guia",
       "department": "google-business",
-      "slug": "activar-mensajes-ficha",
-      "keyword_principal": "mensajes ficha google",
-      "tema": "Cómo activar y configurar los mensajes en tu ficha de Google (para cuando llegue el botón «Mensaje»)",
-      "por_que": "APLAZADO 25-nov (Romu): sin consultas en Search Console y sin confirmar que el botón «Mensaje» esté disponible en España. Solo se mantiene si antes se confirma disponibilidad; si no, sustituir. Ver investigacion/demanda/2026-11-25.md.",
+      "slug": "plantillas-responder-resenas-negativas-por-sector",
+      "keyword_principal": "responder reseñas negativas google",
+      "tema": "Plantillas para responder reseñas negativas en Google según el sector (peluquería, clínica, taller, restaurante) con ejemplos de Valencia; complementa la guía de responder y denunciar reseñas falsas",
+      "por_que": "Search Console 28 días (consultado 25-nov): 32 impresiones en 12 consultas de reseñas negativas (p. ej. «como responder a las reseñas negativas de google» 8, «reseñas negativas en google my business» 7, «responder reseñas negativas google» 5), 0 clics, posiciones 46-95; es la familia con más impresiones propias tras el alta en Maps. Ya existe la guía responder-resenas-negativas-google-y-denunciar-falsas, así que el ángulo nuevo son plantillas por sector, sin duplicar. Trends: sin dato hoy (reseñas google relativo ~16-22 en nov, keywords/2026-11-24.md). Sustituye al tutorial provisional «activar mensajes» (sin consultas y sin disponibilidad confirmada en España).",
       "huecos_a_cubrir": [
-        "rutas de menú verificadas",
-        "errores típicos",
-        "vídeo gancho"
+        "plantillas por sector y por tipo de queja",
+        "cuándo responder, cuándo denunciar (política de contenido de Google)",
+        "tono y errores típicos",
+        "enlace a guía madre y a tutorial de enlace/QR de reseñas"
       ],
-      "fuentes": [],
-      "provisional": true
+      "fuentes": [
+        "https://support.google.com/business/answer/3474122?hl=es"
+      ],
+      "area": "SEO",
+      "enlaces_previstos": [
+        "guias/responder-resenas-negativas-google-y-denunciar-falsas",
+        "guias/pedir-resenas-google-enlace-qr-oficial-sin-incentivos"
+      ],
+      "informe": "investigacion/demanda/2026-11-25.md"
     }
   ]
 }
