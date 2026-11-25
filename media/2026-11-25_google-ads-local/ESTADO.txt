@@ -1,0 +1,1 @@
+2026-11-25 06:50 · Vídeos hechos con voz (Lumen/Ernesto) y entregados. Al renderizar, la URL de la guía aún daba 404 (la web compila cada hora; commit 06:05). Los textos enlazan a la URL exacta definitiva: https://levantehub.es/academia/guias/google-ads-negocio-local
