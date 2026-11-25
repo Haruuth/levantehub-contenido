@@ -1,4 +1,4 @@
-# Dirección · Vega
+# Dirección · Susanna
 
 **Misión:** que el dueño entienda su día en 30 segundos mirando el panel, con UN solo aviso.
 

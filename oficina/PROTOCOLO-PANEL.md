@@ -26,7 +26,7 @@ El dueño asigna, edita y borra tareas a cada trabajador desde el panel. Antes d
 | Oficina · Google Business | lucia |
 | Oficina · Herramientas gratis | pau |
 | Oficina · Oportunidades | bea |
-| Oficina · Dirección (9:07) | vega |
+| Oficina · Dirección · Resumen de Susanna (9:07) | susanna |
 | [NUBE] Las 5 webs · Informe semanal | marta |
 | [NUBE] LevanteHUB presencia online | alex |
 | SEO semanal Fachadas Levante | jordi |
@@ -58,7 +58,7 @@ Usa `mcp__claude-artifacts__db_write` (si está diferida, cárgala con ToolSearc
 }
 ```
 
-Valores de `agente`: vega, carmen, pablo (sede) · clara, ivan-mila, teo, leo, sara (Nuri) · marta, alex, bea (Lumen) · nico, jordi, pau (Tuerca) · lucia, elena, raul (Rumbo).
+Valores de `agente`: susanna, laurik, mher (sede) · clara, monica-y-mila, dr-joan, leo, sara (Nuri) · marta, alex, bea (Lumen) · nico, jordi, pau (Tuerca) · lucia, elena, raul (Rumbo).
 
 ## Vídeos e imágenes: que se vean DENTRO del panel (obligatorio)
 

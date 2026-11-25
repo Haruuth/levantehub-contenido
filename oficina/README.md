@@ -24,7 +24,7 @@ El dueño (Haruuth) habla español y no es programador. Lo mira cada mañana: qu
 
 | Departamento | Agente | Qué hace | Cuándo | Tarea programada |
 |---|---|---|---|---|
-| Dirección (en la sede) | Vega | Resumen del día en el panel + UN aviso corto | Diario 9:07 | «Oficina · Dirección (resumen 9:07)» |
+| Dirección (en la sede) | Susanna | Resumen del día en el panel + UN aviso corto | Diario 9:07 | «Oficina · Dirección (resumen 9:07)» |
 | Contenido y Academia | Lumen | Pieza del día, traducciones EN/RU, curso del lunes | Diario 6:03 · lunes 4:37 | «LevanteHUB · Día completo», «Curso gratis semanal» |
 | Marketing | Nuri | Reels/Shorts de LevanteHUB (en Día completo) y de un cliente cada día | Diario 7:51 | «Oficina · Marketing clientes» |
 | Google Business | Rumbo | Posts para las fichas, respuestas a reseñas, revisión de la ficha | Mar y vie 10:19 | «Oficina · Google Business» |
