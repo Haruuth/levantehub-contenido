@@ -19,3 +19,10 @@ Romu (departamento Lumen · Análisis y SEO) manda sobre QUÉ se publica. Ningú
 
 ## Entrega diaria
 Resumen de 3 líneas para Susi (Panel): tema elegido, cifras que lo justifican y qué piezas quedan enlazadas o pendientes de enlazar.
+
+## Cadencia de informes
+- Diario: informe de demanda (arriba) + tema de mañana en la cola, antes de las 6:03 de cada día.
+- Semanal (domingo): `investigacion/semanal/AAAA-Snn.md` con todo lo que se buscó esa semana en el nicho, las piezas publicadas y su rendimiento, y el tema del curso del lunes para Dr. Joan.
+- Mensual (día 1): `investigacion/mensual/AAAA-MM.md` con tendencias, mejores y peores piezas y objetivos del mes.
+- Usa también los números semanales del analista de tráfico (levantehub-web/seguimiento/).
+- Entrega: el informe llega a Clara (cola-diaria.json), a Leo (qué vídeo hace falta y qué gancho) y a Dr. Joan (curso). Ver FLUJO-EDITORIAL.md.

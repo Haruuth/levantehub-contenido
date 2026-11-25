@@ -32,3 +32,5 @@ Equipo: la clave `equipo` conserva a Susi, Lumen, Nuri, Tuerca, Rumbo y «Captac
 
 ## 4. Para el aviso único
 Devuelve a la tarea maestra: el estado, el resumen de 2 líneas por departamento, los problemas y el enlace al panel, para que lo ponga en el resumen final.
+
+ALTAS DE LA OFICINA: antes de crear una tarea programada para un contratado, mira las que ya existen (list_triggers): «Romu · Demanda y temas (diario)» y «Analista de tráfico · seguimiento semanal» ya están creadas el 25-nov; al dar de alta a Romu o al analista, vincúlalas a su ficha en vez de duplicarlas. El flujo entre departamentos está en instrucciones/FLUJO-EDITORIAL.md.
