@@ -1,0 +1,180 @@
+{
+ "slug": "google-ads-local-business",
+ "slug_es": "google-ads-negocio-local",
+ "es_path": "/academia/guias/google-ads-negocio-local",
+ "tipo": "guia",
+ "title": "Google Ads for a Local Business: When NOT to Pay and How to Start",
+ "description": "Before paying for Google ads, check your listing. Free guide for Valencia local businesses: the auction, negative keywords, location settings and costly mistakes.",
+ "h1": "Google Ads for a local business: when NOT to pay and how to start",
+ "date": "2026-11-25",
+ "character": "nuri",
+ "tags": [
+  "google ads",
+  "sem",
+  "local business",
+  "valencia",
+  "negative keywords",
+  "google business profile"
+ ],
+ "answer": {
+  "question": "Is Google Ads worth it for a local business?",
+  "text": "Yes, once your Google listing and website already turn visits into calls or bookings: then paid ads speed up what works. If your listing is incomplete or has few reviews, ads just buy clicks that go to waste. No method guarantees results, so start with a budget you can afford to lose while you learn."
+ },
+ "intro": "Most local businesses open a Google Ads account in a hurry, set 10 euros a day and then find that the clicks come from people who were never going to buy. In this first free SEM lesson we explain how the auction really works, when it is better NOT to pay yet, and three little-known settings (checked against Google's official help) that stop you spending blind.",
+ "body": [
+  {
+   "type": "h2",
+   "text": "SEO and SEM in one sentence"
+  },
+  {
+   "type": "p",
+   "text": "SEO gets you into the \"normal\" results without paying for each click; SEM (on Google, Google Ads) is advertising: you pay, usually per click, to appear in the ad area when someone searches for what you offer. A locksmith in Valencia who shows up on Maps thanks to their listing is doing local SEO; the same locksmith paying for \"emergency locksmith Valencia\" is doing SEM."
+  },
+  {
+   "type": "h2",
+   "text": "Before you pay: the 5-point check"
+  },
+  {
+   "type": "p",
+   "text": "Ads send traffic to your listing or your website. If that destination fails, every euro evaporates. Before opening the account, check this:"
+  },
+  {
+   "type": "checklist",
+   "items": [
+    "Your Google listing is verified, with the right category, opening hours and phone number.",
+    "You have recent reviews and you reply to the negative ones.",
+    "Your website (or listing) makes clear what you do, where, and how to call within five seconds on a phone.",
+    "You know what a new customer is worth to you and how much you can pay to win one.",
+    "You can measure calls, messages or forms; otherwise you will not know which ad worked."
+   ],
+   "title": "If you do not tick at least 4, improve your listing first"
+  },
+  {
+   "type": "p",
+   "text": "If you fail several, your best investment is not an ad: it is completing your listing, sorting out your categories and asking for reviews with the official link. We explain it step by step in our free Google listing guides."
+  },
+  {
+   "type": "h2",
+   "text": "How the auction works (and why the highest bidder does not always win)"
+  },
+  {
+   "type": "p",
+   "text": "Every time someone searches, Google runs an auction in milliseconds. According to its official help, Ad Rank determines whether your ad can be shown and in which position, and it depends on several factors: your bid, the quality of your ad and landing page, the context of the search (terms, location, device, time) and the expected impact of ad assets such as call or location."
+  },
+  {
+   "type": "tip",
+   "title": "Little-known tip #1: quality can make clicks cheaper",
+   "text": "Google states in its help that higher-quality ads can lower your cost per click. An ad that repeats what the customer searched for, plus a clear and fast landing page, can let you compete with a lower bid. Bidding more is not the only lever.",
+   "mood": "thinking"
+  },
+  {
+   "type": "h2",
+   "text": "Negative keywords: the filter almost nobody sets up"
+  },
+  {
+   "type": "p",
+   "text": "A negative keyword excludes search terms from your campaigns. Google's help uses the example of an optician excluding \"diving goggles\". For a dental clinic in Valencia they could be \"free\", \"jobs\" or \"internship\"; for a garage, \"course\" or \"tutorial\"."
+  },
+  {
+   "type": "tip",
+   "title": "Little-known tip #2: negatives do not cover variations",
+   "text": "According to the official help, negative keywords do not exclude close variations or derivatives. If you exclude \"course\", also add \"courses\" and any synonyms you care about, separately. The default type is broad match negative: the ad is only blocked if the search contains all the terms in any order, so to exclude an exact phrase use phrase or exact match. And do not overdo it: Google warns that too many negatives can make your ads reach fewer customers.",
+   "mood": "thinking"
+  },
+  {
+   "type": "p",
+   "text": "Every week, review the search terms report in your account and add the searches you do not want as negatives. It is the task with the best effort-to-savings ratio in a local campaign."
+  },
+  {
+   "type": "h2",
+   "text": "Location: Valencia is not \"just Valencia\""
+  },
+  {
+   "type": "p",
+   "text": "Google Ads lets you choose countries, areas (cities, regions), a radius around a point or the locations of your Business Profile, and also exclude areas. For a neighbourhood hair salon, a short radius around the shop usually makes more sense than the whole province."
+  },
+  {
+   "type": "tip",
+   "title": "Little-known tip #3: location also includes people who \"show interest\"",
+   "text": "The official help explains that the default, recommended setting reaches people who are in or regularly visit your area, and also people who have shown interest in it (for example, searching for information about Valencia from another city). If your business only serves people in person, review this option and your excluded locations. Google adds that targeting is not 100% accurate.",
+   "mood": "thinking"
+  },
+  {
+   "type": "h2",
+   "text": "Connect your listing to Google Ads"
+  },
+  {
+   "type": "p",
+   "text": "Linking your Business Profile lets you show your locations as location assets in your ads. According to the official help, the path is Campaigns > Assets > \"plus\" button > Location; then you choose your Profile or the account that manages it and save. Google updates these menus often: if something does not match your screen, search for \"link Business Profile\" in the Google Ads help (checked on 25 Nov 2026)."
+  },
+  {
+   "type": "h2",
+   "text": "A prudent budget and the mistakes that cost the most"
+  },
+  {
+   "type": "p",
+   "text": "There is no magic figure: set a weekly amount you can lose without a problem, let it run for a few weeks and decide with real data (calls, messages, appointments), not hunches. Do not promise or expect specific results in advance."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Launching the campaign on autopilot without checking search terms or adding negatives.",
+    "Leaving the location too wide for a business that only serves its own neighbourhood.",
+    "Sending clicks to the homepage instead of a page (or listing) that answers exactly what was searched.",
+    "Not measuring calls or forms: without measurement you cannot tell whether the ad pays for the investment.",
+    "Paying for ads while the listing has unanswered negative reviews or wrong details."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "What to do this week"
+  },
+  {
+   "type": "checklist",
+   "items": [
+    "Run the 5-point check and fix whatever fails.",
+    "Write down 3 services you do want to be found for and 5 searches you do NOT want.",
+    "Decide the real radius or area you serve.",
+    "Set a test budget you can afford to lose and a number of calls or appointments that would make you carry on.",
+    "Save this guide and share it with whoever runs your ads."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Next free lesson in the SEM area: how to read the search terms report and improve a campaign with real data. If you would rather delegate your Google listing or local SEO, LevanteHUB also offers that service in Valencia, with no commitment."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How much does Google Ads cost?",
+   "a": "It depends on the competition and on what you decide to spend: you set the budget and the cost per click varies with the auction. Google does not guarantee results at any budget."
+  },
+  {
+   "q": "Is it better to use Google Ads or improve my Google listing?",
+   "a": "The listing first: it is free and it is what customers see on both Maps and in ads. Ads work better when the listing and website already convince people."
+  },
+  {
+   "q": "What are negative keywords?",
+   "a": "Terms you tell Google you do not want to trigger your ads, such as \"free\" or \"jobs\". They prevent clicks from people who are not your customers."
+  },
+  {
+   "q": "Can I show my ads only in my neighbourhood?",
+   "a": "Yes: Google Ads lets you choose areas or a radius around a location and exclude areas. Also review the default location option, which includes people interested in that area."
+  },
+  {
+   "q": "Do ads replace SEO?",
+   "a": "No. SEO and your listing build visibility that does not depend on paying for each click; ads give immediate visibility while you pay. They complement each other."
+  },
+  {
+   "q": "How do I know whether my ads work?",
+   "a": "By measuring what matters: calls, messages, forms or appointments. Clicks alone do not tell you whether there is business."
+  }
+ ],
+ "sources": [
+  {
+   "name": "Google Ads Help",
+   "url": "https://support.google.com/google-ads"
+  }
+ ]
+}

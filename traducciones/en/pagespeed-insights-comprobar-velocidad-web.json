@@ -1,0 +1,49 @@
+{
+ "slug": "pagespeed-insights-test",
+ "slug_es": "pagespeed-insights-comprobar-velocidad-web",
+ "es_path": "/radar/pagespeed-insights-comprobar-velocidad-web",
+ "tipo": "recomendacion",
+ "title": "PageSpeed Insights: Check in a Minute Whether Your Website Is Fast on Mobile",
+ "description": "What PageSpeed Insights measures, what LCP, INP and CLS mean, and which values Google considers good, so you can check your website speed on mobile in a minute.",
+ "date": "2026-11-21",
+ "character": "nuri",
+ "tags": [
+  "speed",
+  "core web vitals",
+  "tools"
+ ],
+ "answer": {
+  "question": "How do I check whether my website is fast enough on mobile?",
+  "text": "PageSpeed Insights analyses a page on mobile and desktop and tells you what to improve, using real-user data and lab data."
+ },
+ "intro": "PageSpeed Insights is a free Google tool that shows how fast and smooth your website feels on a phone. Here is what it measures and which numbers count as good.",
+ "body": [
+  {
+   "type": "p",
+   "text": "PageSpeed Insights is a Google tool that reports the user experience of a page on mobile and desktop and suggests how to improve it. You just paste your website address."
+  },
+  {
+   "type": "p",
+   "text": "It combines two kinds of data. Field data comes from real Chrome users over the last 28 days (if your website has little traffic, there may not be enough and it will show the whole site instead). Lab data is a simulated page load with Lighthouse, which scores performance, accessibility, best practices and SEO: 90 or more is good, 50 to 89 needs improvement and below 50 is poor."
+  },
+  {
+   "type": "p",
+   "text": "The three metrics Google calls Core Web Vitals are LCP (how long the main content takes to appear), INP (how long the page takes to respond when you tap something) and CLS (how much the content moves around while loading). They count as good with LCP of 2.5 seconds or less, INP of 200 milliseconds or less and CLS of 0.1 or less."
+  },
+  {
+   "type": "p",
+   "text": "How to use it: test your homepage and your main service page, start with the mobile tab (it is where local customers search most) and fix the heaviest items first, usually oversized images."
+  },
+  {
+   "type": "p",
+   "text": "Why we recommend it: it comes from Google, it is quick to use and it gives you an objective starting point before you spend money changing your website."
+  }
+ ],
+ "faq": [],
+ "sources": [
+  {
+   "name": "PageSpeed Insights documentation (Google)",
+   "url": "https://developers.google.com/speed/docs/insights/v5/about"
+  }
+ ]
+}

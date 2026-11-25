@@ -1,0 +1,49 @@
+{
+ "slug": "google-november-core-update",
+ "slug_es": "actualizacion-principal-google-noviembre-2026",
+ "es_path": "/radar/actualizacion-principal-google-noviembre-2026",
+ "tipo": "novedad",
+ "title": "Google's November 2026 Core Update: What a Local Business Should Do",
+ "description": "Google began a broad search update on 10 November that can shift rankings for about two weeks. What it is, and what is (and is not) worth doing.",
+ "date": "2026-11-21",
+ "character": "nuri",
+ "tags": [
+  "google",
+  "core update",
+  "local seo"
+ ],
+ "answer": {
+  "question": "What is Google's November 2026 core update and should I worry?",
+  "text": "It is a general change to Google Search, not a penalty on any website: it started on 10 November 2026 and can take up to two weeks to finish rolling out."
+ },
+ "intro": "Google has started its November 2026 core update, a general search change that can move rankings for a couple of weeks. Here is what it is and how a local business should react.",
+ "body": [
+  {
+   "type": "p",
+   "text": "On 10 November 2026 Google confirmed the start of a core update to its search engine. According to Google's own announcement, it applies worldwide and in all languages, and can take up to two weeks to complete."
+  },
+  {
+   "type": "p",
+   "text": "Google describes it as a regular update meant to show more relevant, useful content to searchers, from all kinds of websites. It does not single out a particular page or business: it changes how many pages are assessed at once. That is why, during these days, it is normal to see rankings go up and down without you having done anything."
+  },
+  {
+   "type": "p",
+   "text": "What to do: do not panic, and do not rebuild your website in a rush while the rollout lasts. When it finishes, wait a week and compare your visits and queries in Search Console with the week before 10 November. Only if you see a large, sustained drop does it make sense to review which pages were affected and improve their content."
+  },
+  {
+   "type": "p",
+   "text": "What always helps, with or without an update: pages that genuinely answer what your customer is asking, clear information about your business (address, opening hours, services) and a complete, up-to-date Google Business Profile listing. This practical advice is ours, not an instruction from Google."
+  },
+  {
+   "type": "p",
+   "text": "If you want to understand how to measure these changes, see the guide to using Search Console and Analytics in the LevanteHUB Academy."
+  }
+ ],
+ "faq": [],
+ "sources": [
+  {
+   "name": "Search Engine Roundtable: Google November 2026 core update",
+   "url": "https://www.seroundtable.com/google-november-2026-core-update-42504.html"
+  }
+ ]
+}
