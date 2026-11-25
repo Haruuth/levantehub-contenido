@@ -43,3 +43,5 @@ El dueño mira cada día la **Oficina LevanteHUB** (artefacto `e329682e-9a42-4a7
  d) igual para el Short: tipo "short", vídeo `short-youtube.mp4`, `publicar` con red "youtube", `titulo` y `texto` (sin el guion de voz).
  e) depto "contenido", tipo "informe": tema de mañana y la métrica que lo respalda.
  f) cualquier fallo: tarjeta "error" con el motivo y qué hacer.
+ g) depto "marketing", agente "leo", tipo "post", estado "tu-ok": las 7 imágenes del carrusel subidas con upload_asset en `media` ({"tipo":"imagen"}), `publicar` con el texto del carrusel para Instagram; y otra tarjeta tipo "story" con las 3 stories y el enlace del sticker.
+ h) depto "seo", agente "marta", tipo "informe", estado "hecho": la investigación de Romu del día (investigacion/demanda/AAAA-MM-DD.md): qué busca la gente, cifras y tema de mañana, con enlace al informe.
