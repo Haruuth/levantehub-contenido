@@ -9,6 +9,7 @@ Panel: https://claude.ai/artifact/V3xEN4BoGpEmcp5S9KoRg4 · slug `e329682e-9a42-
 El dueño asigna, edita y borra tareas a cada trabajador desde el panel. Antes de hacer nada:
 
 1. Carga `mcp__claude-artifacts__db_get` y lee `equipo/<agente>` del artefacto `e329682e-9a42-4a74-8d51-b71a934fbac9` para **cada** agente que representas (tabla de abajo). Si no existe, no hay cambios.
+   **Nombres e ids:** cada trabajador tiene un id igual a su nombre (Laurik → `laurik`). Si el documento que lees tiene `renombrado_a`, el dueño le cambió el nombre: sigue a `equipo/<renombrado_a>` (puede haber varios saltos) y usa ESE id en todo, también en el campo `agente` de tus tarjetas. El campo `antes_ids` guarda los 2 nombres e ids anteriores, solo como historial para recuperar; no los uses.
 2. `despedido: true` → ese agente está despedido: no hagas NADA de su trabajo (si representas a varios, haz solo el de los demás).
 3. `principal_activa: false` → NO hagas tu trabajo principal de siempre; haz solo las tareas programadas. Si `principal` tiene texto, esa es la versión que manda el dueño de tu trabajo principal.
 3. Para cada elemento de `tareas` con `activa: true`:
@@ -30,7 +31,7 @@ El dueño asigna, edita y borra tareas a cada trabajador desde el panel. Antes d
 | [NUBE] LevanteHUB presencia online | alex |
 | SEO semanal Fachadas Levante | jordi |
 | Oficina · Captación · Raúl (leads 7:34) | raul |
-| Oficina · Secretaría · Laurik (correo 8:43) | carmen (se llama Laurik en el panel) |
+| Oficina · Secretaría · Laurik (correo, PC de casa 8:43) | laurik |
 
 ## Herramienta
 
