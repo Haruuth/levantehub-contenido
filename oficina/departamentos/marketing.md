@@ -12,4 +12,4 @@ Cada día, para el cliente que toca (lee antes su ficha en `oficina/clientes/`):
 4. Guarda en `media/clientes/<web>/<AAAA-MM-DD>_<slug>/`: `reel.mp4` (9:16), `LEEME.md` (texto del post, hashtags, hora recomendada, título de Short). Commit y push a main (git pull --rebase antes).
 5. Tarjetas al panel: `marketing` · `reel` (enlace raw del .mp4 primero, LEEME segundo) con `estado:"tu-ok"` y `accion_tuya` «Subir a Instagram de <cliente> a las HH:MM (Meta Business Suite, gratis)».
 
-No uses Metricool. Las publicaciones las hace Leo desde BlueStacks en el PC de casa (ver ESTRATEGIA-WEB.md, regla 1).
+No uses Metricool. Las publicaciones las hace Leo desde BlueStacks en el PC de casa (ver ESTRATEGIA-WEB.md, regla 1). Todo reel y todo Short llevan SIEMPRE portada clara con el título (regla 1c).
