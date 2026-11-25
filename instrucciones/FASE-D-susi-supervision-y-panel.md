@@ -34,3 +34,12 @@ Equipo: la clave `equipo` conserva a Susi, Lumen, Nuri, Tuerca, Rumbo y «Captac
 Devuelve a la tarea maestra: el estado, el resumen de 2 líneas por departamento, los problemas y el enlace al panel, para que lo ponga en el resumen final.
 
 ALTAS DE LA OFICINA: antes de crear una tarea programada para un contratado, mira las que ya existen (list_triggers): «Romu · Demanda y temas (diario)» y «Analista de tráfico · seguimiento semanal» ya están creadas el 25-nov; al dar de alta a Romu o al analista, vincúlalas a su ficha en vez de duplicarlas. El flujo entre departamentos está en instrucciones/FLUJO-EDITORIAL.md.
+
+## 4. Tarjetas en la OFICINA (obligatorio, además del panel de arriba)
+El dueño mira cada día la **Oficina LevanteHUB** (artefacto `e329682e-9a42-4a74-8d51-b71a934fbac9`, https://claude.ai/artifact/V3xEN4BoGpEmcp5S9KoRg4). Si no dejas aquí las tarjetas, para él el día está vacío. Carga con ToolSearch `select:mcp__claude-artifacts__db_write,mcp__claude-artifacts__db_get,mcp__claude-artifacts__upload_asset` y sigue `oficina/PROTOCOLO-PANEL.md` (formato, accesos directos, campo `publicar`). Un solo `db_write`, fecha y hora de Madrid, web "levantehub", ids `tareas/<AAAA-MM-DD>_<depto>_<tipo>`:
+ a) depto "contenido", agente "clara", tipo "guia", estado "hecho": título de la pieza, resumen de 1-2 frases, enlaces ES, EN y RU (slugs traducidos).
+ b) depto "contenido", agente "monica-y-mila", tipo "traduccion", estado "hecho" (o "error" si una no abre el artículo): enlaces EN y RU + original ES.
+ c) depto "marketing", agente "leo", tipo "reel", estado "tu-ok": sube `reel-short.mp4` con `upload_asset` y ponlo en `media` ({"tipo":"video","url":"/_blob/...","t":"Reel de Instagram"}); `publicar` con el texto de Instagram del LEEME; enlaces: copia raw del .mp4, LEEME en github.com y la guía; `accion_tuya` «Subir el reel al Instagram de LevanteHUB».
+ d) igual para el Short: tipo "short", vídeo `short-youtube.mp4`, `publicar` con red "youtube", `titulo` y `texto` (sin el guion de voz).
+ e) depto "contenido", tipo "informe": tema de mañana y la métrica que lo respalda.
+ f) cualquier fallo: tarjeta "error" con el motivo y qué hacer.
