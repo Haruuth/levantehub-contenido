@@ -153,6 +153,22 @@
         "https://support.google.com/business/answer/14271705"
       ],
       "investigacion": "investigacion/demanda/2026-11-25.md"
+    },
+    {
+      "fecha_objetivo": "2026-12-01",
+      "tipo": "tutorial",
+      "department": "google-business",
+      "slug": "activar-mensajes-ficha",
+      "keyword_principal": "mensajes ficha google",
+      "tema": "Cómo activar y configurar los mensajes en tu ficha de Google (para cuando llegue el botón «Mensaje»)",
+      "por_que": "APLAZADO 25-nov (Romu): sin consultas en Search Console y sin confirmar que el botón «Mensaje» esté disponible en España. Solo se mantiene si antes se confirma disponibilidad; si no, sustituir. Ver investigacion/demanda/2026-11-25.md.",
+      "huecos_a_cubrir": [
+        "rutas de menú verificadas",
+        "errores típicos",
+        "vídeo gancho"
+      ],
+      "fuentes": [],
+      "provisional": true
     }
   ]
 }
