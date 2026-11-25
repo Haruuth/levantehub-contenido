@@ -43,3 +43,6 @@ REGLA DE SECCIÓN Y VÍDEO (dueño, 25-nov-2026):
 - Un paso a paso («cómo hacer X») es SIEMPRE un TUTORIAL: va a su departamento (/google-business/guias/<slug>, /servicios-web/guias/<slug>, /academia/guias/<slug>), NUNCA a Radar. Radar es solo para novedades y recomendaciones de herramientas, sin campo "pasos" ni la etiqueta «tutorial».
 - Todo tutorial lleva vídeo explicativo (reel/Short de FASE C): claro, fácil de entender, dinámico y con un gancho en los 2 primeros segundos. Una novedad de Radar que pida un «cómo hacerlo» enlaza al tutorial (pendiente true hasta publicarlo).
 - Si una novedad exige tutorial y aún no existe, ese tutorial entra en la cola para los próximos días.
+
+ELECCIÓN DE TEMA POR DEMANDA (dueño, 25-nov-2026; prevalece sobre el paso 2 y sobre cualquier tema puesto a mano):
+El tema, y su tipo (tutorial, guía, novedad o recomendación), lo decide Romu (instrucciones/ROMU-demanda-y-temas.md) a partir de Search Console y Google Trends: investigacion/demanda/AAAA-MM-DD.md y la cola-diaria.json que de ahí sale. Los temas con "provisional": true en la cola (activar-mensajes-ficha, rendimiento-ficha-google, informe-search-console) son solo propuestas: se publican únicamente si el informe de demanda los respalda. Lee el informe del día antes de escribir.
