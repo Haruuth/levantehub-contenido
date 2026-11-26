@@ -1,0 +1,233 @@
+{
+  "slug": "suspended-profile-appeal",
+  "slug_es": "apelar-ficha-suspendida",
+  "es_path": "/google-business/guias/apelar-ficha-suspendida",
+  "tipo": "tutorial",
+  "title": "Appeal a Suspended Google Business Profile: Steps and Evidence",
+  "h1": "How to appeal a suspended Google Business Profile",
+  "description": "Tutorial to appeal a suspended Google Business Profile: what to fix first, what evidence to gather, how to send a single appeal and what to do if rejected.",
+  "date": "2026-11-26",
+  "character": "nuri",
+  "tags": [
+    "tutorial",
+    "suspended Google profile",
+    "appeal Google profile",
+    "Google Business Profile",
+    "local SEO",
+    "Valencia"
+  ],
+  "answer": {
+    "question": "How do you appeal a suspended Google Business Profile?",
+    "text": "First fix whatever breaks the guidelines (name, category, address, business type), gather real evidence that your business exists and serves customers as you say, and send ONE appeal through Google's official Business Profile appeals form. Save the case ID and wait for the reply before writing again."
+  },
+  "intro": "Your Google profile has disappeared or shows as suspended and you want it back. This tutorial orders the process: what to fix before appealing, what evidence to prepare for your type of business, how to send one well-made appeal and what to do next. Verified 26 Nov 2026: Google blocks automated reading of its help, so we do not invent menu paths; we give the general process and tell you where to confirm each step in the official help.",
+  "body": [
+    {
+      "type": "tip",
+      "title": "What almost nobody tells you",
+      "text": "Appealing three times in a row does not speed anything up and can tangle your case. One well-prepared appeal beats five rushed ones. Prepare your evidence before opening the form, not after."
+    },
+    {
+      "type": "h2",
+      "text": "What a suspension is (and is not)"
+    },
+    {
+      "type": "p",
+      "text": "A suspended profile is one Google has disabled for a possible breach of its guidelines: it stops showing normally on Maps and Search and you can no longer manage it as usual. It is different from an unverified profile and from a removed review. If you are unsure which one you have, start with our guide on what to do about a suspended profile."
+    },
+    {
+      "type": "p",
+      "text": "Google's official help has two key pages: “Fix suspended or disabled profiles” (support.google.com/business/answer/4569145) and “Appeal Business Profile content & profile restrictions” (support.google.com/business/answer/13597551). We could not open them automatically today, so read them yourself before clicking anything: they prevail if anything here differs."
+    },
+    {
+      "type": "h2",
+      "text": "Step 1: confirm the profile is really suspended"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Sign in with the Google account that manages the profile (or another owner or manager).",
+        "Search for your business on Google Maps on phone and computer, ideally in an incognito window, to see what a customer sees.",
+        "Check whether your account shows a suspension notice or the profile simply does not appear. Take a dated screenshot.",
+        "Write down the exact text Google shows. You will need it for the appeal."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "What you will see: a suspended profile usually shows a notice when you manage it and stops appearing publicly as normal. If you see something else (for example the profile exists but is unverified) you do not need to appeal: you need to verify it."
+    },
+    {
+      "type": "h2",
+      "text": "Step 2: fix things before you appeal"
+    },
+    {
+      "type": "p",
+      "text": "Appealing without fixing the problem is the costliest mistake, because you lose a quick second chance. Review the points most often linked to suspensions in local SEO practice:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Name: the real one customers use and that appears on your sign and invoices. No added keywords or services.",
+        "Category: pick the one that describes what you are.",
+        "Address: a place where you serve customers or from which you travel to serve them. Virtual offices and mailboxes are a classic cause of trouble.",
+        "Business type: if you visit customers and do not receive them, set it up as a service-area business and do not show the address as a public storefront.",
+        "Duplicates: if another profile exists for the same business at the same address, resolve it rather than appealing one against the other.",
+        "Website, phone and hours: they must match reality."
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Valencia example",
+      "text": "A dental clinic that moved and changed its address without updating its sign or paperwork has a typical problem: the profile says one thing and reality another. Before appealing, make everything consistent: sign, invoice, website and profile."
+    },
+    {
+      "type": "h2",
+      "text": "Step 3: gather evidence for your type of business"
+    },
+    {
+      "type": "p",
+      "text": "Google does not publish a closed list we can guarantee, so the prudent approach is to prepare evidence proving three things: the business exists, it is yours, and it operates where you say. The more consistent the evidence, the better. This is our recommendation (our own advice, not an official requirement):"
+    },
+    {
+      "type": "p",
+      "text": "Storefront (hairdresser, restaurant, garage): photos of the façade with sign and street visible, the interior with your product or service, the customer area, and a document (invoice, utility bill or lease) showing business name and address."
+    },
+    {
+      "type": "p",
+      "text": "Home-visit services (plumber, electrician, locksmith): photos of your branded van, tools and uniforms, business cards, invoices with your company name and proof of your service area. Do not show an address where you do not serve customers."
+    },
+    {
+      "type": "p",
+      "text": "No premises or newly opened: business licence or activity registration, tax and social security registration, a contract or utility bill, a website consistent with the profile and, if you have them, active social profiles."
+    },
+    {
+      "type": "checklist",
+      "title": "Evidence checklist",
+      "items": [
+        "Recent, sharp, dated photos taken by you.",
+        "One official document whose business name and address match the profile.",
+        "Sign, website, social media and profile share the same name, phone and address.",
+        "A short text (5-8 lines) saying who you are, where you operate and what you fixed.",
+        "Everything saved in one folder so you can upload it at once."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Step 4: send a single appeal"
+    },
+    {
+      "type": "p",
+      "text": "The official appeals form is linked from Google's help (support.google.com/business/contact/local_appeals). How you reach it and the fields it asks for have changed over time and we cannot read it today, so we do not invent button names: open the form from the official help and fill in what it asks."
+    },
+    {
+      "type": "p",
+      "text": "Cautious note (26 Nov 2026): Search Engine Roundtable reported on 24 November that Google may have unified the appeal form into a single one that issues a case ID. The original source is a third party's LinkedIn post and Google has not confirmed it in the help we could consult. Treat it as a signal, not a fact: what you see on your screen prevails."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Open the form from the official help, signed in with the account that manages the profile.",
+        "Enter the business details exactly as they appear on your documents.",
+        "Explain in a few lines what happened and what you fixed. No anger or threats.",
+        "Attach the step 3 evidence if the form allows it; if they ask for something specific, give exactly that.",
+        "Keep the case ID or confirmation email and take a screenshot."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "A base text you can adapt: “I am the owner of [real name], a [activity] business at [address]. We serve the public [hours]. I have corrected [name/category/address] to comply with the guidelines. I attach photos of the premises and an invoice showing the address. I request a review of my profile.”"
+    },
+    {
+      "type": "h2",
+      "text": "An AI trick to organise your evidence"
+    },
+    {
+      "type": "p",
+      "text": "Ask ChatGPT, Gemini or Claude to review your text and spot inconsistencies. Prompt to copy: “I own a hair salon in Valencia and my Google profile is suspended. This is what I will say in the appeal: [paste your text]. Check for contradictions, exaggerations or claims I cannot prove, and rewrite it in 6 clear, polite lines.” Do not paste sensitive personal data or full documents into the AI, and check every fact yourself before sending."
+    },
+    {
+      "type": "h2",
+      "text": "Step 5: what to expect"
+    },
+    {
+      "type": "p",
+      "text": "Google replies through the channel stated in the case (usually email and the profile dashboard). We promise no timeframe because we could not confirm any official figure today; if the email states one, that is the right one. Meanwhile, do not change profile data or open another profile: it tends to complicate the review."
+    },
+    {
+      "type": "p",
+      "text": "If accepted, review the whole profile: name, address, hours, category and links. If rejected, do not resend the same thing: read the reason, fix what is missing and only then appeal again with new evidence."
+    },
+    {
+      "type": "h2",
+      "text": "Common mistakes and fixes"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Appealing many times the same day: wait for the open case.",
+        "Creating a new profile to dodge the suspension: it can end up duplicated and suspended too.",
+        "Paying an intermediary who “guarantees” recovery: nobody can guarantee it; you file the appeal yourself for free.",
+        "Evidence that does not match (different name on the invoice, different address on the website): align it before sending.",
+        "A virtual-office address: correct it or switch to service-area if that is your real case."
+      ]
+    },
+    {
+      "type": "checklist",
+      "title": "Final checklist",
+      "items": [
+        "I confirmed the profile is suspended and saved dated screenshots.",
+        "I read Google's official help on suspensions and appeals.",
+        "I fixed name, category, address and business type.",
+        "I prepared photos, a document and a short text.",
+        "I sent a single appeal and saved the case ID.",
+        "I will not touch the profile or open another until I get a reply."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Next free lesson"
+    },
+    {
+      "type": "p",
+      "text": "Once your profile is back, the next step is earning reviews legitimately: read our guide on replying to reviews and reporting fake ones. If you prefer to delegate, LevanteHUB offers local SEO and Google profile management."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How long does Google take to answer an appeal?",
+      "a": "We have no verified official figure. The timeframe in your case or email is the one that counts; do not appeal again while it is open."
+    },
+    {
+      "q": "Can I appeal if I do not know why I was suspended?",
+      "a": "Yes, but first review name, category, address and business type, the most common causes, and check the official help."
+    },
+    {
+      "q": "Do I have to pay to recover my profile?",
+      "a": "No. The appeal is free. Be wary of anyone guaranteeing recovery for money."
+    },
+    {
+      "q": "Can I create another profile while I appeal?",
+      "a": "We do not recommend it: it can create duplicates and worsen the case."
+    },
+    {
+      "q": "Does it work if I work from home?",
+      "a": "Yes, but the profile should be set up as service-area, without showing your home address as a public storefront."
+    },
+    {
+      "q": "Why are there no exact menu paths in this tutorial?",
+      "a": "Because today we could not read Google's official help and we do not write steps we cannot verify. Use the form linked from the official help."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Google Business Profile Help",
+      "url": "https://support.google.com/business/answer/4569145"
+    },
+    {
+      "name": "Google Business Profile: appeals",
+      "url": "https://support.google.com/business/answer/13597551"
+    }
+  ]
+}
