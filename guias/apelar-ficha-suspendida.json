@@ -1,0 +1,227 @@
+{
+  "slug": "apelar-ficha-suspendida",
+  "tipo": "tutorial",
+  "title": "Apelar una ficha de Google suspendida: pasos y pruebas",
+  "description": "Tutorial para apelar una ficha de Google Business Profile suspendida: qué revisar antes, qué pruebas reunir, cómo apelar una vez y qué hacer si te rechazan.",
+  "intro": "Tu ficha de Google ha desaparecido o aparece como suspendida y quieres recuperarla. Este tutorial te ordena el proceso: qué corregir antes de apelar, qué pruebas preparar según tu tipo de negocio, cómo enviar una sola apelación bien hecha y qué hacer después. Verificado el 26-nov-2026: Google bloquea la lectura automática de su ayuda, así que aquí no inventamos rutas de menú; te damos el proceso general y te decimos dónde confirmar cada paso en la ayuda oficial.",
+  "department": "google-business",
+  "date": "2026-11-26",
+  "tags": [
+    "tutorial",
+    "ficha de Google suspendida",
+    "apelar ficha Google",
+    "Google Business Profile",
+    "SEO local",
+    "Valencia"
+  ],
+  "related": [
+    "ficha-google-suspendida-que-hacer",
+    "crear-y-verificar-ficha-google-business",
+    "responder-resenas-negativas-google-y-denunciar-falsas",
+    "por-que-mi-web-no-aparece-en-google"
+  ],
+  "body": [
+    {
+      "type": "answer",
+      "question": "¿Cómo se apela una ficha de Google suspendida?",
+      "text": "Primero corrige lo que incumple las directrices (nombre, categoría, dirección, tipo de negocio), reúne pruebas reales de que tu negocio existe y atiende al público como dices, y envía UNA sola apelación desde el formulario oficial de apelaciones de Google Business Profile. Guarda el ID de caso y espera la respuesta antes de volver a escribir."
+    },
+    {
+      "type": "tip",
+      "title": "Lo que casi nadie sabe",
+      "text": "Apelar tres veces seguidas no acelera nada y puede enredar tu caso. Una apelación bien preparada vale más que cinco rápidas. Prepara las pruebas antes de abrir el formulario, no después."
+    },
+    {
+      "type": "h2",
+      "text": "Qué es una suspensión y qué no lo es"
+    },
+    {
+      "type": "p",
+      "text": "Una ficha suspendida es una ficha que Google ha desactivado por un posible incumplimiento de sus directrices: deja de verse en Maps y Búsqueda, y tú ya no puedes gestionarla con normalidad. Es distinto de una ficha sin verificar (que simplemente no ha completado la verificación) y de una reseña eliminada. Si no tienes claro cuál es tu caso, empieza por nuestra guía sobre qué hacer con una ficha suspendida: ahí explicamos las causas más habituales."
+    },
+    {
+      "type": "p",
+      "text": "La ayuda oficial de Google tiene dos páginas clave: «Fix suspended or disabled profiles» (support.google.com/business/answer/4569145) y «Appeal Business Profile content & profile restrictions» (support.google.com/business/answer/13597551). Nosotros no hemos podido abrirlas automáticamente hoy, así que antes de pulsar nada léelas tú: son la fuente que manda si algo de lo que leas aquí difiere."
+    },
+    {
+      "type": "h2",
+      "text": "Paso 1: confirma que la ficha está suspendida de verdad"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Entra en Google con la cuenta que gestiona la ficha (la que usaste al crearla, o la de otro propietario o administrador).",
+        "Busca el nombre de tu negocio en Google Maps desde el móvil y desde el ordenador, mejor en una ventana de incógnito: así ves lo que ve un cliente.",
+        "Comprueba si tu cuenta muestra un aviso de suspensión o si la ficha simplemente no aparece. Haz una captura de lo que ves, con fecha.",
+        "Anota qué te dice Google exactamente (el texto del aviso). Lo vas a necesitar para la apelación."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Qué verás: cuando una ficha está suspendida suele aparecer un aviso al gestionarla y la ficha deja de mostrarse públicamente con normalidad. Si lo que ves es otra cosa (por ejemplo, la ficha existe pero sin verificar), no necesitas apelar: necesitas verificarla."
+    },
+    {
+      "type": "h2",
+      "text": "Paso 2: corrige antes de apelar"
+    },
+    {
+      "type": "p",
+      "text": "Apelar sin corregir el problema es el error más caro, porque te quedas sin segunda oportunidad rápida. Repasa estos puntos, que son los que más se vinculan a suspensiones en la práctica del SEO local:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Nombre: tiene que ser el real que usan tus clientes y el que sale en tu rótulo y factura. Nada de añadir palabras clave («Peluquería Valencia centro barata») ni servicios al nombre.",
+        "Categoría: elige la que describe lo que eres. Una peluquería no es una «academia de estilismo» solo porque dé algún curso.",
+        "Dirección: tiene que ser un lugar donde atiendes o desde donde sales a prestar servicio. Los despachos virtuales, buzones y coworkings sin atención propia son una causa clásica de problemas.",
+        "Tipo de negocio: si vas a domicilio y no recibes clientes, tu ficha debe ser de servicio a domicilio (con zona de servicio) y no mostrar la dirección como local abierto al público.",
+        "Duplicadas: si hay otra ficha del mismo negocio en la misma dirección, hay que resolverla, no apelar la una contra la otra.",
+        "Web, teléfono y horario: que coincidan con lo que existe de verdad."
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Valencia, ejemplo real",
+      "text": "Una clínica dental que se mudó de la calle Colón a otra zona y cambió la dirección sin actualizar su rótulo ni sus papeles tiene un problema típico: la ficha dice una cosa y la realidad otra. Antes de apelar, pon todo coherente: rótulo, factura, web y ficha."
+    },
+    {
+      "type": "h2",
+      "text": "Paso 3: reúne las pruebas según tu tipo de negocio"
+    },
+    {
+      "type": "p",
+      "text": "Google no publica una lista cerrada que podamos garantizarte, así que lo prudente es preparar pruebas que demuestren tres cosas: que el negocio existe, que es tuyo y que atiende donde dices. Cuantas más sean coherentes entre sí, mejor. Esta es nuestra recomendación (consejo propio, no requisito oficial):"
+    },
+    {
+      "type": "p",
+      "text": "Local con rótulo (peluquería, restaurante, taller): fotos de la fachada con el rótulo y la calle a la vista, del interior con tu producto o servicio, de la zona de atención al público y de un documento (factura, recibo de suministro o contrato de alquiler) con el nombre del negocio y la dirección."
+    },
+    {
+      "type": "p",
+      "text": "Servicio a domicilio (fontanero, electricista, cerrajero): fotos de la furgoneta rotulada, de tus herramientas y uniformes, tarjetas de visita, facturas con tu razón social y una prueba de tu zona de servicio. No muestres una dirección donde no atiendes."
+    },
+    {
+      "type": "p",
+      "text": "Negocio sin local propio o recién abierto: licencia o alta de actividad, alta en Hacienda y Seguridad Social, un contrato o recibo de suministro, web propia coherente con la ficha y, si lo tienes, perfiles sociales con actividad real."
+    },
+    {
+      "type": "checklist",
+      "title": "Checklist de pruebas",
+      "items": [
+        "Fotos recientes y nítidas, con fecha, hechas por ti.",
+        "Un documento oficial con nombre del negocio y dirección que coincidan con la ficha.",
+        "Rótulo, web, redes y ficha con el mismo nombre, teléfono y dirección.",
+        "Un texto breve (5-8 líneas) que explique quién eres, dónde atiendes y qué has corregido.",
+        "Todo guardado en una carpeta para subirlo de una vez."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Paso 4: envía una sola apelación"
+    },
+    {
+      "type": "p",
+      "text": "El formulario oficial de apelaciones está enlazado desde la ayuda de Google (support.google.com/business/contact/local_appeals). Cómo se llega y qué campos pide ha cambiado con el tiempo, y nosotros no podemos leerlo hoy, así que no te escribimos botones concretos: abre el formulario desde la ayuda oficial y rellénalo con lo que te pida."
+    },
+    {
+      "type": "p",
+      "text": "Nota prudente (26-nov-2026): Search Engine Roundtable contó el 24 de noviembre que Google habría unificado el formulario de apelación en uno solo, que da un ID de caso. La fuente original es una publicación de un tercero en LinkedIn y Google no lo ha confirmado en la ayuda que hemos podido consultar. Tómalo como una señal, no como un hecho: lo que veas en tu pantalla manda."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Abre el formulario desde la ayuda oficial, con la cuenta que gestiona la ficha.",
+        "Indica los datos reales del negocio, tal como figuran en tus documentos.",
+        "Explica en pocas líneas qué ha pasado y qué has corregido. Sin enfados ni amenazas.",
+        "Adjunta las pruebas del paso 3 si el formulario te lo permite; si te piden algo concreto, da exactamente eso.",
+        "Guarda el ID de caso o el correo de confirmación y haz una captura."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Un texto base que puedes adaptar: «Soy el titular de [nombre real], un negocio de [actividad] en [dirección]. Atendemos al público de [horario]. He corregido [nombre/categoría/dirección] para cumplir las directrices. Adjunto fotos del local y de la factura con la dirección. Solicito la revisión de mi ficha.»"
+    },
+    {
+      "type": "h2",
+      "text": "Un truco con IA para ordenar tus pruebas"
+    },
+    {
+      "type": "p",
+      "text": "Puedes pedirle a ChatGPT, Gemini o Claude que te revise el texto y detecte incoherencias. Prompt para copiar: «Soy dueño de una peluquería en Valencia y mi ficha de Google está suspendida. Esto es lo que voy a decir en la apelación: [pega tu texto]. Revisa si hay contradicciones, exageraciones o datos que no pueda demostrar, y reescríbelo en 6 líneas claras y educadas.» No metas datos personales sensibles ni documentos completos en la IA y comprueba tú cada dato antes de enviarlo."
+    },
+    {
+      "type": "h2",
+      "text": "Paso 5: qué esperar después"
+    },
+    {
+      "type": "p",
+      "text": "Google responde por el canal que indique el caso (normalmente correo y el panel de la ficha). Nosotros no te prometemos un plazo porque no hemos podido confirmar ninguna cifra oficial hoy; si el correo indica uno, ese es el bueno. Mientras tanto, no cambies datos de la ficha ni abras otra: eso suele complicar la revisión."
+    },
+    {
+      "type": "p",
+      "text": "Si te aceptan, revisa la ficha entera: nombre, dirección, horario, categoría y enlaces. Si te rechazan, no repitas el mismo envío: lee el motivo, corrige lo que falte y, solo entonces, vuelve a apelar con pruebas nuevas."
+    },
+    {
+      "type": "h2",
+      "text": "Errores típicos y cómo arreglarlos"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Apelar muchas veces el mismo día: espera la respuesta del caso abierto.",
+        "Crear una ficha nueva para esquivar la suspensión: puede acabar duplicada y también suspendida.",
+        "Pagar a un intermediario que «garantiza» la recuperación: nadie puede garantizarla; la apelación la haces tú gratis.",
+        "Pruebas que no coinciden entre sí (otro nombre en la factura, otra dirección en la web): unifica antes de enviar.",
+        "Dirección de un despacho virtual: corrige o pasa a servicio a domicilio si es tu caso real."
+      ]
+    },
+    {
+      "type": "checklist",
+      "title": "Checklist final",
+      "items": [
+        "Confirmé que la ficha está suspendida y guardé capturas con fecha.",
+        "Leí la ayuda oficial de suspensiones y apelaciones.",
+        "Corregí nombre, categoría, dirección y tipo de negocio.",
+        "Preparé fotos, un documento y un texto breve.",
+        "Envié una sola apelación y guardé el ID de caso.",
+        "No toco la ficha ni abro otra hasta recibir respuesta."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Siguiente lección gratuita"
+    },
+    {
+      "type": "p",
+      "text": "Cuando tu ficha vuelva, el siguiente paso es conseguir reseñas de forma legítima: lee nuestra guía sobre cómo responder reseñas y denunciar las falsas. Si prefieres delegar la gestión y el cuidado de tu ficha, en LevanteHUB ofrecemos SEO local y gestión de ficha de Google."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Cuánto tarda Google en responder a una apelación?",
+      "a": "No lo sabemos con una cifra oficial verificada. El plazo que figure en tu caso o correo es el que vale; no apeles de nuevo mientras esté abierto."
+    },
+    {
+      "q": "¿Puedo apelar si no sé por qué me han suspendido?",
+      "a": "Sí, pero conviene revisar primero nombre, categoría, dirección y tipo de negocio, que son las causas más habituales, y consultar la ayuda oficial."
+    },
+    {
+      "q": "¿Tengo que pagar para recuperar mi ficha?",
+      "a": "No. La apelación es gratuita. Desconfía de quien garantice la recuperación a cambio de dinero."
+    },
+    {
+      "q": "¿Puedo crear otra ficha mientras apelo?",
+      "a": "No te lo recomendamos: puede generar duplicados y empeorar el caso."
+    },
+    {
+      "q": "¿Sirve apelar si trabajo desde casa?",
+      "a": "Sí, pero tu ficha debería configurarse como servicio a domicilio, sin mostrar la dirección de casa como local abierto al público."
+    },
+    {
+      "q": "¿Por qué no hay rutas de menú exactas en este tutorial?",
+      "a": "Porque hoy no hemos podido leer la ayuda oficial de Google y no escribimos pasos que no podamos verificar. Usa el formulario enlazado en la ayuda oficial."
+    }
+  ]
+}

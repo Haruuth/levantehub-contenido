@@ -115,7 +115,9 @@
       ],
       "investigacion": "investigacion/demanda/2026-11-25.md",
       "condicion": "WebFetch suele bloquear support.google.com: si no se puede leer la ayuda oficial, escribir solo el proceso general sin rutas de menú ni capturas de botones y decirlo. No afirmar el formulario único como hecho de Google.",
-      "informe": "investigacion/demanda/2026-11-25.md"
+      "informe": "investigacion/demanda/2026-11-25.md",
+      "hecho": "2026-11-26",
+      "slug_publicado": "apelar-ficha-suspendida"
     },
     {
       "fecha_objetivo": "2026-11-27",
