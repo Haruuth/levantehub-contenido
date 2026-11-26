@@ -127,7 +127,7 @@
       "area": "SEO",
       "keyword_principal": "cómo verificar google my business",
       "tema": "Verificar tu ficha de Google: métodos disponibles y qué hacer cuando la verificación falla",
-      "por_que": "Search Console (sc-domain:levantehub.es, 28 días, consultado 26-nov, Windsor): 12 impresiones en 9 consultas de verificación (p. ej. «como verificar mi negocio en google» 3, «como verificar google my business» 2, «verificar negocio google» 2), 0 clics, posiciones 53-83; en la misma familia, 5 impresiones de «ficha suspendida» (pos. 65-72). Sustituye a la novedad de reservas: solo hay UNA fuente (Search Engine Roundtable 23-nov) y la regla exige 2 para publicar novedad; la búsqueda de hoy solo devolvió ayuda oficial sobre reservas, sin segunda noticia. Google Trends: sin dato hoy (error de la herramienta al comparar varios términos). Ya existe la guía crear-y-verificar-ficha-google-business: el ángulo nuevo es el diagnóstico de fallos de verificación.",
+      "por_que": "Search Console (sc-domain:levantehub.es, 28 días, consultado 26-nov, Windsor): 16 impresiones en 9 consultas de verificación en español (p. ej. «como verificar mi negocio en google» 4, «verificar negocio google» 3, «como verificar google my business» 2), 0 clics, posiciones 53-83; más 9 impresiones en 4 consultas en inglés en /en/guides/how-to-verify-your-business-on-google. Serie diaria en alza (24-nov: 150 impresiones frente a 12 el 18-nov, base pequeña). Competencia (titulares SERP): Google, SER, Search Engine Land, Whitespark, Sterling Sky en inglés; en español solo Metricool genérico; sin pieza que diagnostique fallos con ejemplos de Valencia. Trends: sin dato hoy. Ya existe la guía crear-y-verificar-ficha-google-business: el ángulo nuevo es el diagnóstico de fallos.",
       "huecos_a_cubrir": [
         "rutas verificadas en ayuda oficial (si no se puede leer, escribir solo proceso general y decirlo, como en apelar-ficha-suspendida)",
         "qué hacer si falla la verificación (vídeo, teléfono, correo)",
@@ -139,12 +139,13 @@
         "https://support.google.com/business/answer/7107242",
         "https://support.google.com/business/answer/14271705"
       ],
-      "investigacion": "investigacion/keywords/2026-11-26.md",
+      "investigacion": "investigacion/demanda/2026-11-26.md",
       "enlaces_previstos": [
         "guias/crear-y-verificar-ficha-google-business",
         "guias/apelar-ficha-suspendida",
         "guias/ficha-google-suspendida-que-hacer"
-      ]
+      ],
+      "informe": "investigacion/demanda/2026-11-26.md"
     },
     {
       "fecha_objetivo": "2026-12-01",
@@ -153,7 +154,7 @@
       "slug": "plantillas-responder-resenas-negativas-por-sector",
       "keyword_principal": "responder reseñas negativas google",
       "tema": "Plantillas para responder reseñas negativas en Google según el sector (peluquería, clínica, taller, restaurante) con ejemplos de Valencia; complementa la guía de responder y denunciar reseñas falsas",
-      "por_que": "Search Console 28 días (consultado 25-nov): 32 impresiones en 12 consultas de reseñas negativas (p. ej. «como responder a las reseñas negativas de google» 8, «reseñas negativas en google my business» 7, «responder reseñas negativas google» 5), 0 clics, posiciones 46-95; es la familia con más impresiones propias tras el alta en Maps. Ya existe la guía responder-resenas-negativas-google-y-denunciar-falsas, así que el ángulo nuevo son plantillas por sector, sin duplicar. Trends: sin dato hoy (reseñas google relativo ~16-22 en nov, keywords/2026-11-24.md). Sustituye al tutorial provisional «activar mensajes» (sin consultas y sin disponibilidad confirmada en España).",
+      "por_que": "Search Console 28 días (consultado 25-nov): 41 impresiones en 14 consultas (consultado 26-nov) de reseñas negativas (p. ej. «como responder a las reseñas negativas de google» 8, «reseñas negativas en google my business» 7, «responder reseñas negativas google» 5), 0 clics, posiciones 46-95; es la familia con más impresiones propias tras el alta en Maps. Ya existe la guía responder-resenas-negativas-google-y-denunciar-falsas, así que el ángulo nuevo son plantillas por sector, sin duplicar. Trends: sin dato hoy (reseñas google relativo ~16-22 en nov, keywords/2026-11-24.md). Sustituye al tutorial provisional «activar mensajes» (sin consultas y sin disponibilidad confirmada en España).",
       "huecos_a_cubrir": [
         "plantillas por sector y por tipo de queja",
         "cuándo responder, cuándo denunciar (política de contenido de Google)",
@@ -168,7 +169,7 @@
         "guias/responder-resenas-negativas-google-y-denunciar-falsas",
         "guias/pedir-resenas-google-enlace-qr-oficial-sin-incentivos"
       ],
-      "informe": "investigacion/demanda/2026-11-25.md"
+      "informe": "investigacion/demanda/2026-11-26.md"
     },
     {
       "fecha_objetivo": "2026-12-02",
