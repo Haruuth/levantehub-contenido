@@ -30,5 +30,19 @@ https://levantehub.es/google-business/guias/apelar-ficha-suspendida
 Tu ficha de Google está suspendida: qué corregir, qué pruebas reunir y cómo enviar una sola apelación.
 #Shorts #fichadegoogle #seolocal #googlebusiness
 
+
+## PARA INSTAGRAM · CARRUSEL (post-01..07.jpg)
+Texto: ¿Tu ficha de Google está suspendida? No apeles todavía 🚨
+1. Corrige nombre y categoría reales
+2. Pon una dirección donde atiendes de verdad
+3. Reúne fotos del local y una factura
+4. Que rótulo, factura y ficha coincidan
+5. Envía UNA sola apelación y guarda el ID de caso
+Tutorial gratis: https://levantehub.es/google-business/guias/apelar-ficha-suspendida
+#fichadegoogle #googlebusiness #seolocal #valencia #negociolocal #levantehub #googlemaps #pymes
+
+## STORIES (story-01..03.jpg)
+Sticker de enlace en las 3: https://levantehub.es/google-business/guias/apelar-ficha-suspendida (texto del sticker: «Cómo apelar paso a paso»)
+
 ## Guion de voz
 Ver LEEME-REEL.md en esta carpeta.
