@@ -1,0 +1,24 @@
+{
+  "ops": [
+    {
+      "op": "set",
+      "path": "tareas/2026-11-26_seo_demanda",
+      "data": {
+        "fecha": "2026-11-26",
+        "hora": "23:00",
+        "depto": "seo",
+        "agente": "marta",
+        "web": "levantehub",
+        "tipo": "informe",
+        "estado": "hecho",
+        "tarea": "Investigación SEO (Romu): tema de mañana",
+        "resumen": "Mañana 27-nov: tutorial verificar ficha de Google. Search Console: 16 impresiones en 9 consultas de verificación (pos. 53-83), 0 clics; sin pieza ES que diagnostique fallos.",
+        "enlaces": [
+          {"t": "Informe de demanda", "u": "https://github.com/Haruuth/levantehub-contenido/blob/main/investigacion/demanda/2026-11-26.md"},
+          {"t": "Cola diaria", "u": "https://github.com/Haruuth/levantehub-contenido/blob/main/investigacion/cola-diaria.json"}
+        ]
+      }
+    }
+  ],
+  "motivo": "db_write no disponible en esta ejecución; el artefacto e329682e-9a42-4a74-8d51-b71a934fbac9 debe recibir esta tarjeta."
+}
