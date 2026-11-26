@@ -121,44 +121,30 @@
     },
     {
       "fecha_objetivo": "2026-11-27",
-      "tipo": "novedad",
-      "department": "radar",
-      "slug": "google-business-profile-controla-enlaces-de-reserva",
-      "area": "SEO",
-      "keyword_principal": "google business profile reservas citas enlaces",
-      "tema": "Google Business Profile permite elegir qué enlaces de reserva de citas y restaurante aparecen en tu ficha (sección «Booking»); qué revisar si tu negocio de Valencia usa reservas",
-      "por_que": "Search Engine Roundtable (23-nov-2026) lo cuenta citando una publicación de Lisa Landsman (Google) en LinkedIn; sin cifras ni países; es lo mismo que Google añadió hace un mes para pedidos de restaurante. Una sola fuente leída hoy; interés de búsqueda sin dato.",
-      "huecos_a_cubrir": [
-        "distinguir lo que dice Google de consejo nuestro",
-        "no prometer disponibilidad en España",
-        "qué revisar: socios de reserva activos, enlaces correctos",
-        "ejemplo local: peluquería, clínica, restaurante"
-      ],
-      "fuentes": [
-        "https://www.seroundtable.com/google-business-profiles-appt-book-dinner-reserve-42605.html"
-      ],
-      "investigacion": "investigacion/demanda/2026-11-25.md",
-      "condicion": "Publicar como novedad solo con 2 medios que lo confirmen; si no, cambiar a tutorial de verificación de ficha (candidato 4 del informe)."
-    },
-    {
-      "fecha_objetivo": "2026-11-30",
       "tipo": "tutorial",
       "department": "google-business",
-      "slug": "verificar-ficha-google-metodos-y-fallos",
+      "slug": "verificar-ficha-google",
       "area": "SEO",
       "keyword_principal": "cómo verificar google my business",
       "tema": "Verificar tu ficha de Google: métodos disponibles y qué hacer cuando la verificación falla",
-      "por_que": "Search Console 28 días: 12 impresiones en 7 consultas de verificación (posiciones 53-83), 0 clics; existe la guía crear-y-verificar, así que el ángulo es el diagnóstico de fallos. Competencia en titulares: SE Ranking, Metricool (ES), Whitespark y Search Engine Journal (EN).",
+      "por_que": "Search Console (sc-domain:levantehub.es, 28 días, consultado 26-nov, Windsor): 12 impresiones en 9 consultas de verificación (p. ej. «como verificar mi negocio en google» 3, «como verificar google my business» 2, «verificar negocio google» 2), 0 clics, posiciones 53-83; en la misma familia, 5 impresiones de «ficha suspendida» (pos. 65-72). Sustituye a la novedad de reservas: solo hay UNA fuente (Search Engine Roundtable 23-nov) y la regla exige 2 para publicar novedad; la búsqueda de hoy solo devolvió ayuda oficial sobre reservas, sin segunda noticia. Google Trends: sin dato hoy (error de la herramienta al comparar varios términos). Ya existe la guía crear-y-verificar-ficha-google-business: el ángulo nuevo es el diagnóstico de fallos de verificación.",
       "huecos_a_cubrir": [
-        "rutas verificadas en ayuda oficial",
-        "qué hacer si falla la verificación",
+        "rutas verificadas en ayuda oficial (si no se puede leer, escribir solo proceso general y decirlo, como en apelar-ficha-suspendida)",
+        "qué hacer si falla la verificación (vídeo, teléfono, correo)",
+        "sin prometer plazos que Google no dé",
+        "enlace a tutorial apelar-ficha-suspendida y a la guía madre",
         "vídeo gancho"
       ],
       "fuentes": [
         "https://support.google.com/business/answer/7107242",
         "https://support.google.com/business/answer/14271705"
       ],
-      "investigacion": "investigacion/demanda/2026-11-25.md"
+      "investigacion": "investigacion/keywords/2026-11-26.md",
+      "enlaces_previstos": [
+        "guias/crear-y-verificar-ficha-google-business",
+        "guias/apelar-ficha-suspendida",
+        "guias/ficha-google-suspendida-que-hacer"
+      ]
     },
     {
       "fecha_objetivo": "2026-12-01",
@@ -183,6 +169,27 @@
         "guias/pedir-resenas-google-enlace-qr-oficial-sin-incentivos"
       ],
       "informe": "investigacion/demanda/2026-11-25.md"
+    },
+    {
+      "fecha_objetivo": "2026-12-02",
+      "tipo": "novedad",
+      "department": "radar",
+      "slug": "google-business-profile-controla-enlaces-de-reserva",
+      "area": "SEO",
+      "keyword_principal": "google business profile reservas citas enlaces",
+      "tema": "Google Business Profile permite elegir qué enlaces de reserva de citas y restaurante aparecen en tu ficha (sección «Booking»); qué revisar si tu negocio de Valencia usa reservas",
+      "por_que": "Search Engine Roundtable (23-nov-2026) lo cuenta citando una publicación de Lisa Landsman (Google) en LinkedIn; sin cifras ni países; es lo mismo que Google añadió hace un mes para pedidos de restaurante. Una sola fuente leída hoy; interés de búsqueda sin dato.",
+      "huecos_a_cubrir": [
+        "distinguir lo que dice Google de consejo nuestro",
+        "no prometer disponibilidad en España",
+        "qué revisar: socios de reserva activos, enlaces correctos",
+        "ejemplo local: peluquería, clínica, restaurante"
+      ],
+      "fuentes": [
+        "https://www.seroundtable.com/google-business-profiles-appt-book-dinner-reserve-42605.html"
+      ],
+      "investigacion": "investigacion/demanda/2026-11-25.md",
+      "condicion": "Aplazada el 26-nov: una sola fuente (SER 23-nov). Publicar como novedad solo si otro medio o la ayuda oficial de Google lo confirma; si no, descartar."
     }
   ]
 }
