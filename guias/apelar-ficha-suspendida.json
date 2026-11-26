@@ -223,5 +223,8 @@
       "q": "¿Por qué no hay rutas de menú exactas en este tutorial?",
       "a": "Porque hoy no hemos podido leer la ayuda oficial de Google y no escribimos pasos que no podamos verificar. Usa el formulario enlazado en la ayuda oficial."
     }
-  ]
+  ],
+  "video": {
+    "url": "https://cdn.jsdelivr.net/gh/Haruuth/levantehub-contenido@main/media/2026-11-26_apelar-ficha-suspendida/reel-short.mp4"
+  }
 }

@@ -1,0 +1,4 @@
+Reel y Short: hechos con voz (Lumen, ElevenLabs, 16 generaciones, una vez cada una). Volumen medio -13,8 dB.
+Revisión: el gancho se acortó a «¿Suspendida? No apeles»; en el cierre el robot roza un poco el botón de texto (se lee).
+NO HECHO: carrusel (7 imágenes) y 3 stories (paso 9 de la fase C): no se generaron en esta ejecución.
+NO HECHO: historias destacadas (las hace Leo desde el PC de casa).
