@@ -155,23 +155,28 @@
    "slug": "plantillas-resenas-negativas",
    "keyword_principal": "responder reseñas negativas google",
    "tema": "Plantillas para responder reseñas negativas en Google según el sector (peluquería, clínica, taller, restaurante) con ejemplos de Valencia; complementa la guía de responder y denunciar reseñas falsas",
-   "por_que": "Search Console (sc-domain:levantehub.es, 28 días, Windsor, consultado 27-nov): familia «responder reseñas negativas» = 45 impresiones en 15 consultas (p. ej. «reseñas negativas en google my business» 8, «como responder a las reseñas negativas de google» 10, «responder reseñas negativas google» 5), 0 clics, posiciones 46-95; es la familia con más impresiones propias sin pieza de plantillas. Competencia (solo titulares de SERP 27-nov, sin leer en detalle): Trengo, Smash Balloon, Tagembed, Growave, thestacc, EmbedSocial, Mailchimp, Ionos, HubSpot, Pipedrive, Publer, emprendedores.es: genéricas, de herramientas de reseñas, ninguna con ejemplos de Valencia ni por sector. Trends: no consultado hoy. Adelantada del 1-dic al 28-nov por ser la mayor demanda sin cubrir.",
+   "por_que": "Search Console (sc-domain:levantehub.es, 28 días, Windsor, consultado 27-nov; datos hasta 25-nov): familia «responder reseñas negativas» = 47 impresiones en 14 consultas (p. ej. «como responder a las reseñas negativas de google» 12, «reseñas negativas en google my business» 10, «responder reseñas negativas google» 5), 0 clics, posiciones 46-95; es la familia con más impresiones propias sin pieza de plantillas (alta en Maps 67 ya tiene guía y curso). Serie diaria al alza: 25-nov 241 impresiones frente a 12 el 18-nov (base pequeña). Competencia (solo titulares de SERP 27-nov): Trengo, Smash Balloon, Tagembed, EmbedSocial, thestacc, Growave, Mailchimp, Ionos, HubSpot, Pipedrive, Publer, Cyberclick, emprendedores.es; sectoriales solo Treatwell y Zenoti (peluquería/salones); ninguna con clínica, taller o restaurante ni ejemplos de Valencia (por confirmar al leerlas). Trends: sin dato hoy.",
    "huecos_a_cubrir": [
-    "plantillas por sector y por tipo de queja",
-    "cuándo responder, cuándo denunciar (política de contenido de Google)",
-    "tono y errores típicos",
-    "enlace a guía madre y a tutorial de enlace/QR de reseñas"
+    "plantillas por sector (peluquería, clínica, taller, restaurante) y por tipo de queja, con ejemplos de Valencia",
+    "qué NO decir y errores típicos",
+    "cuándo responder y cuándo denunciar según la política de Google (answer/3474122)",
+    "antes de escribir: leer 3 competidores (Treatwell, EmbedSocial, Cyberclick) y confirmar el ángulo",
+    "FAQ de 5-6 dudas reales"
    ],
    "fuentes": [
-    "https://support.google.com/business/answer/3474122?hl=es"
+    "https://support.google.com/business/answer/3474122?hl=es",
+    "https://www.treatwell.es/partners/recursos/blog/como-responder-resenas-negativas-peluqueria-salon/",
+    "https://embedsocial.com/es/blog/plantillas-respuesta-resenas-negativas/",
+    "https://www.cyberclick.es/numerical-blog/como-responder-a-las-resenas-de-google-de-la-mejor-forma"
    ],
    "area": "SEO",
    "enlaces_previstos": [
     "guias/responder-resenas-negativas-google-y-denunciar-falsas",
     "guias/pedir-resenas-google-enlace-qr-oficial-sin-incentivos"
    ],
-   "informe": "investigacion/demanda/2026-11-26.md",
-   "sin_fecha_anterior": "2026-12-01"
+   "informe": "investigacion/demanda/2026-11-27.md",
+   "sin_fecha_anterior": "2026-12-01",
+   "investigacion": "investigacion/demanda/2026-11-27.md"
   },
   {
    "fecha_objetivo": "2026-12-02",
