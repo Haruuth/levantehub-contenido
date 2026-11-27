@@ -26,6 +26,7 @@ La web trabaja de forma pasiva: la mejor web en español para APRENDER SEO, SEM 
 5. Preparar huecos de afiliación (AAWP) pero desactivados.
 
 ## Vídeo: reglas
+- ElevenLabs solo se usa para VOZ (nunca imágenes, vídeo ni música allí). Presupuesto: ~1.500 caracteres al día (reel + Short).
 - Todos los reels y Shorts llevan VOZ y SUBTÍTULOS siempre. Cada personaje tiene su propia voz e identidad (guardar voice_id en tools/instagram/voces.json). Si no se puede generar voz, no se programa: se deja en media/ y se avisa.
 - Los personajes están en primer plano: presentan, señalan y enseñan en pantalla la guía, tutorial, novedad o recomendación del día.
 - Mismo tema que la pieza de las 6:00. Reel optimizado para Instagram; Short con formato distinto, adaptado a YouTube.
