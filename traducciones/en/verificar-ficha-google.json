@@ -1,0 +1,183 @@
+{
+ "slug": "verify-google-profile",
+ "slug_es": "verificar-ficha-google",
+ "es_path": "/google-business/guias/verificar-ficha-google",
+ "tipo": "tutorial",
+ "title": "How to Verify Your Google Business Profile (and Fix Failures)",
+ "h1": "How to verify your Google Business Profile",
+ "description": "Tutorial to verify your Google Business Profile: what to prepare, common methods, what to do when the code or video fails, with examples from Valencia businesses.",
+ "date": "2026-11-27",
+ "character": "nuri",
+ "tags": [
+  "tutorial",
+  "verify Google profile",
+  "Google Business Profile",
+  "video verification",
+  "local SEO",
+  "Valencia"
+ ],
+ "answer": {
+  "question": "How do you verify a Google profile and what if it fails?",
+  "text": "Sign in with the account that manages the profile, open the verify option Google shows and pick one of the methods offered for your business (depending on the case: video, call, SMS, email or postcard). If it fails, do not retry the same way: check that name, address and category match reality, redo it with better proof (in video: storefront, sign and business tools) and read the exact reason Google gives."
+ },
+ "intro": "You created your profile but Google asks you to verify it, or the attempt failed. This tutorial gives the general process, the most common failures (code not arriving, lost postcard, rejected video) and how to fix them. Verified 27 Nov 2026: Google blocks automated reading of its help, so we do not invent menu paths; confirm each step in the official help.",
+ "body": [
+  {
+   "type": "tip",
+   "title": "What almost nobody knows",
+   "text": "Google decides which methods you get based on your business and profile: you cannot choose one that is not shown. And when a video is requested, it is recorded in one continuous take. Prepare it first: five minutes of rehearsal avoids a rejection.",
+   "mood": "thinking"
+  },
+  {
+   "type": "h2",
+   "text": "Verified is not the same as suspended"
+  },
+  {
+   "type": "p",
+   "text": "An unverified profile exists but you cannot fully manage it and it does not show normally. A suspended profile has been disabled for a possible guideline breach. If yours is the second case, see our tutorial on appealing a suspended profile; if it is the first, keep reading."
+  },
+  {
+   "type": "p",
+   "text": "Transparency note (checked 27 Nov 2026): Google blocks automated reading of its help pages (support.google.com/business/answer/7107242 and /14271705), so we could not confirm today the exact names of menus and buttons. We do not invent them: we give the general process, what you will roughly see on screen and where to confirm it. If anything differs, the official help prevails."
+  },
+  {
+   "type": "h2",
+   "text": "Before you start: prepare four things"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "A Google account that will own the profile (preferably a business account rather than a personal one you may lose).",
+    "Your details exactly as in real life: business name as on your sign, full address and main category.",
+    "Access to whatever Google may ask for: business phone, email or a mailbox.",
+    "If a video is requested: charged phone, good light and the ability to walk through the premises without cuts."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "General step by step"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Sign in to Google with the account that manages the profile and search for your business.",
+    "Open your profile and look for the notice or option to verify. If you do not see it, the profile may already be verified, under review or restricted.",
+    "Check that name, address and category are correct before continuing: a wrong detail is the most common cause of rejection.",
+    "Choose one of the methods Google shows. Not all appear for every business.",
+    "Follow the method's instructions: enter the code you receive or complete the requested proof.",
+    "Note the date and keep screenshots of each screen. If you later need to appeal, they will help.",
+    "Wait for the answer without starting over. Google does not guarantee fixed times, and neither do we."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Common methods and what you will see"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Call or SMS to the business phone: you get a code to type on screen. Check the number is right and someone can answer.",
+    "Email: a code or link arrives. Check spam and promotions too.",
+    "Postcard: a letter with a code arrives at the address mailbox. A mailbox with the business name helps it not get lost.",
+    "Video: you record the sign or storefront, surroundings, interior and items that prove the business exists (counter, tools, products). This mainly applies to businesses with premises."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "If your method is not on this list, that is normal: Google decides case by case. Always confirm in the official help which methods your profile type allows."
+  },
+  {
+   "type": "h2",
+   "text": "If verification fails: diagnosis by symptom"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Code does not arrive (phone or email): check the number or address, wait a few minutes, check spam and avoid requesting five codes in a row.",
+    "Postcard does not arrive: confirm the address is exact and the mailbox identifiable; Google promises no deadline.",
+    "Video rejected: usually cut takes, poor light, sign not visible, no evidence the business operates, or suspicion of a virtual office. Redo it in one continuous take and show more proof.",
+    "A rejection or suspension message appears: save the exact text. Fix what breaks the rules and, if applicable, follow the appeal tutorial.",
+    "Name different from the sign, address of a home without public service or a category that does not fit: typical problems, since the guidelines require real data."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Examples from Valencia"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Hair salon in El Cabanyal: the sign says «Salón Mar» but the profile says «Peluquería Mar Valencia Barata». Fix the name to the real one before verifying.",
+    "Plumber who works at customers' homes: no premises open to the public. They should declare a service area and not show an address where they do not receive customers. Confirm in the official help how to declare it.",
+    "Clinic in Ruzafa: the video was rejected for being filmed at night with the shutter half down. It was redone by day, with storefront, reception and consulting room."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Final checklist"
+  },
+  {
+   "type": "checklist",
+   "title": "Before requesting verification",
+   "items": [
+    "Name equal to the sign",
+    "Full, real address",
+    "Correct main category",
+    "Reachable phone and email",
+    "Owner account controlled by you",
+    "Dated screenshots saved",
+    "Rehearsed video (if requested)"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "After verifying"
+  },
+  {
+   "type": "p",
+   "text": "Once verified, complete hours, services and photos and start asking for reviews with the official link. See the parent guide on creating and verifying a profile and the tutorial on the review link and QR."
+  },
+  {
+   "type": "p",
+   "text": "Next free lesson in the SEO syllabus: how to ask for reviews with the official link and QR. And if you prefer to delegate, LevanteHUB offers local SEO and Google profile management, no strings attached."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How long does verification take?",
+   "a": "Google does not guarantee a fixed time and it depends on the method. We promise no times; check what your profile says."
+  },
+  {
+   "q": "Can I verify a profile without premises?",
+   "a": "It depends on the business type. Service-area businesses have their own rules in the official help; confirm them there."
+  },
+  {
+   "q": "Why is phone verification not offered?",
+   "a": "Google decides the methods based on the business and profile. You cannot force one that does not appear."
+  },
+  {
+   "q": "Can I request several codes in a row?",
+   "a": "Not recommended. Wait, check your details and try again calmly."
+  },
+  {
+   "q": "What if my video is rejected?",
+   "a": "Fix what was missing (visible sign, good light, one continuous take, proof that the business operates) and repeat."
+  },
+  {
+   "q": "What if my profile is suspended?",
+   "a": "That is a different case: follow the tutorial on appealing a suspended profile."
+  }
+ ],
+ "sources": [
+  {
+   "name": "Google Business Profile Help",
+   "url": "https://support.google.com/business/answer/7107242"
+  },
+  {
+   "name": "Google Business Profile Help (verification troubleshooting)",
+   "url": "https://support.google.com/business/answer/14271705"
+  }
+ ]
+}
