@@ -1,0 +1,176 @@
+{
+ "slug": "verificar-ficha-google",
+ "tipo": "tutorial",
+ "title": "Verificar tu ficha de Google y qué hacer si falla",
+ "description": "Tutorial para verificar tu ficha de Google Business Profile: preparación, métodos habituales, qué hacer si falla el código o el vídeo y ejemplos de negocios en Valencia.",
+ "intro": "Has creado tu ficha pero Google te pide verificarla, o el intento ha fallado. Este tutorial te da el proceso general, los fallos más comunes (código que no llega, carta perdida, vídeo rechazado) y cómo corregirlos. Verificado el 27-nov-2026: Google bloquea la lectura automática de su ayuda, así que no inventamos rutas de menú; confirma cada paso en la ayuda oficial.",
+ "department": "google-business",
+ "date": "2026-11-27",
+ "tags": [
+  "tutorial",
+  "verificar ficha Google",
+  "Google Business Profile",
+  "verificación vídeo",
+  "SEO local",
+  "Valencia"
+ ],
+ "related": [
+  "crear-y-verificar-ficha-google-business",
+  "apelar-ficha-suspendida",
+  "ficha-google-suspendida-que-hacer",
+  "pedir-resenas-google-enlace-qr-oficial-sin-incentivos"
+ ],
+ "body": [
+  {
+   "type": "answer",
+   "question": "¿Cómo se verifica una ficha de Google y qué hago si falla?",
+   "text": "Entra con la cuenta que gestiona la ficha, abre la opción de verificar que te muestra Google y elige uno de los métodos que te ofrezca para tu negocio (según el caso pueden ser vídeo, llamada, SMS, correo o postal). Si falla, no insistas con otro intento idéntico: comprueba que nombre, dirección y categoría coinciden con la realidad, repite con una prueba mejor (en vídeo, fachada, rótulo y herramientas del negocio) y consulta el motivo exacto que te indique Google."
+  },
+  {
+   "type": "tip",
+   "title": "Lo que casi nadie sabe",
+   "text": "Google decide qué métodos te ofrece según tu negocio y tu ficha: no puedes elegir uno que no aparece. Y el vídeo, cuando te lo piden, se graba en una sola toma continua. Prepáralo antes de empezar: ensayar cinco minutos evita un rechazo."
+  },
+  {
+   "type": "h2",
+   "text": "Verificar no es lo mismo que estar suspendido"
+  },
+  {
+   "type": "p",
+   "text": "Una ficha sin verificar existe pero no puedes gestionarla del todo ni aparece con normalidad. Una ficha suspendida, en cambio, ha sido desactivada por un posible incumplimiento. Si tu caso es el segundo, tienes el tutorial de apelar una ficha suspendida; si es el primero, sigue aquí."
+  },
+  {
+   "type": "p",
+   "text": "Aviso de transparencia (verificado el 27-nov-2026): Google bloquea la lectura automática de su ayuda (support.google.com/business/answer/7107242 y /14271705), así que no hemos podido confirmar hoy los nombres exactos de menús y botones. Por eso no los inventamos: te damos el proceso general, qué ver en pantalla a grandes rasgos y dónde confirmarlo. Si algo difiere, manda la ayuda oficial."
+  },
+  {
+   "type": "h2",
+   "text": "Antes de empezar: prepara cuatro cosas"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Una cuenta de Google que será la propietaria de la ficha (mejor una cuenta del negocio que una personal que luego se pierde).",
+    "Los datos tal y como son en la vida real: nombre del negocio como figura en tu rótulo, dirección completa y categoría principal.",
+    "Acceso a lo que Google pueda pedir: teléfono del negocio, correo o buzón postal.",
+    "Si te piden vídeo: móvil cargado, buena luz y poder recorrer el local sin cortes."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Paso a paso general"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Entra en Google con la cuenta que gestiona la ficha y busca tu negocio (o busca «mi negocio» en Google estando con esa sesión iniciada).",
+    "Abre tu ficha y localiza el aviso o la opción para verificar. Si no la ves, la ficha puede estar ya verificada, en revisión o con restricciones.",
+    "Revisa que nombre, dirección y categoría son correctos antes de continuar: un dato mal puesto es la causa más común de rechazos.",
+    "Elige uno de los métodos que Google te muestre. No todos aparecen para todos los negocios.",
+    "Sigue las instrucciones del método: introduce el código que recibas o completa la prueba que te pidan.",
+    "Anota la fecha y guarda capturas de cada pantalla. Si luego hay que apelar o reclamar, te servirán.",
+    "Espera la respuesta sin volver a empezar de cero. Google no garantiza plazos fijos; no los prometemos."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Los métodos más habituales y qué ver en pantalla"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Llamada o SMS al teléfono del negocio: recibes un código que escribes en la pantalla. Comprueba que el número está bien escrito y que alguien puede contestar.",
+    "Correo electrónico: llega un código o enlace. Revisa también spam y promociones.",
+    "Postal: llega una carta con un código al buzón de la dirección. Que el buzón tenga el nombre del negocio ayuda a que no se pierda.",
+    "Vídeo: grabas el rótulo o fachada, el entorno, el interior y los elementos que prueban que el negocio existe (mostrador, herramientas, producto). Esto aplica sobre todo a negocios con local."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Si tu método no aparece en esta lista, es normal: Google lo decide caso a caso. Confirma siempre en la ayuda oficial qué métodos admite tu tipo de ficha."
+  },
+  {
+   "type": "h2",
+   "text": "Si falla la verificación: diagnóstico por síntoma"
+  },
+  {
+   "type": "list",
+   "items": [
+    "El código no llega (teléfono o correo): comprueba el número o la dirección, espera unos minutos, revisa spam y evita pedir cinco códigos seguidos.",
+    "La carta postal no llega: confirma que la dirección es exacta y que el buzón es identificable; Google no promete un plazo.",
+    "El vídeo es rechazado: suele ser por tomas cortadas, poca luz, no se ve el rótulo, no se ve que el negocio opera o se entra con sospecha de oficina virtual. Rehaz el vídeo en una toma continua y muestra más pruebas.",
+    "Aparece un mensaje de rechazo o suspensión: guarda el texto exacto. Corrige lo que incumple y, si procede, sigue el tutorial de apelación.",
+    "Nombre distinto al del rótulo, dirección de un domicilio sin atención al público o categoría que no encaja: son motivos típicos de problema, ya que las directrices exigen datos reales."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Ejemplos de Valencia"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Peluquería en el Cabanyal: el rótulo pone «Salón Mar» pero la ficha dice «Peluquería Mar Valencia Barata». Corrige el nombre al real antes de verificar.",
+    "Fontanero que va a domicilio: no tiene local de atención al público. Debe indicar que atiende en zona de servicio y no mostrar dirección donde no recibe clientes. Confirma en la ayuda oficial cómo declararlo.",
+    "Clínica en Ruzafa: el vídeo se rechazó por grabarse de noche con la persiana a medio bajar. Se rehizo de día, con fachada, recepción y consulta."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Checklist final"
+  },
+  {
+   "type": "checklist",
+   "title": "Antes de pedir verificación",
+   "items": [
+    "Nombre igual que el rótulo",
+    "Dirección completa y real",
+    "Categoría principal correcta",
+    "Teléfono y correo accesibles",
+    "Cuenta propietaria controlada por ti",
+    "Capturas con fecha guardadas",
+    "Vídeo ensayado (si lo piden)"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Después de verificar"
+  },
+  {
+   "type": "p",
+   "text": "Cuando la ficha esté verificada, completa horarios, servicios y fotos y empieza a pedir reseñas con el enlace oficial. Tienes la guía madre de crear y verificar una ficha y el tutorial del enlace y QR de reseñas."
+  },
+  {
+   "type": "p",
+   "text": "Siguiente lección gratuita del temario SEO: cómo pedir reseñas con enlace y QR oficial. Y si prefieres delegar, LevanteHUB ofrece SEO local y gestión de la ficha de Google, sin compromiso."
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Cuánto tarda la verificación?",
+   "a": "Google no garantiza un plazo fijo y depende del método. No prometemos tiempos; comprueba lo que indique tu ficha."
+  },
+  {
+   "q": "¿Puedo verificar una ficha sin local?",
+   "a": "Depende del tipo de negocio. Los negocios de servicio a domicilio tienen reglas propias en la ayuda oficial; confírmalas allí."
+  },
+  {
+   "q": "¿Por qué no me ofrece verificar por teléfono?",
+   "a": "Google decide los métodos según el negocio y la ficha. No se puede forzar uno que no aparece."
+  },
+  {
+   "q": "¿Puedo pedir varios códigos seguidos?",
+   "a": "No es recomendable. Espera, revisa los datos y vuelve a intentarlo con calma."
+  },
+  {
+   "q": "¿Qué hago si me rechazan el vídeo?",
+   "a": "Corrige lo que faltaba (rótulo visible, buena luz, una sola toma continua, pruebas de que el negocio opera) y repite."
+  },
+  {
+   "q": "¿Y si mi ficha está suspendida?",
+   "a": "Es otro caso: sigue el tutorial de apelar una ficha suspendida."
+  }
+ ]
+}
