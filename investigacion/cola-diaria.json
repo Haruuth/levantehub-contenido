@@ -149,13 +149,13 @@
    "hecho": "2026-11-27"
   },
   {
-   "fecha_objetivo": "2026-12-01",
+   "fecha_objetivo": "2026-11-28",
    "tipo": "guia",
    "department": "google-business",
-   "slug": "plantillas-responder-resenas-negativas-por-sector",
+   "slug": "plantillas-resenas-negativas",
    "keyword_principal": "responder reseñas negativas google",
    "tema": "Plantillas para responder reseñas negativas en Google según el sector (peluquería, clínica, taller, restaurante) con ejemplos de Valencia; complementa la guía de responder y denunciar reseñas falsas",
-   "por_que": "Search Console 28 días (consultado 25-nov): 41 impresiones en 14 consultas (consultado 26-nov) de reseñas negativas (p. ej. «como responder a las reseñas negativas de google» 8, «reseñas negativas en google my business» 7, «responder reseñas negativas google» 5), 0 clics, posiciones 46-95; es la familia con más impresiones propias tras el alta en Maps. Ya existe la guía responder-resenas-negativas-google-y-denunciar-falsas, así que el ángulo nuevo son plantillas por sector, sin duplicar. Trends: sin dato hoy (reseñas google relativo ~16-22 en nov, keywords/2026-11-24.md). Sustituye al tutorial provisional «activar mensajes» (sin consultas y sin disponibilidad confirmada en España).",
+   "por_que": "Search Console (sc-domain:levantehub.es, 28 días, Windsor, consultado 27-nov): familia «responder reseñas negativas» = 45 impresiones en 15 consultas (p. ej. «reseñas negativas en google my business» 8, «como responder a las reseñas negativas de google» 10, «responder reseñas negativas google» 5), 0 clics, posiciones 46-95; es la familia con más impresiones propias sin pieza de plantillas. Competencia (solo titulares de SERP 27-nov, sin leer en detalle): Trengo, Smash Balloon, Tagembed, Growave, thestacc, EmbedSocial, Mailchimp, Ionos, HubSpot, Pipedrive, Publer, emprendedores.es: genéricas, de herramientas de reseñas, ninguna con ejemplos de Valencia ni por sector. Trends: no consultado hoy. Adelantada del 1-dic al 28-nov por ser la mayor demanda sin cubrir.",
    "huecos_a_cubrir": [
     "plantillas por sector y por tipo de queja",
     "cuándo responder, cuándo denunciar (política de contenido de Google)",
@@ -170,7 +170,8 @@
     "guias/responder-resenas-negativas-google-y-denunciar-falsas",
     "guias/pedir-resenas-google-enlace-qr-oficial-sin-incentivos"
    ],
-   "informe": "investigacion/demanda/2026-11-26.md"
+   "informe": "investigacion/demanda/2026-11-26.md",
+   "sin_fecha_anterior": "2026-12-01"
   },
   {
    "fecha_objetivo": "2026-12-02",
