@@ -1,461 +1,478 @@
 {
-  "generado": "2026-11-26 07:00 (Madrid)",
-  "estado": "warn",
-  "resumen": "Tutorial de hoy publicado (apelar una ficha de Google suspendida) con traducción EN y RU, reel y Short de Lumen con voz. La web aún lo publica (404 normal por ahora). Faltan el carrusel y las stories de hoy.",
-  "aprobar": [
-    {
-      "id": "ig-26",
-      "titulo": "Reel de hoy: Apelar ficha suspendida",
-      "plataforma": "Instagram",
-      "hora": "Hoy 13:00",
-      "archivo": "https://raw.githubusercontent.com/Haruuth/levantehub-contenido/main/media/2026-11-26_apelar-ficha-suspendida/reel-short.mp4",
-      "leeme": "https://github.com/Haruuth/levantehub-contenido/blob/main/media/2026-11-26_apelar-ficha-suspendida/LEEME-DEL-DIA.md",
-      "copiar": "🚨 ¿Tu ficha de Google está suspendida? No apeles todavía.\n\n1. Corrige nombre, categoría y dirección\n2. Reúne fotos del local y una factura con la dirección\n3. Pídele a una IA que revise tu texto\n4. Envía UNA sola apelación y guarda el ID de caso\n\nTutorial gratis y completo: https://levantehub.es/google-business/guias/apelar-ficha-suspendida\n\nGuárdalo y mándaselo a quien tenga un negocio en Valencia 📍\n\n#fichadegoogle #googlebusiness #seolocal #valencia #LevanteHUB"
-    },
-    {
-      "id": "yt-26",
-      "titulo": "Short de hoy: Ficha de Google suspendida: cómo apelar paso a paso",
-      "plataforma": "YouTube",
-      "hora": "Hoy 13:30",
-      "archivo": "https://raw.githubusercontent.com/Haruuth/levantehub-contenido/main/media/2026-11-26_apelar-ficha-suspendida/short-youtube.mp4",
-      "leeme": "https://github.com/Haruuth/levantehub-contenido/blob/main/media/2026-11-26_apelar-ficha-suspendida/LEEME-DEL-DIA.md",
-      "copiar": "Ficha de Google suspendida: cómo apelar paso a paso\n\nhttps://levantehub.es/google-business/guias/apelar-ficha-suspendida\nTu ficha de Google está suspendida: qué corregir, qué pruebas reunir y cómo enviar una sola apelación.\n#Shorts #fichadegoogle #seolocal #googlebusiness"
-    }
-  ],
-  "tareas_dueno": [
-    "13:00 Subir el reel a Instagram con la portada (archivo y texto en «Para aprobar»)",
-    "13:30 Subir el Short a YouTube (miniatura: portada.jpg)",
-    "Pedir la indexación en Search Console de: https://levantehub.es/google-business/guias/apelar-ficha-suspendida"
-  ],
-  "linea": [
-    {
-      "hora": "06:15",
-      "tarea": "Tutorial publicado: Apelar una ficha de Google suspendida",
-      "dept": "web",
-      "estado": "hecho",
-      "nota": "Slug apelar-ficha-suspendida. Sin rutas de menú: la ayuda oficial de Google estaba bloqueada y no se inventó nada."
-    },
-    {
-      "hora": "06:20",
-      "tarea": "Traducciones EN y RU del tutorial",
-      "dept": "web",
-      "estado": "hecho",
-      "nota": "Solo la pieza de hoy; quedan pendientes otras antiguas."
-    },
-    {
-      "hora": "06:55",
-      "tarea": "Reel y Short de hoy con voz de Lumen",
-      "dept": "marketing",
-      "estado": "hecho",
-      "nota": "Reel 51 s y Short 19 s con audio -13,8 dB."
-    },
-    {
-      "hora": "06:35",
-      "tarea": "Investigación del tema de mañana",
-      "dept": "web",
-      "estado": "hecho",
-      "nota": "Mañana: tutorial «verificar ficha de Google»."
-    },
-    {
-      "hora": "06:45",
-      "tarea": "Carrusel y stories de hoy",
-      "dept": "marketing",
-      "estado": "pendiente",
-      "nota": "No generados en esta ejecución."
-    },
-    {
-      "hora": "07:00",
-      "tarea": "Revisión de calidad",
-      "dept": "calidad",
-      "estado": "hecho",
-      "nota": "Ver Problemas."
-    }
-  ],
-  "proximas": [
-    {
-      "dept": "Marketing",
-      "tarea": "Oficina · Marketing clientes",
-      "cuando": "Hoy 07:51",
-      "fin": "≈ 08:30"
-    },
-    {
-      "dept": "Calidad",
-      "tarea": "Laurik: correo y facturas",
-      "cuando": "Hoy 08:43",
-      "fin": "≈ 09:00"
-    },
-    {
-      "dept": "Web",
-      "tarea": "Oficina · Dirección (resumen)",
-      "cuando": "Hoy 09:07",
-      "fin": "≈ 09:30"
-    },
-    {
-      "dept": "Web",
-      "tarea": "Romu · Demanda y temas",
-      "cuando": "Hoy 19:47",
-      "fin": "≈ 20:15"
-    },
-    {
-      "dept": "Web",
-      "tarea": "LevanteHUB · Día completo",
-      "cuando": "Mañana 06:03",
-      "fin": "≈ 07:15"
-    },
-    {
-      "dept": "Marketing",
-      "tarea": "Subir reel a Instagram (a mano)",
-      "cuando": "Hoy 13:00",
-      "fin": "—"
-    },
-    {
-      "dept": "Marketing",
-      "tarea": "Subir Short a YouTube (a mano)",
-      "cuando": "Hoy 13:30",
-      "fin": "—"
-    }
-  ],
-  "deptos": {
-    "web": {
-      "resumen": "Tutorial de hoy publicado con EN y RU. Tema de mañana listo.",
-      "mejoras": [
-        "Tutorial nuevo: apelar una ficha de Google suspendida (pasos, pruebas por tipo de negocio, errores y prompt de IA)",
-        "Traducción EN y RU del tutorial",
-        "Investigación de mañana: tutorial «verificar ficha de Google»; la novedad de reservas se aplaza (solo 1 fuente)"
-      ],
-      "kpis": [
-        {
-          "nombre": "Piezas en la web",
-          "valor": "16 + hoy"
-        },
-        {
-          "nombre": "Traducciones EN/RU de hoy",
-          "valor": "2 de 2"
-        }
-      ],
-      "articulo": {
-        "titulo": "Apelar una ficha de Google suspendida: pasos y pruebas",
-        "tipo": "Tutorial (Google Business)",
-        "urls": {
-          "es": "https://levantehub.es/google-business/guias/apelar-ficha-suspendida",
-          "en": "https://levantehub.es/en/guides/suspended-profile-appeal",
-          "ru": "https://levantehub.es/ru/rukovodstva/apellyaciya-profil-google"
-        },
-        "origen": "Cola de Romu del 25-nov: Search Console (28 días) mostró «recuperar una ficha suspendida» en posición 12, la mejor de la web, y hay una noticia del 24-nov de Search Engine Roundtable sobre el formulario único (fuente de un tercero)."
-      }
-    },
-    "marketing": {
-      "resumen": "Reel (51 s) y Short (19 s) de Lumen con voz, listos para subir a mano. Carrusel y stories de hoy sin hacer.",
-      "mejoras": [
-        "Gancho corto: «¿Suspendida? No apeles»",
-        "Reel con mito vs realidad, pasos, ejemplo de clínica y prompt de IA",
-        "Short distinto: «Tu ficha desapareció»"
-      ],
-      "kpis": [
-        {
-          "nombre": "Reel",
-          "valor": "51 s, audio -13,8 dB"
-        },
-        {
-          "nombre": "Short",
-          "valor": "19 s, audio -14,0 dB"
-        }
-      ]
-    },
-    "clientes": {
-      "resumen": "Hoja de leads no revisada hoy.",
-      "mejoras": [],
-      "kpis": []
-    },
-    "calidad": {
-      "resumen": "Sitemap con 140 URLs; las 14 páginas clave comprobadas en 200; pieza de ayer con index,follow, canonical, Article y FAQPage correctos. La pieza de hoy aún devuelve 404 (se está publicando). No se ve hreflang en la pieza de ayer.",
-      "mejoras": [],
-      "kpis": [
-        {
-          "nombre": "URLs en el sitemap",
-          "valor": "140"
-        }
-      ]
-    }
+ "generado": "2026-11-27 06:30 (Madrid)",
+ "estado": "warn",
+ "resumen": "Tutorial «Verificar tu ficha de Google» publicado en ES, EN y RU con vídeo. Reel, Short, carrusel y stories listos. Atención: ElevenLabs sin créditos, mañana no habrá voz nueva.",
+ "aprobar": [
+  {
+   "id": "ig-27",
+   "titulo": "Reel de hoy: ¿Tu ficha no se verifica?",
+   "plataforma": "Instagram",
+   "hora": "Hoy 13:00",
+   "archivo": "https://raw.githubusercontent.com/Haruuth/levantehub-contenido/main/media/2026-11-27_verificar-ficha-google/reel-short.mp4",
+   "leeme": "https://github.com/Haruuth/levantehub-contenido/blob/main/media/2026-11-27_verificar-ficha-google/LEEME-DEL-DIA.md",
+   "copiar": "🎓 ¿Tu ficha de Google no se verifica? Casi siempre es un detalle:\n\n1. Nombre y dirección iguales que en la realidad\n2. Elige el método que Google te ofrece\n3. Si piden vídeo: una sola toma, con luz y rótulo\n4. Guarda capturas de cada paso\n\nTutorial gratis, paso a paso: https://levantehub.es/google-business/guias/verificar-ficha-google\n\nGuárdalo y mándaselo a quien tenga un negocio en Valencia 📍\n\n#fichadegoogle #googlebusiness #seolocal #negociolocal #valencia"
   },
-  "search_console": {
-    "periodo": "28 días hasta el 25-nov",
-    "clics": 1,
-    "impresiones": 257,
-    "ctr": "0,39 %",
-    "posicion": "61,1",
-    "delta": "Sin comparación: la prueba de Windsor solo da los últimos 30 días. Antes (hasta el 24-nov): 190 impresiones.",
-    "consultas": [
-      {
-        "q": "alta en google maps valencia",
-        "clics": 0,
-        "imp": 22,
-        "pos": 74.6
-      },
-      {
-        "q": "alta en google my business valencia",
-        "clics": 0,
-        "imp": 18,
-        "pos": 66.9
-      },
-      {
-        "q": "seo levante",
-        "clics": 0,
-        "imp": 15,
-        "pos": 53.9
-      },
-      {
-        "q": "mi web no aparece en google",
-        "clics": 0,
-        "imp": 9,
-        "pos": 81.1
-      },
-      {
-        "q": "perfil de empresa google asturias",
-        "clics": 0,
-        "imp": 9,
-        "pos": 76.0
-      }
-    ]
+  {
+   "id": "yt-27",
+   "titulo": "Short de hoy: verificar ficha, qué hacer si falla",
+   "plataforma": "YouTube",
+   "hora": "Hoy 13:30",
+   "archivo": "https://raw.githubusercontent.com/Haruuth/levantehub-contenido/main/media/2026-11-27_verificar-ficha-google/short-youtube.mp4",
+   "leeme": "https://github.com/Haruuth/levantehub-contenido/blob/main/media/2026-11-27_verificar-ficha-google/LEEME-DEL-DIA.md",
+   "copiar": "Verificar ficha de Google: qué hacer si falla\n\nhttps://levantehub.es/google-business/guias/verificar-ficha-google\nSi Google rechaza la verificación de tu ficha, revisa nombre, vídeo y código. Tutorial gratis.\n#Shorts #fichadegoogle #googlebusiness #seolocal"
+  }
+ ],
+ "tareas_dueno": [
+  "13:00 Subir el reel a Instagram con la portada (archivo y texto en «Para aprobar»)",
+  "13:30 Subir el Short a YouTube (miniatura: portada.jpg)",
+  "Subir el carrusel de 7 y las 3 stories (LEEME-DEL-DIA.md)",
+  "Pedir la indexación en Search Console de: https://levantehub.es/google-business/guias/verificar-ficha-google",
+  "Ampliar créditos de ElevenLabs antes de mañana 06:03 (se agotaron)"
+ ],
+ "linea": [
+  {
+   "hora": "06:05",
+   "tarea": "Tutorial publicado: Verificar tu ficha de Google",
+   "dept": "web",
+   "estado": "hecho",
+   "nota": "Slug verificar-ficha-google. Sin rutas de menú: la ayuda oficial de Google sigue bloqueada para las herramientas y no se inventó nada."
   },
-  "oportunidades": [
+  {
+   "hora": "06:12",
+   "tarea": "Traducciones EN y RU",
+   "dept": "web",
+   "estado": "hecho",
+   "nota": "Solo la pieza de hoy; siguen pendientes 5 antiguas por idioma."
+  },
+  {
+   "hora": "06:25",
+   "tarea": "Reel y Short con voz de Lumen",
+   "dept": "marketing",
+   "estado": "hecho",
+   "nota": "Reel 54 s (audio -13,7 dB) y Short 23 s (-13,0 dB). El Short reutiliza voces del reel por falta de créditos."
+  },
+  {
+   "hora": "06:20",
+   "tarea": "Carrusel de 7 y 3 stories",
+   "dept": "marketing",
+   "estado": "hecho",
+   "nota": "Imágenes en media/2026-11-27_verificar-ficha-google."
+  },
+  {
+   "hora": "06:15",
+   "tarea": "Investigación del tema de mañana",
+   "dept": "web",
+   "estado": "hecho",
+   "nota": "Mañana: plantillas para reseñas negativas (≈45 impresiones, 15 consultas)."
+  },
+  {
+   "hora": "06:30",
+   "tarea": "Revisión de calidad (Susi)",
+   "dept": "calidad",
+   "estado": "hecho",
+   "nota": "Ver Problemas."
+  }
+ ],
+ "proximas": [
+  {
+   "dept": "Marketing",
+   "tarea": "Oficina · Marketing clientes",
+   "cuando": "Hoy 07:51",
+   "fin": "≈ 08:30"
+  },
+  {
+   "dept": "Calidad",
+   "tarea": "Laurik: correo y facturas",
+   "cuando": "Hoy 08:43",
+   "fin": "≈ 09:00"
+  },
+  {
+   "dept": "Web",
+   "tarea": "Oficina · Dirección (resumen)",
+   "cuando": "Hoy 09:07",
+   "fin": "≈ 09:30"
+  },
+  {
+   "dept": "Web",
+   "tarea": "Romu · Demanda y temas",
+   "cuando": "Hoy 19:47",
+   "fin": "≈ 20:15"
+  },
+  {
+   "dept": "Web",
+   "tarea": "LevanteHUB · Día completo",
+   "cuando": "Mañana 06:03",
+   "fin": "≈ 07:15"
+  },
+  {
+   "dept": "Marketing",
+   "tarea": "Subir reel a Instagram (a mano)",
+   "cuando": "Hoy 13:00",
+   "fin": "—"
+  },
+  {
+   "dept": "Marketing",
+   "tarea": "Subir Short a YouTube (a mano)",
+   "cuando": "Hoy 13:30",
+   "fin": "—"
+  }
+ ],
+ "deptos": {
+  "web": {
+   "resumen": "Tutorial de hoy publicado con EN y RU y vídeo. Tema de mañana listo.",
+   "mejoras": [
+    "Tutorial nuevo: verificar la ficha de Google y qué hacer si falla (fallos de código, postal y vídeo, ejemplos de Valencia)",
+    "Traducción EN y RU con vídeo",
+    "Investigación de mañana: guía de plantillas para reseñas negativas (adelantada del 1-dic)"
+   ],
+   "kpis": [
     {
-      "titulo": "Tutorial «verificar ficha de Google» (mañana)",
-      "por_que": "12 impresiones en 9 consultas de verificación, posiciones 53-83 (Search Console 28 días, 26-nov).",
-      "accion": "Publicarlo mañana con el ángulo «qué hacer si falla».",
-      "dept": "web"
+     "nombre": "Piezas en la web",
+     "valor": "17"
     },
     {
-      "titulo": "Tutorial «alta en Google Maps en Valencia»",
-      "por_que": "40 impresiones entre «alta en google maps valencia» (22) y «alta en google my business valencia» (18), posiciones 67-75.",
-      "accion": "Reforzar la guía local con paso a paso.",
-      "dept": "web"
-    },
-    {
-      "titulo": "Plantillas de respuesta a reseñas negativas",
-      "por_que": "~30 impresiones en 12 consultas de reseñas negativas, posiciones 46-95, 0 clics.",
-      "accion": "Publicar la guía de plantillas por sector (1-dic).",
-      "dept": "web"
-    },
-    {
-      "titulo": "Novedad de reservas en la ficha (Booking)",
-      "por_que": "Solo una fuente (Search Engine Roundtable, 23-nov); la regla pide 2.",
-      "accion": "Aplazada al 2-dic; publicar solo si otro medio o Google lo confirma.",
-      "dept": "web"
+     "nombre": "Traducciones EN/RU de hoy",
+     "valor": "2 de 2"
     }
-  ],
-  "problemas": [
+   ],
+   "articulo": {
+    "titulo": "Verificar tu ficha de Google y qué hacer si falla",
+    "tipo": "Tutorial (Google Business)",
+    "urls": {
+     "es": "https://levantehub.es/google-business/guias/verificar-ficha-google",
+     "en": "https://levantehub.es/en/guides/verify-google-profile",
+     "ru": "https://levantehub.es/ru/rukovodstva/verifikaciya-profilya-google"
+    },
+    "origen": "Cola de Romu del 26-nov: Search Console (28 días) mostró 16 impresiones en 9 consultas de verificación en español (posiciones 53-83), 0 clics."
+   }
+  },
+  "marketing": {
+   "resumen": "Reel (54 s) y Short (23 s) de Lumen con voz, carrusel de 7 y 3 stories listos para subir a mano.",
+   "mejoras": [
+    "Gancho: «¿Tu ficha no se verifica?»",
+    "Reel con mito vs realidad, pasos y ejemplo de peluquería",
+    "Short distinto: «Te rechazan la verificación»"
+   ],
+   "kpis": [
     {
-      "sev": "aviso",
-      "texto": "El tutorial de hoy (ES/EN/RU) aún da 404: se subió a las 06:15 y la web compila cada hora. Si a las 09:15 sigue igual, es fallo de sincronización.",
-      "dept": "web"
+     "nombre": "Reel",
+     "valor": "54 s, audio -13,7 dB"
     },
     {
-      "sev": "aviso",
-      "texto": "La ayuda oficial de Google (support.google.com) está bloqueada para las herramientas: el tutorial de hoy no lleva rutas de menú y lo dice. Conviene revisarlo a mano con la ayuda abierta.",
-      "dept": "web"
-    },
-    {
-      "sev": "aviso",
-      "texto": "Faltan el carrusel de 7 imágenes y las 3 stories de hoy; no se generaron en esta ejecución.",
-      "dept": "marketing"
-    },
-    {
-      "sev": "aviso",
-      "texto": "Sin hreflang visible en google-ads-negocio-local (pieza de ayer). Es del código de la web (levantehub-web).",
-      "dept": "calidad"
-    },
-    {
-      "sev": "aviso",
-      "texto": "Google Trends no devolvió datos hoy (error al comparar varios términos) y las tarjetas de la Oficina no se pudieron escribir (herramientas del panel no disponibles en esta ejecución).",
-      "dept": "calidad"
+     "nombre": "Short",
+     "valor": "23 s, audio -13,0 dB"
     }
-  ],
-  "historial": [
+   ]
+  },
+  "clientes": {
+   "resumen": "Hoja de leads no revisada hoy.",
+   "mejoras": [],
+   "kpis": []
+  },
+  "calidad": {
+   "resumen": "Sitemap con 149 URLs y las 14 páginas clave en 200. Pieza de ayer: index,follow, canonical, Article y FAQPage correctos. Pieza de hoy ES/EN/RU con el título correcto y vídeo. No se encontró hreflang en el HTML de las piezas (es del código de la web).",
+   "mejoras": [],
+   "kpis": [
     {
-      "fecha": "2026-11-25",
-      "estado": "warn",
-      "resumen": "Guía de hoy publicada en el repositorio (Google Ads para negocio local), con EN/RU y vídeos con voz listos. La web la está publicando (compila cada hora). Los 1"
-    },
-    {
-      "fecha": "2026-11-26",
-      "estado": "warn",
-      "resumen": "Tutorial «Apelar ficha suspendida» publicado en el repositorio con EN/RU y vídeos con voz. Sin carrusel ni stories hoy. La web aún lo está publicando."
+     "nombre": "URLs en el sitemap",
+     "valor": "140"
     }
-  ],
-  "equipo": [
-    {
-      "id": "susi",
-      "nombre": "Susi",
-      "rol": "Administración y calidad",
-      "color": "#7c3aed",
-      "que_hace": "Revisa cada día que todo funcione (enlaces, botones, traducciones, vídeos), recoge el informe de cada departamento y actualiza este panel.",
-      "horario": "Todos los días tras la publicación (≈ 07:30-08:00)",
-      "trabajos": [
-        {
-          "estado": "hecho",
-          "hora": "26-nov 07:00",
-          "titulo": "Revisión de calidad del día",
-          "nota": "140 URLs del sitemap; pieza de hoy aún publicándose; avisos en Problemas."
-        },
-        {
-          "estado": "proximo",
-          "hora": "27-nov ≈ 07:00",
-          "titulo": "Revisión tras publicar el tutorial de mañana"
-        }
-      ],
-      "habito_diario": "Cada mañana tras la publicación: revisa enlaces, botones, traducciones y vídeos, y actualiza este panel."
-    },
-    {
-      "id": "lumen",
-      "nombre": "Lumen",
-      "rol": "Análisis, diagnóstico y Radar",
-      "color": "#0ea5a4",
-      "que_hace": "Mide la web y la ficha de cada negocio, vigila el Radar de novedades y es la cara de los vídeos esta semana (23-29 nov).",
-      "horario": "Investigación del tema de mañana: cada día ≈ 07:00",
-      "trabajos": [
-        {
-          "estado": "hecho",
-          "hora": "26-nov",
-          "titulo": "Tutorial de hoy: Apelar una ficha de Google suspendida",
-          "enlaces": [
-            {
-              "t": "Español",
-              "u": "https://levantehub.es/google-business/guias/apelar-ficha-suspendida"
-            },
-            {
-              "t": "English",
-              "u": "https://levantehub.es/en/guides/suspended-profile-appeal"
-            },
-            {
-              "t": "Русский",
-              "u": "https://levantehub.es/ru/rukovodstva/apellyaciya-profil-google"
-            }
-          ]
-        },
-        {
-          "estado": "hecho",
-          "hora": "26-nov",
-          "titulo": "Reel y Short de hoy con voz",
-          "enlaces": [
-            {
-              "t": "Reel",
-              "u": "https://raw.githubusercontent.com/Haruuth/levantehub-contenido/main/media/2026-11-26_apelar-ficha-suspendida/reel-short.mp4"
-            },
-            {
-              "t": "Short",
-              "u": "https://raw.githubusercontent.com/Haruuth/levantehub-contenido/main/media/2026-11-26_apelar-ficha-suspendida/short-youtube.mp4"
-            },
-            {
-              "t": "Textos",
-              "u": "https://github.com/Haruuth/levantehub-contenido/blob/main/media/2026-11-26_apelar-ficha-suspendida/LEEME-DEL-DIA.md"
-            }
-          ]
-        },
-        {
-          "estado": "proximo",
-          "hora": "27-nov 06:03",
-          "titulo": "Tutorial «verificar ficha de Google» + vídeo"
-        }
-      ],
-      "habito_diario": "Cada día a las 7:00: investiga con datos reales el tema de mañana."
-    },
-    {
-      "id": "nuri",
-      "nombre": "Nuri",
-      "rol": "Academia y cursos gratis",
-      "color": "#e85d9a",
-      "que_hace": "Lleva la Academia, las guías y el curso gratis de cada lunes. Será la cara de los vídeos del 30-nov al 6-dic.",
-      "horario": "Curso nuevo: lunes 04:37",
-      "trabajos": [
-        {
-          "estado": "proximo",
-          "hora": "Lun 30-nov 04:37",
-          "titulo": "Publicar el curso gratis de la semana",
-          "nota": "Con temario, ejercicios y vídeos.",
-          "enlaces": [
-            {
-              "t": "Ver cursos",
-              "u": "https://levantehub.es/cursos"
-            }
-          ]
-        }
-      ],
-      "habito_diario": "Cada día: prepara la Academia y, los lunes, el curso gratis de la semana."
-    },
-    {
-      "id": "tuerca",
-      "nombre": "Tuerca",
-      "rol": "Web, herramientas y velocidad",
-      "color": "#e8890c",
-      "que_hace": "Cuida que la web cargue rápido, se vea bien en el móvil y que las herramientas funcionen.",
-      "horario": "Según se pida",
-      "trabajos": [
-        {
-          "estado": "resuelto",
-          "hora": "24-nov",
-          "titulo": "Tarjeta «Usar gratis» fuera de su cuadro: arreglada",
-          "enlaces": [
-            {
-              "t": "Ver herramientas",
-              "u": "https://levantehub.es/herramientas"
-            }
-          ]
-        },
-        {
-          "estado": "hecho",
-          "hora": "24-nov",
-          "titulo": "Submenú de Herramientas en la cabecera",
-          "enlaces": [
-            {
-              "t": "Ver la web",
-              "u": "https://levantehub.es"
-            }
-          ]
-        }
-      ],
-      "habito_diario": "Cada día: vigila velocidad, móvil y que las herramientas funcionen."
-    },
-    {
-      "id": "rumbo",
-      "nombre": "Rumbo",
-      "rol": "Google Business y mapas",
-      "color": "#2563eb",
-      "que_hace": "Se ocupa de fichas de Google, reseñas y que te encuentren en el mapa. Será la cara de los vídeos del 14 al 20 de dic.",
-      "horario": "Según se pida",
-      "trabajos": [
-        {
-          "estado": "proximo",
-          "hora": "Pendiente",
-          "titulo": "Completar la ficha de Google de LevanteHUB",
-          "nota": "Fotos, servicios y primeras reseñas. Sin fecha: asígnala tú.",
-          "enlaces": [
-            {
-              "t": "Ver servicio",
-              "u": "https://levantehub.es/google-business"
-            }
-          ]
-        }
-      ],
-      "habito_diario": "Cada día: revisa la ficha de Google y las reseñas nuevas."
-    },
-    {
-      "id": "captacion",
-      "nombre": "Captación",
-      "rol": "Buscar clientes nuevos (sin asignar)",
-      "color": "#64748b",
-      "que_hace": "Hoy lo hace solo la hoja de leads de las 7:34 (lunes a viernes). Propuesta: Lumen prospecta con datos (negocios con problemas medibles) y Rumbo aporta el gancho de Google Maps.",
-      "captacion": "Necesita responsable: decide tú quién y qué hace.",
-      "horario": "Lunes a viernes 07:34",
-      "trabajos": [
-        {
-          "estado": "proximo",
-          "hora": "Lun-vie 07:34",
-          "titulo": "Hoja de leads de pymes de Valencia",
-          "nota": "30-50 negocios con su gancho de llamada."
-        }
-      ],
-      "habito_diario": "Lunes a viernes 07:34: hoja de leads de pymes de Valencia."
-    }
+   ]
+  }
+ },
+ "search_console": {
+  "periodo": "últimos 28 días (hasta 24-nov)",
+  "clics": 2,
+  "impresiones": 407,
+  "ctr": "0,49 %",
+  "posicion": "59,8",
+  "delta": "Sin comparación: Windsor (prueba) solo da los últimos 30 días.",
+  "consultas": [
+   {
+    "q": "mi web no aparece en google",
+    "clics": 0,
+    "imp": 13,
+    "pos": 81.3
+   },
+   {
+    "q": "alta en google maps valencia",
+    "clics": 0,
+    "imp": 33,
+    "pos": 74.5
+   },
+   {
+    "q": "alta en google my business valencia",
+    "clics": 0,
+    "imp": 23,
+    "pos": 64.5
+   },
+   {
+    "q": "perfil de empresa google asturias",
+    "clics": 0,
+    "imp": 10,
+    "pos": 76.7
+   },
+   {
+    "q": "ficha google my business",
+    "clics": 0,
+    "imp": 10,
+    "pos": 86.9
+   }
   ]
+ },
+ "oportunidades": [
+  {
+   "titulo": "Guía «plantillas para reseñas negativas» (mañana)",
+   "por_que": "≈45 impresiones en 15 consultas, posiciones 46-95, 0 clics (Search Console 28 días, 27-nov).",
+   "accion": "Publicarla mañana con ejemplos por sector de Valencia.",
+   "dept": "web"
+  },
+  {
+   "titulo": "Reforzar la guía «alta en Google Maps en Valencia»",
+   "por_que": "≈67 impresiones entre «alta en google maps valencia» y «alta en google my business valencia», posiciones 52-94.",
+   "accion": "Añadir paso a paso y ejemplos locales.",
+   "dept": "web"
+  },
+  {
+   "titulo": "Traducir las piezas atrasadas",
+   "por_que": "Quedan 5 piezas sin EN y 5 sin RU (categorías, horarios, reseñas negativas, etc.).",
+   "accion": "Hacer 4 por idioma cada día.",
+   "dept": "web"
+  },
+  {
+   "titulo": "Créditos de voz",
+   "por_que": "ElevenLabs agotó los 131000 créditos hoy tras 13 voces.",
+   "accion": "Ampliar el plan antes de mañana o los vídeos saldrán sin voz.",
+   "dept": "marketing"
+  }
+ ],
+ "problemas": [
+  {
+   "sev": "alta",
+   "texto": "ElevenLabs sin créditos (quedaban 16 de 131000). Mañana no se podrán generar voces; el Short de hoy reutiliza voces del reel y su cierre dice «Guarda este reel».",
+   "dept": "marketing"
+  },
+  {
+   "sev": "aviso",
+   "texto": "La ayuda oficial de Google está bloqueada para las herramientas: el tutorial de hoy no lleva rutas de menú y lo dice. Conviene revisarlo a mano con la ayuda abierta.",
+   "dept": "web"
+  },
+  {
+   "sev": "aviso",
+   "texto": "No hay hreflang visible en el HTML de las piezas (ES/EN/RU). Es del código de levantehub-web.",
+   "dept": "web"
+  },
+  {
+   "sev": "aviso",
+   "texto": "Quedan 5 traducciones antiguas sin hacer en EN y 5 en RU.",
+   "dept": "web"
+  },
+  {
+   "sev": "aviso",
+   "texto": "Historias destacadas de Instagram sin actualizar (se hacen a mano).",
+   "dept": "marketing"
+  }
+ ],
+ "historial": [
+  {
+   "fecha": "2026-11-25",
+   "estado": "warn",
+   "resumen": "Guía de hoy publicada en el repositorio (Google Ads para negocio local), con EN/RU y vídeos con voz listos. La web la está publicando (compila cada hora). Los 1"
+  },
+  {
+   "fecha": "2026-11-26",
+   "estado": "warn",
+   "resumen": "Tutorial «Apelar ficha suspendida» publicado en el repositorio con EN/RU y vídeos con voz. Sin carrusel ni stories hoy. La web aún lo está publicando."
+  },
+  {
+   "fecha": "2026-11-27",
+   "estado": "warn",
+   "resumen": "Tutorial «Verificar tu ficha de Google» publicado con EN/RU y vídeo; reel, Short, carrusel y stories listos. ElevenLabs sin créditos."
+  }
+ ],
+ "equipo": [
+  {
+   "id": "susi",
+   "nombre": "Susi",
+   "rol": "Administración y calidad",
+   "color": "#7c3aed",
+   "que_hace": "Revisa cada día que todo funcione (enlaces, botones, traducciones, vídeos), recoge el informe de cada departamento y actualiza este panel.",
+   "horario": "Todos los días tras la publicación (≈ 07:30-08:00)",
+   "trabajos": [
+    {
+     "estado": "hecho",
+     "hora": "27-nov 06:30",
+     "titulo": "Revisión de calidad del día",
+     "nota": "149 URLs en el sitemap; 14 páginas clave en 200; pieza de hoy en ES/EN/RU."
+    },
+    {
+     "estado": "proximo",
+     "hora": "28-nov ≈ 07:00",
+     "titulo": "Revisión tras publicar la guía de mañana"
+    }
+   ],
+   "habito_diario": "Cada mañana tras la publicación: revisa enlaces, botones, traducciones y vídeos, y actualiza este panel."
+  },
+  {
+   "id": "lumen",
+   "nombre": "Lumen",
+   "rol": "Análisis, diagnóstico y Radar",
+   "color": "#0ea5a4",
+   "que_hace": "Mide la web y la ficha de cada negocio, vigila el Radar de novedades y es la cara de los vídeos esta semana (23-29 nov).",
+   "horario": "Investigación del tema de mañana: cada día ≈ 07:00",
+   "trabajos": [
+    {
+     "estado": "hecho",
+     "hora": "27-nov 06:25",
+     "titulo": "Reel y Short: verificar tu ficha",
+     "enlaces": [
+      {
+       "t": "Reel",
+       "u": "https://raw.githubusercontent.com/Haruuth/levantehub-contenido/main/media/2026-11-27_verificar-ficha-google/reel-short.mp4"
+      },
+      {
+       "t": "Short",
+       "u": "https://raw.githubusercontent.com/Haruuth/levantehub-contenido/main/media/2026-11-27_verificar-ficha-google/short-youtube.mp4"
+      }
+     ]
+    },
+    {
+     "estado": "hecho",
+     "hora": "26-nov",
+     "titulo": "Tutorial de hoy: Apelar una ficha de Google suspendida",
+     "enlaces": [
+      {
+       "t": "Español",
+       "u": "https://levantehub.es/google-business/guias/apelar-ficha-suspendida"
+      },
+      {
+       "t": "English",
+       "u": "https://levantehub.es/en/guides/suspended-profile-appeal"
+      },
+      {
+       "t": "Русский",
+       "u": "https://levantehub.es/ru/rukovodstva/apellyaciya-profil-google"
+      }
+     ]
+    },
+    {
+     "estado": "hecho",
+     "hora": "26-nov",
+     "titulo": "Reel y Short de hoy con voz",
+     "enlaces": [
+      {
+       "t": "Reel",
+       "u": "https://raw.githubusercontent.com/Haruuth/levantehub-contenido/main/media/2026-11-26_apelar-ficha-suspendida/reel-short.mp4"
+      },
+      {
+       "t": "Short",
+       "u": "https://raw.githubusercontent.com/Haruuth/levantehub-contenido/main/media/2026-11-26_apelar-ficha-suspendida/short-youtube.mp4"
+      },
+      {
+       "t": "Textos",
+       "u": "https://github.com/Haruuth/levantehub-contenido/blob/main/media/2026-11-26_apelar-ficha-suspendida/LEEME-DEL-DIA.md"
+      }
+     ]
+    }
+   ],
+   "habito_diario": "Cada día a las 7:00: investiga con datos reales el tema de mañana."
+  },
+  {
+   "id": "nuri",
+   "nombre": "Nuri",
+   "rol": "Academia y cursos gratis",
+   "color": "#e85d9a",
+   "que_hace": "Lleva la Academia, las guías y el curso gratis de cada lunes. Será la cara de los vídeos del 30-nov al 6-dic.",
+   "horario": "Curso nuevo: lunes 04:37",
+   "trabajos": [
+    {
+     "estado": "proximo",
+     "hora": "Lun 30-nov 04:37",
+     "titulo": "Publicar el curso gratis de la semana",
+     "nota": "Con temario, ejercicios y vídeos.",
+     "enlaces": [
+      {
+       "t": "Ver cursos",
+       "u": "https://levantehub.es/cursos"
+      }
+     ]
+    }
+   ],
+   "habito_diario": "Cada día: prepara la Academia y, los lunes, el curso gratis de la semana."
+  },
+  {
+   "id": "tuerca",
+   "nombre": "Tuerca",
+   "rol": "Web, herramientas y velocidad",
+   "color": "#e8890c",
+   "que_hace": "Cuida que la web cargue rápido, se vea bien en el móvil y que las herramientas funcionen.",
+   "horario": "Según se pida",
+   "trabajos": [
+    {
+     "estado": "resuelto",
+     "hora": "24-nov",
+     "titulo": "Tarjeta «Usar gratis» fuera de su cuadro: arreglada",
+     "enlaces": [
+      {
+       "t": "Ver herramientas",
+       "u": "https://levantehub.es/herramientas"
+      }
+     ]
+    },
+    {
+     "estado": "hecho",
+     "hora": "24-nov",
+     "titulo": "Submenú de Herramientas en la cabecera",
+     "enlaces": [
+      {
+       "t": "Ver la web",
+       "u": "https://levantehub.es"
+      }
+     ]
+    }
+   ],
+   "habito_diario": "Cada día: vigila velocidad, móvil y que las herramientas funcionen."
+  },
+  {
+   "id": "rumbo",
+   "nombre": "Rumbo",
+   "rol": "Google Business y mapas",
+   "color": "#2563eb",
+   "que_hace": "Se ocupa de fichas de Google, reseñas y que te encuentren en el mapa. Será la cara de los vídeos del 14 al 20 de dic.",
+   "horario": "Según se pida",
+   "trabajos": [
+    {
+     "estado": "proximo",
+     "hora": "Pendiente",
+     "titulo": "Completar la ficha de Google de LevanteHUB",
+     "nota": "Fotos, servicios y primeras reseñas. Sin fecha: asígnala tú.",
+     "enlaces": [
+      {
+       "t": "Ver servicio",
+       "u": "https://levantehub.es/google-business"
+      }
+     ]
+    }
+   ],
+   "habito_diario": "Cada día: revisa la ficha de Google y las reseñas nuevas."
+  },
+  {
+   "id": "captacion",
+   "nombre": "Captación",
+   "rol": "Buscar clientes nuevos (sin asignar)",
+   "color": "#64748b",
+   "que_hace": "Hoy lo hace solo la hoja de leads de las 7:34 (lunes a viernes). Propuesta: Lumen prospecta con datos (negocios con problemas medibles) y Rumbo aporta el gancho de Google Maps.",
+   "captacion": "Necesita responsable: decide tú quién y qué hace.",
+   "horario": "Lunes a viernes 07:34",
+   "trabajos": [
+    {
+     "estado": "proximo",
+     "hora": "Lun-vie 07:34",
+     "titulo": "Hoja de leads de pymes de Valencia",
+     "nota": "30-50 negocios con su gancho de llamada."
+    }
+   ],
+   "habito_diario": "Lunes a viernes 07:34: hoja de leads de pymes de Valencia."
+  }
+ ]
 }

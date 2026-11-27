@@ -7,3 +7,4 @@
 ## 2026-11-26
 - Sin hreflang visible en /academia/guias/google-ads-negocio-local (código levantehub-web).
 - support.google.com bloqueado para WebFetch/curl: tutoriales sin rutas de menú verificadas.
+- 27-nov: ElevenLabs sin créditos (16 de 131000). Ampliar plan. hreflang no visible en HTML de piezas (levantehub-web).
