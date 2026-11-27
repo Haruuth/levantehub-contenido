@@ -22,3 +22,10 @@ En media/AAAA-MM-DD_slug/LEEME-DEL-DIA.md añade al final: «Destacadas: <nombre
 
 ## Si no puede publicar
 Si BlueStacks o el PC de casa no están disponibles, no inventa nada: deja la historia y la destacada como pendientes para el dueño (una línea en el Panel, sin notificación) y las completa en el siguiente turno.
+
+## Pegar el texto en BlueStacks (27-nov: el portapapeles a veces pega un texto viejo)
+1. computer_write_clipboard con el texto exacto.
+2. Toca el campo de texto en Instagram, espera 2 segundos y pulsa Ctrl+V.
+3. Haz zoom y comprueba que las primeras palabras son las de hoy. Si sale un texto viejo: selecciona todo (mantén pulsado → Seleccionar todo), bórralo, vuelve a escribir el portapapeles, espera 3 segundos y pega otra vez.
+4. Si a la segunda sigue mal, escribe el texto con computer_type (sin emojis si no salen) en vez de pegarlo.
+5. Nunca dejes un reel a medias por esto: publica con el texto correcto aunque haya que escribirlo. Si de verdad no se puede, tarjeta "error" con accion_tuya «Pegar el texto y pulsar Compartir».
