@@ -3,3 +3,4 @@
 - Carrusel de 7 imágenes y 3 stories: HECHOS.
 - AVISO: la cuenta de ElevenLabs se quedó sin créditos (quedaban 16 de 131000) tras 13 de las 17 voces. No se repitió ninguna generación. El Short reutiliza 3 voces del reel (vídeo en una toma, enseña rótulo, código no llega) más resumen y cierre; por eso el cierre del Short dice «Guarda este reel». Hay que ampliar créditos de ElevenLabs para mañana.
 - Historias destacadas: no hechas (las sube el dueño a mano).
+- 27-nov 12:55 · ElevenLabs con créditos: rehecho el cierre del Short con voz de Lumen (Ernesto): «Guarda este Short…» en lugar de «Guarda este reel». short-youtube.mp4 actualizado (-14 LUFS).
