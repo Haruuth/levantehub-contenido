@@ -84,7 +84,7 @@ El dueño abre cada tarjeta y tiene que poder ver TODO lo que has hecho sin busc
 
 Traducciones: la URL usa el slug TRADUCIDO, el campo `slug` de `traducciones/<en|ru>/<slug_es>.json`, nunca el español. Rutas: `/en/guides/<slug>` o `/en/radar/<slug>`, `/ru/rukovodstva/<slug>` o `/ru/radar/<slug>`. Un 200 no basta: la web devuelve la portada con 200 cuando la ruta no existe. Comprueba con WebFetch que el título de la página es el del artículo; si sale la portada, la tarjeta va con `estado:"error"` y el motivo.
 
-Textos para redes (campo `publicar`): uno por plataforma, adaptado y optimizado para su buscador: Instagram con gancho en la primera línea, palabras clave en el texto y 8-12 hashtags; YouTube con título de 70 caracteres máximo con la palabra clave al principio y descripción con enlace y #Shorts; TikTok con texto corto y 3-5 hashtags si se publica allí.
+Textos para redes (campo `publicar`): uno por plataforma, adaptado y optimizado para su buscador: Instagram con gancho en la primera línea, palabras clave en el texto y máx. 5 hashtags; YouTube con título de 70 caracteres máximo con la palabra clave al principio y descripción con enlace y #Shorts; TikTok con texto corto y 3-5 hashtags si se publica allí.
 
 ## Reels, Shorts y posts que el director sube a mano: campo `publicar` (obligatorio)
 
