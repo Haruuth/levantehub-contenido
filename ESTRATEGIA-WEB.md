@@ -26,7 +26,8 @@ La web trabaja de forma pasiva: la mejor web en español para APRENDER SEO, SEM 
 5. Preparar huecos de afiliación (AAWP) pero desactivados.
 
 ## Vídeo: reglas
-- ElevenLabs solo se usa para VOZ (nunca imágenes, vídeo ni música allí). Presupuesto: ~1.500 caracteres al día (reel + Short).
+- ELEVENLABS (dueño, 27-nov): SOLO VOZ. Ningún trabajador ni herramienta genera en ElevenLabs imágenes, vídeos, música ni efectos: todo lo visual se hace con Claude (código, grabaciones de pantalla, fotos y vídeos reales del negocio). Modelo de voz: eleven_multilingual_v2, 1 generación por frase, sin repetir.
+- PRESUPUESTO DE VOZ: antes de generar, mira account_get_usage (quedan = character_limit − character_count; días = días hasta next_character_count_reset_unix). Prioridad 1: reel y Short diarios de LevanteHUB (~1.500/día), siempre. Lo demás (reels de clientes, vídeos de lecciones del curso, extras) solo si después queda reserva: quedan − coste ≥ días × 1.500. Si no llega, ese vídeo va con música y subtítulos, sin voz, y se anota en ESTADO.txt y en la tarjeta.
 - Todos los reels y Shorts llevan VOZ y SUBTÍTULOS siempre. Cada personaje tiene su propia voz e identidad (guardar voice_id en tools/instagram/voces.json). Si no se puede generar voz, no se programa: se deja en media/ y se avisa.
 - Los personajes están en primer plano: presentan, señalan y enseñan en pantalla la guía, tutorial, novedad o recomendación del día.
 - Mismo tema que la pieza de las 6:00. Reel optimizado para Instagram; Short con formato distinto, adaptado a YouTube.

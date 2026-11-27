@@ -46,5 +46,5 @@ Un curso nuevo, gratuito y público cada lunes, en `cursos/AAAA-MM-DD_slug.json`
 ## Reglas
 - Todo gratis: sin precios, sin "comprar", sin registro. CTA: "Empezar", y mención suave a los servicios al final.
 - Muy explicativo, fácil de aplicar, sin humo; datos y ejemplos reales de negocios locales (Valencia cuando proceda).
-- Vídeos de lección: voz del personaje (ElevenLabs, `voces.json`), formato vertical como los tutoriales; si no se pueden generar ese lunes, publicar el curso sin vídeo y anotarlo.
+- Vídeos de lección: voz del personaje (ElevenLabs, `voces.json`, SOLO voz), formato vertical como los tutoriales. Aplica el PRESUPUESTO DE VOZ de ESTRATEGIA-WEB.md: primero el reel y el Short de presentación; las lecciones con voz solo si hay reserva (si no, con música y subtítulos). Nunca imágenes ni vídeo de ElevenLabs.
 - Tras publicar: crear el Reel/Short/post/story del lunes sobre el curso y enlazarlo, igual que la pieza de las 6:00.
