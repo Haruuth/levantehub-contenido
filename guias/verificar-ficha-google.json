@@ -172,5 +172,8 @@
    "q": "¿Y si mi ficha está suspendida?",
    "a": "Es otro caso: sigue el tutorial de apelar una ficha suspendida."
   }
- ]
+ ],
+ "video": {
+  "url": "https://cdn.jsdelivr.net/gh/Haruuth/levantehub-contenido@main/media/2026-11-27_verificar-ficha-google/reel-short.mp4"
+ }
 }

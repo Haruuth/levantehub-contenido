@@ -1,0 +1,5 @@
+27-nov-2026 · Fase C
+- Reel (54 s) y Short (23 s) con voz de Lumen (Ernesto): HECHOS, audio -14 dB / -13 dB.
+- Carrusel de 7 imágenes y 3 stories: HECHOS.
+- AVISO: la cuenta de ElevenLabs se quedó sin créditos (quedaban 16 de 131000) tras 13 de las 17 voces. No se repitió ninguna generación. El Short reutiliza 3 voces del reel (vídeo en una toma, enseña rótulo, código no llega) más resumen y cierre; por eso el cierre del Short dice «Guarda este reel». Hay que ampliar créditos de ElevenLabs para mañana.
+- Historias destacadas: no hechas (las sube el dueño a mano).
