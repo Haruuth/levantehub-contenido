@@ -199,6 +199,34 @@
       ],
       "investigacion": "investigacion/demanda/2026-11-25.md",
       "condicion": "Aplazada el 26-nov: una sola fuente (SER 23-nov). Publicar como novedad solo si otro medio o la ayuda oficial de Google lo confirma; si no, descartar."
+    },
+    {
+      "fecha_objetivo": "2026-11-29",
+      "tipo": "tutorial",
+      "department": "servicios-web",
+      "slug": "comprar-dominio-es",
+      "area": "SEO",
+      "keyword_principal": "comprar dominio .es",
+      "tema": "Cómo comprar un dominio .es paso a paso para tu negocio de Valencia: elegir nombre, comprobar disponibilidad, registrarlo a tu nombre, privacidad de datos, renovación y errores que cuestan caro",
+      "por_que": "Search Console (sc-domain:levantehub.es, 28 días, Windsor, consultado 28-nov): la familia «comprar dominio .es» suma 11 impresiones en 6 consultas («comprar dominios es» 4, «comprar dominio .es» 2, «comprar dominio es» 2, «como comprar un dominio .es» 1, «comprar dominio.es» 1, «comprar dominios .es» 1), 0 clics, posiciones 57-83, y no hay pieza propia en guias/. Trends: consulta fallida hoy (Supermetrics pide una consulta por término), sin dato. Competencia (solo titulares SERP 28-nov, por confirmar al leerlas): Arsys, IONOS, Shopify, Kinsta, Hostinger, GoDaddy, EuroDNS, the.hosting; son tiendas de dominios, ninguna independiente ni con ejemplo local de Valencia.",
+      "huecos_a_cubrir": [
+        "guía independiente sin vender un registrador concreto",
+        "qué es el .es y quién puede registrarlo (verificar en dominios.es / Red.es)",
+        "registrar el dominio a nombre del negocio, no de la agencia ni del freelance",
+        "datos de contacto y privacidad, renovación y caducidad",
+        "errores típicos: dominio a nombre de otro, no renovar, comprar de más",
+        "ejemplo local: peluquería, clínica o taller de Valencia",
+        "FAQ 5-6 dudas reales; sin precios inventados"
+      ],
+      "fuentes": [
+        "https://www.dominios.es/",
+        "https://www.arsys.es/blog/como-comprar-un-dominio-web-paso-a-paso",
+        "https://www.hostinger.com/es/tutoriales/como-comprar-nombre-de-dominio/"
+      ],
+      "enlaces_previstos": [
+        "guias/que-debe-tener-la-web-de-un-negocio-local"
+      ],
+      "investigacion": "investigacion/keywords/2026-11-28.md"
     }
   ]
 }
