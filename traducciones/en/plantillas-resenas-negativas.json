@@ -1,0 +1,179 @@
+{
+ "slug": "negative-review-templates",
+ "slug_es": "plantillas-resenas-negativas",
+ "es_path": "/google-business/guias/plantillas-resenas-negativas",
+ "tipo": "guia",
+ "title": "How to Reply to Negative Google Reviews: Templates by Business Type",
+ "description": "Copy-and-adapt templates for replying to negative Google reviews: hair salon, clinic, garage and restaurant, with Valencia examples and what never to say.",
+ "date": "2026-11-28",
+ "character": "nuri",
+ "tags": [
+  "reply to negative reviews",
+  "Google reviews",
+  "templates",
+  "Google Business Profile",
+  "online reputation",
+  "Valencia"
+ ],
+ "answer": {
+  "question": "How do you reply to a negative review on Google?",
+  "text": "Reply publicly, quickly and calmly: say thanks, acknowledge whatever is genuinely true, offer a solution and move the conversation to a private channel, with no personal data and no attacks. The templates below follow that four-sentence order and only change the details depending on your industry and the type of complaint."
+ },
+ "intro": "A one-star review lands and you do not know what to say without making it worse. Here are templates by industry (hair salon, clinic, garage and restaurant) and by type of complaint, with examples from Valencia, what to avoid and when you should report the review instead of replying. Content reviewed on 28 November 2026; Google's content policy is the source that rules if anything changes.",
+ "body": [
+  {
+   "type": "answer",
+   "question": "How do you reply to a negative review on Google?",
+   "text": "Reply publicly, quickly and calmly: say thanks, acknowledge whatever is genuinely true, offer a solution and move the conversation to a private channel, with no personal data and no attacks. The templates below follow that four-sentence order and only change the details depending on your industry and the type of complaint."
+  },
+  {
+   "type": "tip",
+   "title": "Three things few people know",
+   "text": "1) Your reply is public, and it will be read mostly by the new customer comparing businesses, not so much by the person who wrote the complaint. 2) Google says you do not need to thank every reviewer: reply above all when you add new or relevant information. 3) A review being unfair is not enough to get it removed: only reviews that break Google's content policy are taken down.",
+   "mood": "thinking"
+  },
+  {
+   "type": "h2",
+   "text": "The four-sentence formula"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "A short greeting and thanks, using the name shown on the review.",
+    "Acknowledge what is concretely true, with no excuses and no sarcasm.",
+    "Say what you will do or what you have changed.",
+    "Invite them to continue in private (phone or email) and sign with your name."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Our advice: 60-80 words at most. Google recommends short, fast replies; a very long reply looks like an argument. For the detail of each step and how to report fake reviews, see our guide on replying to negative reviews and reporting fake ones, which this piece complements with ready-made models."
+  },
+  {
+   "type": "h2",
+   "text": "Hair salon and beauty"
+  },
+  {
+   "type": "p",
+   "text": "Complaint about the result (colour or cut): \"Hi Marta, thank you for telling us, and we are sorry the colour was not what you expected. We would like to go over it with you and adjust it free of charge. Write to hello@yoursalon.es or call us on 96X XXX XXX and we will find a slot this week. Laura\"."
+  },
+  {
+   "type": "p",
+   "text": "Complaint about waiting: \"Hi Sergio, you are right that your appointment started late. We checked the diary for that Saturday and there was an overlap that should not have happened. We have separated the long treatments to avoid it. Thank you for letting us know. Laura\"."
+  },
+  {
+   "type": "h2",
+   "text": "Clinic (dental, physiotherapy, podiatry)"
+  },
+  {
+   "type": "p",
+   "text": "The key here is to neither confirm nor deny that the person was a patient, and not to mention treatments: that is health data. Use a general reply: \"Hello, we are sorry your experience was not a good one. For confidentiality reasons we cannot discuss specific cases in public, but we want to hear from you. Please call reception (96X XXX XXX) or write to contact@yourclinic.es and we will review it with the management. The Clinic X team\"."
+  },
+  {
+   "type": "tip",
+   "title": "Typical mistake",
+   "text": "Replying \"during your Tuesday visit we did a cleaning and there were no problems\". Even if you feel attacked, you are revealing patient data. Always keep it general and move to a private channel.",
+   "mood": "idle"
+  },
+  {
+   "type": "h2",
+   "text": "Garage"
+  },
+  {
+   "type": "p",
+   "text": "Complaint about price or delay: \"Hi Andrés, thank you for your feedback. We understand the delivery took longer than promised: we were waiting for a part that arrived late and we should have told you sooner. From now on we call the customer as soon as a date changes. If you would like to go through the invoice with us, we are on 96X XXX XXX. Garage Y\"."
+  },
+  {
+   "type": "p",
+   "text": "Complaint about warranty: \"Hi Raquel, we are sorry the problem has come back. Bring the car in with your invoice and we will check it with no obligation to see whether it is covered by the warranty. You can book on 96X XXX XXX. Garage Y\"."
+  },
+  {
+   "type": "h2",
+   "text": "Restaurant"
+  },
+  {
+   "type": "p",
+   "text": "Complaint about service: \"Hi Javier, thank you for letting us know. You are right that the dishes on the terrace took too long. We have reorganised the weekend kitchen shifts. We would like to invite you for a coffee and a calm chat; write to us at bookings@yourrestaurant.es. Pau, manager\"."
+  },
+  {
+   "type": "p",
+   "text": "Complaint about the food: \"Hi Irene, we are sorry the rice was not cooked to perfection. We have talked it over with the kitchen. If you tell us the day and the table, we will look into it and make it up to you. Pau\". Careful: offer a solution to the person who complained, but do not offer gifts in exchange for deleting the review; that is our own advice and it avoids trouble."
+  },
+  {
+   "type": "h2",
+   "text": "What never to say"
+  },
+  {
+   "type": "list",
+   "items": [
+    "No private data: full name, the service they bought or health information.",
+    "No irony, no \"you are lying\" and no insults: if you think it is fake, report it and reply neutrally.",
+    "Do not copy and paste the same reply on every review: it shows and costs you trust.",
+    "Do not ask them to remove it in exchange for money, discounts or gifts."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "When not to reply, and report instead"
+  },
+  {
+   "type": "p",
+   "text": "If the review comes from someone who was never a customer, contains personal data, insults or advertising, or looks like it was written by a competitor or by your own staff, it is not criticism: it is content that may break Google's policy. Report it from your profile, keep dated screenshots and, while Google decides, reply neutrally. Google does not guarantee or publish a fixed timeframe and menus change, so confirm the route in its official help (\"Report inappropriate reviews\")."
+  },
+  {
+   "type": "h2",
+   "text": "A complete example, step by step"
+  },
+  {
+   "type": "p",
+   "text": "A one-star review: \"I waited 40 minutes and nobody told me\". You reply the same day. You check the diary (is it true?). If it is, you use the formula: thanks, acknowledge the delay, say what you have changed (a WhatsApp heads-up) and offer to talk in private. If you cannot find that person, you calmly say you cannot trace them and ask them to get in touch. Two minutes, read by everyone searching for businesses like yours."
+  },
+  {
+   "type": "checklist",
+   "title": "Before you publish your reply",
+   "items": [
+    "I have checked the facts in my diary, till or booking book.",
+    "I start with thanks and acknowledge something concrete and true.",
+    "There is no private data, irony or accusation.",
+    "I offer a solution and a private channel.",
+    "It is under 80 words and signed with a name.",
+    "If it is fake or abusive, I have reported it and saved screenshots."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Next free lesson"
+  },
+  {
+   "type": "p",
+   "text": "If you have few reviews, start by collecting them properly with the official link and QR code: see our guide on asking for reviews without incentives. And if you would rather hand over the management of your Google profile and local SEO, LevanteHUB can help you in Valencia."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do I have to reply to every negative review?",
+   "a": "It is worth doing for those that include something you can clarify or fix. Google says you do not need to thank every reviewer, but a calm reply to a genuine criticism builds trust."
+  },
+  {
+   "q": "How long does it take for my reply to appear?",
+   "a": "It is public on your profile; Google does not publish a fixed timeframe, so if you do not see it straight away, check back later and confirm in its official help."
+  },
+  {
+   "q": "Can I ask for an unfair review to be removed?",
+   "a": "Only if it breaks Google's content policy. Being negative or unfair is not enough. Report it from your profile giving the specific reason and keep screenshots."
+  },
+  {
+   "q": "What do I do if the customer is right?",
+   "a": "Acknowledge it, explain what you have changed and offer a solution. It is the reply that positions you best with people comparing businesses."
+  },
+  {
+   "q": "Can I offer something in exchange for deleting the review?",
+   "a": "Better not: it can end in a dispute and is not good practice. Solve the problem in private and, if the customer decides to, let them edit their own review."
+  },
+  {
+   "q": "What if I have received fake negative reviews within a few days?",
+   "a": "Report each one with the specific reason, keep screenshots and read our guide on fake reviews and extortion on Google Maps on our website."
+  }
+ ]
+}
