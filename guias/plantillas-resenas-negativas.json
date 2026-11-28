@@ -1,0 +1,178 @@
+{
+  "slug": "plantillas-resenas-negativas",
+  "tipo": "guia",
+  "title": "Plantillas para responder reseñas negativas en Google",
+  "description": "Plantillas listas para copiar y adaptar para responder reseñas negativas en Google según tu sector: peluquería, clínica, taller y restaurante en Valencia.",
+  "intro": "Te llega una reseña de una estrella y no sabes qué contestar sin empeorarlo. Aquí tienes plantillas por sector (peluquería, clínica, taller y restaurante) y por tipo de queja, con ejemplos de Valencia, qué evitar y cuándo no responder sino denunciar. Contenido revisado el 28-nov-2026; la política de contenido de Google es la fuente que manda si algo cambia.",
+  "department": "google-business",
+  "date": "2026-11-28",
+  "tags": [
+    "responder reseñas negativas",
+    "reseñas Google",
+    "plantillas",
+    "Google Business Profile",
+    "reputación online",
+    "Valencia"
+  ],
+  "related": [
+    "responder-resenas-negativas-google-y-denunciar-falsas",
+    "pedir-resenas-google-enlace-qr-oficial-sin-incentivos",
+    "conseguir-resenas-google",
+    "crear-y-verificar-ficha-google-business"
+  ],
+  "body": [
+    {
+      "type": "answer",
+      "question": "¿Cómo se responde a una reseña negativa en Google?",
+      "text": "En público, pronto y con calma: agradece, reconoce lo concreto que sea cierto, ofrece una solución y lleva la conversación a un canal privado, sin datos personales ni ataques. Las plantillas de abajo siguen ese orden de cuatro frases y solo cambian los detalles según tu sector y el tipo de queja."
+    },
+    {
+      "type": "tip",
+      "title": "Tres cosas poco conocidas",
+      "text": "1) Tu respuesta es pública y la leerá el cliente nuevo que compara negocios, no tanto quien escribió la queja. 2) Google indica que no hace falta dar las gracias a cada autor: responde sobre todo cuando aportes información nueva o relevante. 3) Que la reseña sea injusta no basta para eliminarla: solo se retiran las que incumplen la política de contenido de Google."
+    },
+    {
+      "type": "h2",
+      "text": "La fórmula de cuatro frases"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Saludo y gracias breves, con el nombre que aparece en la reseña.",
+        "Reconoce lo concreto que sea cierto, sin excusas ni sarcasmo.",
+        "Di qué vas a hacer o qué has cambiado.",
+        "Invita a seguir en privado (teléfono o correo) y firma con tu nombre."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Nuestro consejo: máximo 60-80 palabras. Google recomienda respuestas breves y rápidas; una respuesta larguísima parece una discusión. Para el detalle de cada paso y la denuncia de reseñas falsas, tienes la guía de responder reseñas negativas y denunciar falsas, que esta pieza complementa con modelos listos."
+    },
+    {
+      "type": "h2",
+      "text": "Peluquería y estética"
+    },
+    {
+      "type": "p",
+      "text": "Queja de resultado (color o corte): «Hola, Marta, gracias por contárnoslo y lamentamos que el color no fuera el que esperabas. Nos gustaría revisarlo contigo y ajustarlo sin coste. Escríbenos a hola@tupeluqueria.es o llámanos al 96X XXX XXX y buscamos hueco esta semana. Laura»."
+    },
+    {
+      "type": "p",
+      "text": "Queja de espera: «Hola, Sergio, tienes razón en que tu cita empezó tarde. Hemos revisado la agenda de ese sábado y hubo un solapamiento que no debió pasar. Hemos separado los servicios largos para evitarlo. Gracias por avisarnos. Laura»."
+    },
+    {
+      "type": "h2",
+      "text": "Clínica (dental, fisioterapia, podología)"
+    },
+    {
+      "type": "p",
+      "text": "Aquí la clave es no confirmar ni desmentir que esa persona fue paciente ni mencionar tratamientos: son datos de salud. Usa una respuesta general: «Hola, lamentamos que tu experiencia no haya sido buena. Por confidencialidad no podemos hablar de casos concretos en público, pero queremos escucharte. Llama a recepción (96X XXX XXX) o escribe a atencion@tuclinica.es y lo revisamos con la dirección. Equipo de Clínica X»."
+    },
+    {
+      "type": "tip",
+      "title": "Error típico",
+      "text": "Responder «en su visita del martes le hicimos una limpieza y no hubo problemas». Aunque te sientas atacado, estás revelando datos del paciente. Hazlo siempre en general y pasa a un canal privado."
+    },
+    {
+      "type": "h2",
+      "text": "Taller mecánico"
+    },
+    {
+      "type": "p",
+      "text": "Queja de precio o retraso: «Hola, Andrés, gracias por tu opinión. Entendemos que el plazo de entrega fue más largo de lo prometido: esperábamos una pieza que llegó tarde y debimos avisarte antes. Desde ahora llamamos al cliente en cuanto hay un cambio de fecha. Si quieres revisar la factura con nosotros, estamos en el 96X XXX XXX. Taller Y»."
+    },
+    {
+      "type": "p",
+      "text": "Queja de garantía: «Hola, Raquel, lamentamos que el problema haya vuelto. Tráenos el coche con tu factura y lo revisamos sin compromiso para ver si entra en garantía. Puedes pedir cita en el 96X XXX XXX. Taller Y»."
+    },
+    {
+      "type": "h2",
+      "text": "Restaurante"
+    },
+    {
+      "type": "p",
+      "text": "Queja de servicio: «Hola, Javier, gracias por avisarnos. Tienes razón en que los platos de la terraza tardaron demasiado. Hemos reorganizado los turnos de cocina de fin de semana. Nos gustaría invitarte a un café y charlar con calma; escríbenos a reservas@turestaurante.es. Pau, encargado»."
+    },
+    {
+      "type": "p",
+      "text": "Queja de comida: «Hola, Irene, lamentamos que el arroz no estuviera en su punto. Lo hemos comentado con cocina. Si nos cuentas el día y la mesa, lo revisamos y te lo compensamos. Pau». Ojo: ofrece solución a quien se quejó, pero no ofrezcas regalos a cambio de que borre la reseña; eso es consejo nuestro y evita problemas."
+    },
+    {
+      "type": "h2",
+      "text": "Qué no decir nunca"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Nada de datos privados: nombre completo, servicio contratado o información de salud.",
+        "Ni ironía, ni «usted miente», ni insultos: si crees que es falsa, denúnciala y responde con neutralidad.",
+        "No copies y pegues la misma respuesta en todas: se nota y resta confianza.",
+        "No pidas que la retire a cambio de dinero, descuentos o regalos.",
+        "No pongas 'respondo desde mi cuenta personal': contesta siempre desde la cuenta del negocio."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Cuándo no responder y denunciar"
+    },
+    {
+      "type": "p",
+      "text": "Si la reseña es de alguien que nunca fue cliente, contiene datos personales, insultos, publicidad o parece escrita por un competidor o por el propio personal, no se trata de una crítica: es contenido que puede incumplir la política de Google. Denúncialo desde tu perfil, guarda capturas con fecha y, mientras Google decide, responde de forma neutra. Google no garantiza ni publica un plazo fijo y los menús cambian, así que confirma la ruta en su ayuda oficial («Denunciar reseñas inapropiadas»)."
+    },
+    {
+      "type": "h2",
+      "text": "Un ejemplo completo, paso a paso"
+    },
+    {
+      "type": "p",
+      "text": "Una reseña de una estrella: «Esperé 40 minutos y nadie me avisó». Contestas el mismo día. Compruebas la agenda (¿es cierto?). Si lo es, usas la fórmula: gracias, reconoces el retraso, cuentas qué has cambiado (aviso por WhatsApp) y ofreces hablar en privado. Si no encuentras a esa persona, dices con calma que no la localizas y pides que te contacte. Dos minutos que lee todo el que busca negocios como el tuyo."
+    },
+    {
+      "type": "checklist",
+      "title": "Antes de publicar tu respuesta",
+      "items": [
+        "He comprobado los hechos en mi agenda, TPV o libro de reservas.",
+        "Empiezo con gracias y reconozco algo concreto y cierto.",
+        "No hay datos privados, ironía ni acusaciones.",
+        "Ofrezco una solución y un canal privado.",
+        "Mide menos de 80 palabras y está firmada con un nombre.",
+        "Si es falsa o abusiva, la he denunciado y guardado capturas."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Siguiente lección gratuita"
+    },
+    {
+      "type": "p",
+      "text": "Si tienes pocas reseñas, empieza por conseguirlas bien con el enlace y el QR oficial: tienes la guía de pedir reseñas sin incentivos. Y si prefieres delegar la gestión de tu ficha de Google y tu SEO local, LevanteHUB puede ayudarte en Valencia."
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Tengo que responder a todas las reseñas negativas?",
+      "a": "Conviene hacerlo con las que aporten algo que se pueda aclarar o corregir. Google señala que no es necesario dar las gracias a cada autor, pero una respuesta serena a una crítica real transmite confianza."
+    },
+    {
+      "q": "¿Cuánto tarda en aparecer mi respuesta?",
+      "a": "Es pública en tu ficha; Google no publica un plazo fijo, por lo que si no la ves al momento revisa más tarde y confirma en su ayuda oficial."
+    },
+    {
+      "q": "¿Puedo pedir que retiren una reseña injusta?",
+      "a": "Solo si incumple la política de contenido de Google. Que sea negativa o injusta no basta. Denúnciala desde tu perfil con el motivo concreto y guarda capturas."
+    },
+    {
+      "q": "¿Qué hago si el cliente tiene razón?",
+      "a": "Reconócelo, explica qué has cambiado y ofrece solución. Es la respuesta que mejor te posiciona ante quien compara negocios."
+    },
+    {
+      "q": "¿Puedo ofrecer algo a cambio de que borre la reseña?",
+      "a": "Mejor no: puede acabar en un conflicto y no es una buena práctica. Resuelve el problema en privado y, si el cliente lo decide, que modifique su reseña por sí mismo."
+    },
+    {
+      "q": "¿Y si me han puesto reseñas negativas falsas en pocos días?",
+      "a": "Denuncia cada una con el motivo concreto, guarda capturas y consulta la guía de reseñas falsas y extorsión de Google Maps en nuestra web."
+    }
+  ]
+}
